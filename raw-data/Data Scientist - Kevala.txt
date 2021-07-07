@@ -1,0 +1,38 @@
+﻿At Kevala, we are on an urgent mission to decarbonize the global energy economy using the most comprehensive data sets available on earth. We are a group of ambitious intellectuals who embrace unconventional approaches to solving complex problems. We foster a culture where all are encouraged to collaborate, be creative, and above all - support each other in our collective endeavors. As a fast-growing start-up, we are looking for individuals who are passionate about accelerating a sustainable clean energy future and excited to join in on our mission to make energy-related data meaningful, transparent, and broadly accessible.  
+
+
+Kevala is looking for a Data Scientist to join our Data Science and Methodology team. This individual will help develop creative data-driven solutions to difficult and often unconventional problems; collaborate with project and product stakeholders to ensure the solutions are valid, appropriate, and delivered on schedule; and own development of these solutions all the way into production. The team works through problems that address all aspects of the electric grid: solar power, electric vehicles, energy efficiency, demand response, batteries, wholesale markets, and more. If you enjoy collaborating with other professionals who believe in accelerating a sustainable clean energy future by making electric and environmental data meaningful, transparent, and broadly accessible, we encourage you to apply.
+What you will be doing
+   * Research and development on a wide variety of challenging grid-related data problems
+   * Developing models to predict grid behavior, from simple heuristics to machine learning systems
+   * Writing research reports, whitepapers, and other documentation to explain how our models work
+What you need to succeed
+   * Experience developing research questions and designing experiments to test hypotheses
+   * Creative problem-solving skills
+   * Professional-grade Python development skills, particularly the Pandas, Numpy, SciPy, scikit-learn data science stack
+   * Excellent written and verbal communication skills
+   * Collaborative mindset, curiosity, and eagerness to learn
+What will make you stand out
+   * Working knowledge of principles and libraries for geospatial and time series analysis
+   * Experience developing time series forecasting models
+   * Experience developing graph/network models
+   * Economics background and/or optimization experience
+   * Experience in the utility, green energy, cleantech, regulatory, or automotive industries
+   * Experience with the growth trajectory of a small start-up
+   * Experience with git and collaborative software development
+Location
+We are headquartered in San Francisco, but we embrace the virtual office and are continuing to grow our team across the United States. 
+
+
+Salary Range
+$70,000-150,000 (dependent upon relevant experience and location)
+
+
+Who we are 
+Our team is passionate about decarbonizing the electric grid. We are focused on solving the challenges facing energy market participants interacting with the evolving electricity grid. America’s aging electric system is facing rapid transformation from changing technology and proliferation of distributed energy resources. Kevala is providing data and analysis to accelerate smart investment in a world served by a more robust, environmentally sustainable, effective, and safe grid. The principle of creating a better future by mapping our mutual energy sources and systems is the foundation for everything we do. 
+
+
+We are an equal opportunity employer that believes a diverse team will not just lead to a better working environment but will also help us create better products and services.
+
+
+Kevala is committed to the full inclusion of all qualified individuals. If any reasonable accommodation is needed in our process, please reach out to careers@kevalaanalytics.com.

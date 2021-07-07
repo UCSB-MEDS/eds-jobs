@@ -1,0 +1,40 @@
+﻿Environmental Information Specialist
+
+
+Location
+North Vancouver/New Westminster, BC
+Description
+Hatfield Consultants is seeking an Environmental Information Specialist for our growing Environmental Data Analytics team in North Vancouver. Hatfield provides customized data analytics and information management support to our diverse Canadian and global portfolio of projects in environmental management and community development.
+As an Environmental Information Specialist, you will provide data analytics and information management services on a wide variety of environmental management and monitoring projects. The ideal candidate will be comfortable conducting a wide variety of data-driven activities, including statistical data analysis in R, development and implementation of project-specific and company-wide data-management protocols, and supporting the design, development and validation of internally developed data-management applications. This individual will play an integral role in the ongoing evolution of Hatfield’s Environmental Data Analytics team, with considerable scope for career development and advancement.
+Strong communication skills and the ability to understand the unique technical and data-communications needs of a wide range of clients are important in this position.
+Responsibilities:
+Specific Duties and Responsibilities:
+* Support data analysis, management and validation for a variety of environmental management and monitoring projects.
+* Create, coordinate and contribute to environmental data analysis and synthesis using tools created in R.
+* Coordinate and support Hatfield’s broad Environmental Data Analytics Team to ensure best practices for data management and analytics are being maintained.
+* Provide technical support for clients and Hatfield staff using our in-house environmental data management systems.
+* Provide guidance to Hatfield’s application development team that is developing EnviroData (www.envirodata.io).
+* Perform end-user software testing to support Hatfield’s application development team.
+* Liaise between clients and Hatfield’s application development team to understand specific client needs, present recommendations, and adapt activities based on client feedback.
+* Develop cost estimates and manage budgets for projects of varying size and scope.
+* Write proposals, contribute to specification documents and identify business opportunities.
+Education and Experience:
+Required Skills and Experience:
+* Experience with environmental management/monitoring projects and the analysis of associated datasets (such as water quality data, fisheries data, hydrology data, etc.).
+* Experience conducting statistical analyses of environmental datasets using R and/or Python.
+* Experience with the field collection of physical, chemical, and/or biological samples and data. The candidate must be willing to participate in field surveys to support environmental monitoring projects.
+* B.Sc. or higher degree.
+* 2+ years’ experience.
+* Exceptional listening, organizing and self-learning skills.
+* Strong troubleshooting and analytical skills.
+* Self-motivated and able to work independently.
+* Experience building strong working relationships with stakeholders and clients.
+* Values diversity and collaboration.
+* Ability to work in a team context with software developers and non-technical users.
+* Excellent verbal and written communication skills.
+* Must be legally eligible to work in Canada.
+Additional Skills and Experience Considered a Strong Asset:
+* Consulting experience, particularly environmental consulting.
+* International work or volunteer experience.
+* Experience providing validation reviews of software systems and contributing to software design and development specifications.
+* Experience designing and implementing interactive web-based data-visualization systems.

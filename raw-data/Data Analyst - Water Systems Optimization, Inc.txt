@@ -1,0 +1,54 @@
+﻿Water Systems Optimization, Inc.
+Job Posting: Data Analyst Full Time, remote
+
+
+About WSO:
+Water Systems Optimization (WSO) is a consulting firm that partners with public water utilities to reduce water losses. We focus on supply-side efficiency as a solution to water scarcity. Our services include water auditing, non-revenue water program planning, leak detection, and pressure management. WSO is also the leading firm on most recent research efforts on North American water loss control.
+WSO’s team is a small, motivated, and ambitious crew of water enthusiasts. We are excited to expand and meet growing national interest in water distribution efficiency. We share a strong belief in the need for improved water management and are confident in the benefits of our work. Please review the following job description, qualifications, and instructions to apply to join our team.
+WSO does not discriminate in employment matters on the basis of race, color, religion, gender, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class. WSO believes that diversity of experience and identity will consistently lead to a better company and broader impact, and we actively encourage everyone to consider becoming a part of our team.
+Location: Flexible. This position will be set up for working remotely.
+Compensation: WSO offers competitive salaries commensurate with experience, a matched 401K savings plan, 20 days annual leave entitlement, and an annual performance bonus.
+Responsibilities: This position will begin with a three-month trial period during which significant training and learning is expected. Upon meeting WSO's expectations, the position will become permanent.
+In due time, responsibilities for this position will include the following:
+* Water loss management proficiency – develop and apply a sound understanding of the best practices for distribution water loss management
+* Data analysis – analyze water utility data using excel and scripts written in R (e.g. production time series, billing records, logged pressure data) to evaluate and value distribution system water loss
+* Report writing – clearly present, narrate, and synthesize data analysis, quantitative and qualitative uncertainty, project findings, and programmatic recommendations
+* Client communication and education – clearly communicate findings and recommendations and effectively teach water loss management concepts to clients and partners in formal and informal settings
+Initially, the new team member will complete tasks assigned by colleagues to advance projects and learn water loss analysis, client communication, and strategy design. With time, this new team member will more fully expand their portfolio of work and partner with colleagues as necessary to accomplish project work.
+
+
+ 
+Skills and Qualifications:
+Education: Bachelor’s Degree
+Experience: At least 3 years of job experience that shows mastery of data analysis, technical writing, and task/time management
+Because our work is interdisciplinary and requires fluency in both analysis and communication, an ideal candidate has:
+●      Familiarity with water distribution networks, water agencies, and/or water policy
+●      Project management experience
+●      Excellent computer skills
+●      Experience with coding  data analysis (proficiency with R preferred)
+●      GIS capabilities
+●      Experience cleaning, processing, analyzing, and presenting (i.e., effective data visualizations) large, inconsistent datasets
+●      Demonstrated ability in synthesis, technical writing, and communication of findings
+●      Comfort and skill in verbally presenting technical concepts in client meetings and conference presentations
+
+
+The ideal candidate is:
+●      Motivated to resolve water management challenges
+●      Organized and detail-oriented
+●      Able to manage, prioritize, and execute tasks for multiple ongoing projects
+●      Able to think on their feet and improvise
+●      A self-starter who can work independently under limited supervision
+●      Positive and proactive
+●      Comfortable with uncertainty in analysis and outcomes
+●      Experienced in leading conversations and problem solving with clients
+●      Prepared to travel for on-site work (must have a driver’s license)
+
+
+To Apply:
+Please send an email with the subject line “Data Analyst Application” to Julie Jacobs at julie.jacobs@wso.us with the following attached as one PDF:
+1.       Cover letter
+2.       Resume
+Timeline:
+●     Applications are due no later than Friday, February 12, 2021 by 5:00pm Pacific Daylight Time.
+●     WSO will conduct multiple rounds of interviews with select candidates. If invited to interview, WSO will provide you details for preparation.
+●     WSO plans to welcome our next team member in March or April 2021.

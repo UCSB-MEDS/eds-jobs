@@ -1,0 +1,23 @@
+﻿Data / SQL Engineer - Recyclist (Truckee, CA)
+Recyclist is seeking a Data / SQL Engineer to join our Engineering Team. The Data / SQL Engineer works closely with our Product Team to develop, maintain, expand and optimize our data to meet the requirements of our customers. The Data / SQL Engineer executes and develops SQL to transform varied datasets provided by our customers into standard data. They also perform additional data manipulations within our applications using Deluge, Zoho’s proprietary scripting language, to meet Recyclist and customer specifications. Key to this position is a focus on data and system integrity and consistency across multiple applications. The Data / SQL Engineer must demonstrate strong collaboration skills, effective communication and technical ability.
+Responsibilities:
+* Create and maintain optimal data pipeline and transformation of data independently under the guidance of the Senior Data Engineer.
+* Evaluate incoming data for patterns, changes and inconsistencies; develop solutions to transform data to adhere to compliance of standards.
+* Keep data separate and secure for each organization.
+* Collaborate with Product Team on the development of enhancements to core features and customizations in our applications along with troubleshooting and resolving issues.
+* Communicate with the Engineering Manager and other Product Managers on project status.
+* Maintain the highest levels of quality control.
+Job Requirements:
+* Experience with relational SQL databases and authoring SQL scripts to transform data
+* Experience translating business requirements into software applications
+* Experience with data cleansing and analysis
+* Understanding of Software Design Life Cycle principles
+* Excellent communication skills
+* Ability to work on multiple projects concurrently in a fast-paced environment while paying close attention to detail
+* Demonstration of team-working abilities and high moral compass
+* Ability and desire to take initiative
+* Self-motivator and results driven
+Preferred Experience:
+* Experience with ETL processes
+* Knowledge of Zoho Creator and Deluge (Zoho’s proprietary scripting language)
+* Experience with other programming languages (such as HTML, CSS, JavaScript or Java)

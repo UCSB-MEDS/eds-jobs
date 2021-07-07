@@ -1,0 +1,45 @@
+﻿Data Scientist - Scoot Science
+Remote / Full-Time / Close Date 6/30/2021
+
+
+Overview
+Scoot Science is building a virtual window into the ocean for marine stakeholders through ocean data management, analysis, and forecasting.  We give our customers a critical edge for marine operations, risk management, and long term planning, by combining the best available ocean and atmospheric data with in house analytics and visualization.   
+If you love the ocean and science, and are excited about the intersection of technology, ocean data, and operational climate change decision making... let’s talk. 
+
+
+The Opportunity
+We are hiring enterprising and motivated data scientists with excellent quantitative and analytical skills.  We’re looking for those who are eager to combine general data science techniques with ocean and earth systems domain expertise. These motivated team members will help design operationally relevant models and analysis products for aquaculture stakeholders, and also help link ocean conditions to novel risk and finance products.
+The Scoot Science Team
+Our team is distributed and we practice remote work. We all communicate daily through formal and informal means to foster a collaborative work environment. When not limited by social distancing, we participate in quarterly in-person meetings to focus on team building and strategy. We also strongly encourage all of our team members to engage in conferences and trade shows, and to diversify their skills through professional development. 
+
+
+Required Skills
+* BS with relevant work experience or graduate degree in ocean science, computer science, applied math/statistics, or related earth science field. 
+* Extensive hands-on experience working with disparate, multi-dimensional data sets including in situ data, model outputs, and remotely sensed data sources
+* Creativity in solving complex data wrangling problems 
+* Competence and enthusiasm to learn data science on cloud infrastructure
+* Eagerness to research and learn new data science techniques
+* A desire to use subject matter context when exploring data problems 
+* Emphasis in writing clear, well documented, and modular code
+* Proven experience working in a collaborative team environment
+* Recognition that work is a marathon, and that quality of work is more important than quantity
+Preferred Skills
+* Deep knowledge and eagerness to learn and add to our existing tech stack including: Python scientific packages-numpy, pandas, xarray, etc, Jupyter Notebooks/IDEs, GitHub
+* Experience manipulating geospatial data in Python (geopandas, rasterio, cartopy, etc.) and mapping tools like Kepler, QGIS, Google Earth Engine
+* Bonus points - machine learning techniques (pytorch, scikit learn, tensorflow etc), statistical modeling, signal processing, PCA/EOF analysis
+What You’ll Do
+In this position you’ll refine existing analysis products and develop operationally relevant models to assess oceanic impact on aquaculture operations. You’ll also assist in linking ocean data to risk and finance products. You’ll be working on all aspects of our data analytics team: from data wrangling and ETL to optimizing models. Though you’ll work collaboratively with the analysis team, you’ll have a great deal of freedom and responsibility to own workflows and stand alone analysis projects.
+Within 1 month you’ll:
+* Onboard and learn our internal communication and project management workflows
+* Set up your remote work environment and access all of our tools and resources
+* Learn the landscape of our existing data warehouse, toolboxes, and cloud infrastructure
+Within 3 months you’ll:
+* Develop and contribute to our internal toolboxes and code repositories
+* Search out, amass, and manage novel and existing database assets
+* Use proprietary and external data sources to build and test model and analysis products
+* Contribute to operational and synthesis modeling projects relevant to aquaculture operations
+Within 6 months you’ll:
+* Implement impactful data visualizations used in our analysis products
+* Design and build robust and modular tools for solving ocean data problems
+* Collaboratively work with internal teams to incorporate ocean and aquaculture farm data into risk and finance products
+* Refine analysis routines from experimental proof of concepts into a repeatable and generalizable framework

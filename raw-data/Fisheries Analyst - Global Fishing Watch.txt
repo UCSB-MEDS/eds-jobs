@@ -1,0 +1,57 @@
+﻿Fisheries Analyst (Global)
+at Global Fishing Watch (View all jobs)
+Remote
+General Summary
+Global Fishing Watch is an independent, international nonprofit organization. We are committed to advancing ocean sustainability and stewardship through increasing transparency. We do this by offering, for free, data and near real-time tracking of global commercial fishing activity, supporting new science and research, and boosting global cooperation on ocean transparency. Our ambition is to provide an unprecedented global picture of fishing activity by monitoring the large industrial vessels responsible for around 75 percent of the global catch, and developing our platform to track smaller vessels.
+Established in early 2019 the Data and Analysis Cell has quickly grown into a global team of fisheries analysts providing open source analysis, training and data products to fisheries managers in governments and intergovernmental institutions. The team's aim is to remove barriers to accessing open source fisheries data whilst promoting transparency and empowering fisheries managers to make the best decision with the best data available. 
+ 
+The Position
+The Fisheries Analyst (Global) is a key position in our team and will play a central and hands-on role within our Analysis Cell. Our mission is to collect, analyze, and display data on commercial fishing, and provide support to improve governance of fisheries to countries or entities that may not ordinarily have access to such data. This position will play a key role in the delivery of this mission, with a focus on improving the monitoring and analysis of marine protected areas throughout the world. It will include work in support of the research, transparency, and products programs by responding to analysis requests from our wide stakeholder community, including governments, academic institutions, NGOs and media. 
+It will require well-developed analytical skills, an advanced understanding of fisheries monitoring, control and surveillance and a willingness to work occasional unusual hours. Initially this is a one-year project period with the possibility of extension. 
+ 
+Principal Duties and Responsibilities
+Conduct Analysis, Graphics, and Reporting.
+* Work collaboratively with partners and the analytical team to collect, analyze, and display data on commercial fishing, and provide support to improve:
+   * monitoring of marine protected areas
+   * governance of fisheries 
+* Analyze fishing and shipping vessel AIS data, vessel databases, oceanographic datasets, and animal movement/species distribution data using BigQuery (SQL), R, and GIS.
+* Produce summary graphics and maps.
+Policy briefings, reports and analysis
+* In support of the Analysis mission, contribute to a comprehensive set of briefings, white papers and impact case studies that summarize activity near marine protected areas and demonstrate the benefits of transparency-led strategies and Global Fishing Watch’s work.
+* Research and understand international fishery management policies and regulations that may impact analytic findings.
+* Conduct vessel tracking analysis, and engage with external stakeholders, including government agencies, academic institutions, funding partners, NGOs and media as needed.
+* Create reports and presentations based on analyses, and present findings and recommendations as needed.
+* Support dynamic ocean management and analysis use cases.
+* Assist with development of training materials for external partners.
+* Ensure analysis is a strong and integrated component of Global Fishing Watch.
+Other
+* Develop and maintain an informed awareness of relevant topics to effectively apply Global Fishing watch to the sustainability of our ocean.
+* Other duties as assigned, including media interviews, public speaking & GFW training events.
+* Moderate international travel may be required when COVID-19 and safety restrictions permit.
+ 
+Candidate description
+Required
+* Bachelor's degree. 
+* Five years of relevant professional experience.
+* Fluency with databases, data mining (SQL) and programming in R (or equivalent).
+* Strong technical ability with GIS mapping and analysis.
+* Strong analytical and strategic skills.
+* A task-oriented and inclusive style to achieve report drafting.
+* Excellent interpersonal skills and ability to remotely cultivate and follow up relationships.
+* Demonstrated ability to develop and move projects forward with a high degree of independence and autonomy.
+* Good judgement and the ability to make and justify recommendations.
+* Excellent written and oral communications skills in English and the ability to communicate complex technical and scientific information to non-technical audiences.
+Preferred
+* Master’s degree or equivalent relevant experience.
+* Experience in fisheries compliance and/or monitoring, control and surveillance, especially regarding marine protected areas.
+* Fluency in Google BigQuery or ability to learn.
+* Knowledge of marine conservation issues.
+* Experience in the field of fisheries data and statistical analysis.
+* Excellent oratory and presentation skills.
+ 
+Location: Remote working with a preference for time zones in the Americas.
+Responsible to: Fisheries Scientist
+Salary: Commensurate with experience. GFW offers pension/retirement, health and other benefits commensurate with similar level GFW employees in the country of employment.
+Working Hours:  Global Fishing Watch (GFW) supports flexible working, so the pattern of hours may vary according to operational and personal needs. GFW works across different time zones and weekend work may be required on occasion. The post holder will be required to undertake periodic domestic and international travel. No overtime is payable.
+Holiday: Paid holiday/vacation commensurate with other, similar-level Global Fishing Watch employees in the country of employment. 
+Equal opportunities: Global Fishing Watch is an equal opportunities employer. We hire and promote qualified  professionals without regard to actual or perceived race, color, religion, sex, sexual orientation, gender, national origin, age, disability, or any other characteristic protected by applicable law. We believe that our mission is best advanced when welcoming the contributions of people of diverse backgrounds, beliefs and cultures. We are committed to providing an inclusive and welcoming environment for all employees of Global Fishing Watch and our partners, vendors, suppliers and contractors.

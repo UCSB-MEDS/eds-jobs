@@ -1,0 +1,64 @@
+﻿CIRES Earth Lab Research Data Scientist
+Requisition Number: 29628
+Location: Boulder, Colorado
+Employment Type: Research Faculty
+Schedule: Full-Time
+Date Posted: 07-Apr-2021
+
+
+Job Summary
+The Cooperative Institute for Research in Environmental Sciences (CIRES) in Boulder, Colorado is seeking a Data Scientist to work in the Earth Lab.
+The chosen candidate will assist researchers and students with Earth data management, data science, and visualization by conducting custom project-specific analyses and developing generic libraries for broader use. Analytics methods include statistics, machine learning, and artificial intelligence for computer vision, natural language processing, and other deep learning applications. The applicant will contribute to collaborative and open-source code and R or Python package development. A primary aim of this role is to use emerging techniques in data science to integrate different datasets (remote sensing, eDNA, site inventory, social media, etc) across scales from microbes to continents. This is a relatively new area of Earth Science, so the candidate need not be a specialist on all aspects of the problem but should be willing to learn and to show initiative. We use state-of-the-art computing that uses existing cyber-infrastructure investments including high-performance compute and cloud services.
+The candidate should have excellent technical and communication skills and be comfortable working in a team environment.
+This position will be in Boulder, Colorado, with an office at Earth Lab under the direction of the Analytics Hub Director.
+The University of Colorado Boulder is committed to building a culturally diverse community of faculty, staff, and students dedicated to contributing to an inclusive campus environment. We are an Equal Opportunity employer, including veterans and individuals with disabilities.
+Who We Are
+Cooperative Institute for Research in Environmental Sciences (CIRES)
+* CU-Boulder’s Cooperative Institute for Research on Environmental Science (CIRES) provides data science for a number of research initiatives around the campus. At CIRES, more than 800 environmental scientists work to understand the dynamic Earth system, including people’s relationship with the planet. CIRES is a partnership of NOAA and the University of Colorado Boulder, and our areas of expertise include weather and climate, changes at the Earth’s poles, air quality and atmospheric chemistry, water resources, and solid Earth sciences. Our vision is to be instrumental in ensuring a sustainable future environment by advancing scientific and societal understanding of the Earth system.
+Earth Lab is part of CIRES and CU-Boulder’s Grand Challenge: Our Space, Our Future. Earth Lab’s mission is to harness the data revolution using Earth observations from aerospace platforms (drone, aircraft, and space) and other sources (e.g., social media, etc.) to better understand the pace and pattern of environmental change. Earth Lab: 
+* Capitalizes on the data deluge from Space to accelerate global environmental change science; 
+* Reduces environmental risk and surprise by understanding and predicting slow and abrupt Earth system change; and,
+* Trains a new generation of data scientists in Earth analytics.
+What Your Key Responsibilities Will Be
+* Consult with and advise scientific researchers at the University of Colorado Boulder on efficient, appropriate, and powerful computational and informatics approaches for advancing scientific investigations in programming languages they use.
+* Assist with development and maintenance of Earth Lab’s Analytics Hub, and instruct users on how to utilize the system.
+* Participate in solutions around the integration of diverse remote sensing and in-situ datasets.
+* Work with Earth Lab developers and cyber-infrastructure collaborators to optimize interoperability and long-term sustainability of these codebases and datasets as generalized resources for science researchers. 
+* Participate in training efforts, including workshops for postdocs, graduate, or professional students. 
+What You Should Know
+* Questions may be directed to Natasha Stavros, Director of Earth Lab Analytics Hub, the Chair of the Search Committee for this position. Natasha can be reached at natasha.stavros@colorado.edu.
+* For additional information about the University of Colorado at Boulder, go to www.colorado.edu/about/ataglance.html.
+* The University of Colorado at Boulder is committed to providing a safe and productive learning, living and working community. To achieve this goal, we conduct background investigations for all final applicants being considered for employment. Background investigations for this position include criminal history and reference checks. 
+* The Immigration Reform and Control Act requires that verification of employment eligibility be documented for all new employees by the end of the third day of work. 
+* The University of Colorado is an Equal Opportunity Employer committed to building a diverse workforce. We encourage applications from women, racial and ethnic minorities, persons with disabilities, and veterans. Alternative formats of this ad can be provided upon request for individuals with disabilities by contacting Employment Services at (303) 492-6475.
+What We Can Offer
+* CIRES can offer a generous compensation package including competitive salary and comprehensive benefits. 
+* The annual hiring salary range for this position is $50,000 - $99,000. Salary will be commensurate with education, skills, and experience. 
+* Relocation funds are available for this position following CIRES and the University of Colorado’s relocation processes and procedures.
+What We Require
+* Bachelor’s or graduate degree in statistics, applied mathematics, computer sciences, or related fields with experience working with science groups OR a Bachelor’s degree or higher in the physical, earth, or environmental sciences or related fields with a strong quantitative background in statistics, machine learning, and programming.
+* Three year’s experience in data science and/or a quantitative scientific field.
+* Quantitative skills in statistics and informatics using Earth/ atmospheric/ geoscience/ biological data to integrate information across scales as well as computer vision, natural language processing, or other deep learning applications. 
+* Proficiency working with either R or Python.
+What You Will Need
+What You Will Need
+* Communication skills to work well with other scientists/researchers in face-to-face and remote collaborations. 
+* Knowledge of statistical and machine learning methods to explore and analyze large scientific data sets with these programming languages. 
+* Knowledge in data processing and manipulation, including formatting, ingest, and data cleaning.
+* Desire to educate academic researchers on how to use these tools, which includes a strong service background. 
+What We Would Like You To Have
+What We Would Like You To Have
+* Ability to contribute to a diverse and inclusive workforce.
+* Strong familiarity with collecting, organizing, and analyzing Earth and environmental science data.
+* Knowledge of Earth observations and experience working with satellite remote sensing data and imagery.
+* Previous teaching experience.
+* Previous experience with collaborative coding and/or open-source software, e.g., git, GitHub. 
+* Previous experience working in cloud computing (e.g., Amazon Web Services).
+* Please note that while the position details both required skills above as well as desired skills and experience below, we want applicants to be aware that they do not need to have all of the desired skills and experience to be considered for this position. If you meet the minimum qualifications, have passion for the work, along with experience in a related field, you are encouraged to apply. We encourage on-the-job training for any additional skills or knowledge that become relevant to the position.
+Special Instructions
+Special Instructions
+To apply, please submit the following materials:
+1. Resume or CV.
+2. Cover letter addressed to the Search Committee briefly describing your qualifications, professional goals, and specific interest in this position.
+3. List of contact information for 3 references. You don’t need to include letters of recommendation with your initial application. The search committee will request letters of recommendation at a later time if you are identified as a finalist for this role.
+   * If you are selected as the finalist, we will contact you through email and request that you submit: a sample of code (preferably through Github) and at least 1 name and email of a reference who will be asked to submit a letter of recommendation (can be one of the 3 noted above). This information will be kept confidential and viewable only by the search committee.

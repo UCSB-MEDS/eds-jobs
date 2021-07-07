@@ -1,0 +1,21 @@
+﻿Data Science Intern, Summer 2021
+Santa Barbara, California, United States
+Company Background
+Since 2012, founder James Rogers has been on a mission to tackle the global Food Waste Crisis with a goal of providing a more sustainable, equitable path forward for the global food system. Apeel is an edible protective layer that extends fruits’ and vegetables’ shelf-life. Apeel-covered fruits and vegetables spoil slower and require less refrigeration, and the plant-derived peel reduces the use of plastic and other products harmful to the planet. Apeel pulls material from the natural skins, peels, seeds, and pulp found on fruits and vegetables, to create the extra protective peel. The thin layer slows down water loss and oxidation, which can help keep those fruits and vegetables from browning and spoiling.
+Company Culture
+At Apeel Sciences, we look to nature to help the global food system improve quality, reduce waste, and ensure an abundant future for our planet.  Apeel is comprised of highly talented, deeply passionate, and tight-knit team members who are excited by the opportunity to challenge the status quo, obsessed with solving problems, and truly seek to positively change how we feed the world.
+Our people are fundamental to our company’s success and continued growth. If you are ready for an opportunity to jump in, take ownership, and drive meaningful outcomes in a highly collaborative, communicative, and dynamic environment, we would love to connect with you!
+About This Role
+The Data Science team is responsible for cleaning, organizing, and analyzing supply chain data to glean meaningful insights and opportunities, as well as building predictive models to automate and streamline business decision-making. We are seeking a motivated Data Science Intern who will analyze hyperspectral image data of fresh produce and test various machine learning approaches to perform non-destructive quality control and analysis. The program dates for summer 2021 are from June 14th - August 20th (10 weeks). To qualify for this program applicants must be currently enrolled in an accredited US college or university and have at least one semester remaining following the internship program.  Additionally during the program dates interns must reside in a state where Apeel is registered to do business: Arizona, California, Colorado, Florida, Iowa, Idaho, Illinois, Indiana, Kentucky, Michigan, Minnesota, North Carolina, New Jersey, New York, Oregon, Pennsylvania, Tennessee, Texas, Washington or Wisconsin.
+What You’ll Do
+* Build data pipelines to consolidate and clean data
+* Exploratory analysis of hyperspectral image data
+* Implement and deploy machine learning models tailored to hyperspectral image data
+* Share results and updates in written and presentation format
+* Collaborate and work with data scientists and other domain experts     
+What You Bring 
+* Are currently pursuing a PhD (preferred) or MS in Physics, Math, Chemistry, Biology, Computer Science, Electrical and Computer Engineering, Chemical Engineering, or other scientific discipline
+* Strong written and verbal communication skills
+* Technical expertise in Data Science and machine learning with Python
+Apeel believes that the scale of our impact is determined by the teams that work with us. As such, we seek to build high-performing teams of people from various experiences and backgrounds who can collectively push our company into new realms. We seek a diverse pool of applicants and consider all qualified candidates regardless of race, ancestry, color, gender identity or expression, sexual orientation, religion, national origin, citizenship, disability, Veteran status, marital status, or any other protected status. If you have a special need or disability that requires accommodation, please let us know.
+Please note that Apeel Sciences does not accept unsolicited resumes from recruiters or employment agencies. In the event of a recruiter or agency submitting a resume or candidate without a signed agreement being in place, we explicitly reserve the right to pursue and hire such candidates without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted directly to hiring managers, are deemed to be the property of Apeel Sciences.

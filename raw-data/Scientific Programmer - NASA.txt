@@ -1,0 +1,24 @@
+﻿SciSpace LLC: Scientific Programmer in Climate Impacts Assessment
+SciSpace invites applications for one Scientific Programmer position at NASA-Goddard Institute for Space Studies (NASA GISS) to assist in climate model data processing for impacts assessments (e.g., agriculture, urban areas, coastal infrastructure, ecosystems). Tasks will include the processing and storage of climate model output, downscaling and bias-adjusting relevant variables on a range of scales, visualization of results, and preparation of research publications. The Scientific Programmer will engage in: analysis of climate observations, model and impact index datasets, data processing for statistical downscaling and bias-adjustment, evaluation of climate projections; and writing, editing and publication of scientific papers, reports, and communication products; the preparation of research presentations; participation in research collaborations, stakeholder engagement at workshops and field visits in project regions. Information about GISS can be found at www.giss.nasa.gov
+Required qualifications:
+* Bachelor’s or higher degree in climate science, meteorology, computer science, mathematics, physics, environmental science, earth science or related field of study
+* Ability to carry out scientific programming, data analysis and visualization software (e.g. R, MATLAB, Python),
+* Knowledge of climate change and climate impacts science,
+* Strong interest to work within a group of scientists helping stakeholders prepare responses to Earth’s climate impacts,
+* Strong computer programming/coding skills,
+* Excellent research writing, communication and stakeholder engagement, presentation, and organization skills, and
+* Proficiency in Office Suite (Word, PowerPoint, Excel).
+SciSpace is particularly seeking candidates with experience in one or more of the following:
+* Application of large ensembles of climate model output
+* Statistical or dynamical downscaling and bias-adjustment
+* Scientific programming and statistical data analysis
+* Global and regional model development
+* High-performance computational systems
+* Creation of emulators from climate model output
+The successful candidate will provide programming support for a project led by GISS research scientists Dr. Cynthia Rosenzweig and Dr. Alex Ruane.
+The position is available immediately for a period of 1 year with a possible extension.
+Applications will be considered until the position is filled.
+SciSpace, LLC. offers competitive salaries and a comprehensive benefits package including tuition reimbursement and 401K savings plan.
+Please send resume by e-mail to John Barbara (john.m.barbara@nasa.gov).
+SciSpace, LLC. is an Equal Opportunity Employer.
+Posted 2021-01-28. Open until filled.

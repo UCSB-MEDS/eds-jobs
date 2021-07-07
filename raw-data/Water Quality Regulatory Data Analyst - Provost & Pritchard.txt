@@ -1,0 +1,55 @@
+﻿Provost & Pritchard is seeking a person with an interest and passion for assisting entities in California
+with surface water and groundwater regulatory issues. This person will be a technical consultant to
+multiple client types including agricultural organizations, nonprofits, public agencies, food processers,
+wineries, and others in the Central Valley and Central Coast of California. Support will be provided to
+clients implementing regulatory programs such as the Irrigated Lands Regulatory Program (ILRP), Central
+Valley Salinity Alternative for Long-Term Sustainability (CV-SALTS), individual Waste Discharge
+Requirements (WDRs), the Winery General Order, and possibly others.
+
+
+Qualifications:
+B.S. or M.S. in a relevant science, engineering, geology, or environmental field.
+o Such as: civil/agricultural/environmental engineering, water resource management, soil
+science, geology, hydrogeology, hydrology, environmental or earth science, biology,
+chemistry, etc.
+Strong technical background in the natural and physical sciences (chemistry, physics, earth
+science, geology, soil science, biology), mathematics, environmental/water quality, and/or
+statistics.
+Familiarity with analytical laboratory analysis methods and related data QA/QC.
+Excellent communication skills, especially technical writing and public presentations.
+Proficiency in some of the following data management and analysis skills:
+o Microsoft Office 365, specifically Excel and Access.
+o Knowledge of SQL or VisualBasic programming.
+o Data cleaning, data QA/QC, and preparation of datasets for analysis.
+o Proficiency in making graphs using data visualization software (i.e., Grapher, SigmaPlot,
+etc.).
+o Experience and continued interest in performing data analysis and visualization using
+programming languages such as Python, R/RStudio, VisualBasic, and/or Matlab.
+o Experience with data wrangling; capability of utilizing data taken from standardized and
+non-standard formats and summarizing in tables, graphics, and reports.
+o Experience manipulating and analyzing large environmental datasets (e.g., SSURGO,
+CIMIS, USGS, NOAA, ACOE) and related data management systems (e.g., EQuIS).
+o Experience with Power BI, R Shiny, R Markdown, Periscope, or other dashboard tools.
+Familiarity with GIS, AutoCAD, and/or remote sensing.
+Bilingual (English and Spanish) a plus.
+Background in agriculture.
+
+
+About Our Company
+Provost & Pritchard was founded on the belief that we should all enjoy what we do and where we work.
+We make significant effort to help everyone set professional objectives and pursue the projects and
+services that interest them most, while ensuring they maintain the life/work balance that they each
+desire. Provost & Pritchard is also an employee-owned company allowing all staff to benefit from the
+company’s success.
+
+
+For over five decades, Provost & Pritchard has upheld a tradition of excellence in California. Our focus is
+serving our clients well. We work with our clients to transform their projects from concepts to
+completion by developing practical solutions. We offer a diverse set of services including civil and
+agricultural engineering, hydrogeology, planning, environmental, surveying and construction
+management. With seven offices stretching from Chico to Bakersfield, our staff is accessible to our
+clients throughout the state.
+
+
+To learn more about working with Provost & Pritchard please visit: https://provostandpritchard.com/
+If interested, please submit your resume to hr@ppeng.com or apply online.

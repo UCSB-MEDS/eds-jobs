@@ -1,0 +1,30 @@
+﻿February 5, 2021
+Data Librarian/Analyst
+POSITION SUMMARY:
+EcoHealth Alliance seeks a creative, self-motivated, and technically adept Data Librarian/Analyst to support our growing organization’s data management needs related to our research in disease emergence, pandemic prediction and preparedness, and wildlife conservation. The Data Librarian/Analyst will work closely with our teams of scientists, ranging from field veterinarians to machine-learning specialists, as well as software engineers and staff, to maintain best practices for data management and facilitate research across the organization and with collaborators. The Data Librarian/Analyst will support the development of a common set of tools and practices for managing and harmonizing our diverse data (epidemiological, ecological, geospatial, and text) for varied project needs across the organization. This position will require work with researchers at a variety of technical skill levels to improve data management, reuse, interoperability, sharing, publication, real-time reporting and reproducibility. Time will be evenly split between (a) data curation and tooling and (b) providing support to project teams in data acquisition, analysis, and visualization tasks.
+This position is based in New York City, but due to the current COVID-19 pandemic, this position may initially be remote. Transition to required travel to the office will be evaluated based upon business need and staff safety.
+RESPONSIBILITIES:
+Reporting to the Principal Scientist for Computational Research, the Data Librarian/Analyst will:
+* Develop and document standard data management and practices to be used across the organization
+* Curate metadata and data documentation
+* Migrate legacy projects and data sets into modern data systems
+* Support teams in implementing use of modern data systems, setting up project-level data collection and management, automated reporting, archiving data for long-term usage, data publication in repositories, managing appropriate metadata and formats
+* Write data management plans for grant applications and updates for funder reports
+* Support teams in building interactive visualizations, dashboards, and other products from project data; and additional analytical support depending on the applicant’s previous experience
+* Train staff in data management and programming skills
+* Support project teams in data acquisition, cleaning, and analysis and visualization as needed
+* Keep abreast of trends and developments and actively pursue innovations in data management
+MINIMUM QUALIFICATIONS:
+* M.S. or Ph.D. in library science, data science, statistics, or relevant experience and a degree in a related quantitative field. B.A. or B.S. candidates with a degree in library science, data science, statistics, or related will be considered with 2+ years of relevant data management experience. Candidates with no degree will be considered with 4+ years of relevant data management experience.
+* Strong R programming skills
+* Knowledge of some or all of EHA’s current data pipeline tools: RStudio Connect, Open Data Kit, AirTable, Git, GitHub, GitHub Actions, Docker
+* Demonstrated ability to self-teach and train others in new software tools and methods
+* Knowledge and experience in methods of reproducible research
+* Strong knowledge of the scientific open data, metadata, and data publication ecosystem
+* Ability to work collaboratively in teams with culturally- and technically-diverse backgrounds
+* Strong verbal and written communication skills
+* Strong data management and project management skills, including ability to manage multiple projects and deadlines while working with multiple teams
+OTHER PREFERRED QUALIFICATIONS:
+* Analytical experience with ecological, epidemiological, spatial and/or phylogenetic data
+* Experience in machine learning or Bayesian statistical methods
+Applicants are encouraged to include links to code repositories, online portfolios, and other demonstrations of experience in their cover letter or CV, but public or open-source work is not required.

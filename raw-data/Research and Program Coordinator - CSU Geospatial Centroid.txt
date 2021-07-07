@@ -1,0 +1,57 @@
+﻿Geospatial Centroid Research and Program Coordinator
+Posting Details
+Working Title Geospatial Centroid Research and Program Coordinator
+Position Location Fort Collins, CO
+Research Professional
+Position Yes
+Posting Number 202100138AP
+Position Type Admin Professional/ Research Professional
+Classification Title Research Associate III
+Number of Vacancies
+Work Hours/Week 40
+Proposed Annual Salary
+Range $50,000-60,000
+Employee Benefits Colorado State University (CSU) is committed to providing employees with a strong and competitive benefits package that supports you, your
+health, and your family. Visit CSU’s Human Resources website for detailed benefit plan information for permanent full-time and part-time
+faculty and administrative professional employees in the following University benefit areas. https://hr.colostate.edu/wpcontent/
+uploads/sites/25/2021/01/benefits-summary-afap.pdf.
+
+
+To ensure full consideration, applications must be received by 11:59pm (MT) on 03/15/2021
+
+
+Description of Work Unit The Geospatial Centroid at CSU provides essential services to CSU, the regional community, and numerous partner organizations by promoting, exploring, examining, and implementing geospatial sciences. Housed in the Morgan Library, the Centroid serves as a resource for geospatial education and training; spatial data discovery, generation and sharing; and cartographic and digital map creation services. The
+Centroid organizes numerous activities and events related to the geospatial sciences. Most importantly, the Centroid promotes emerging
+research areas involving GIS. The Centroid works closely with research faculty and students to provide guidance on the unique characteristics of geospatial data and analysis.
+
+
+Tasks for this position will include: creating, coordinating, and documenting education and research efforts for sharing geospatial analysis
+approaches; creating interactive web applications to make it easier for people to interact with geospatial and other data; work with research
+groups at the university to incorporate more geospatial analyses into their programs; build and maintain guiding documents for best practices
+in geospatial analysis suites including using open source software like R and Python with Git, GitHub and RMarkdown workflows; record and
+distribute training videos; manage training workshops. Additional projects may include co-developing new research projects with faculty at
+CSU and building robust interactive tutorials for teaching open-source GIS trainings.
+
+
+Required Job Qualifications
+Education level: Master’s degree in computer science, environmental science, GIS or similar degree + 2 years of experience.
+3 + years of working with open-source software like R or Python for data analysis, management, and visualization.
+
+
+Preferred Job Qualifications
+Demonstrated teaching experience in the classroom, workshops, and/or creating online content for learning.
+Geospatial and general data analysis and visualization experience across multiple languages/platforms (Javascript, Google Earth Engine,
+Python, R).
+Experience programming with a team using Git, GitHub, RMarkdown, and/or Jupyter Notebooks
+Content creation experience, especially producing lecture videos, building websites, and/or creating tutorials.
+Strong communication skills and a desire to work collaboratively with other people at the Centroid and across the university.
+Demonstrated ability to lead and complete a research project such as a research paper, course, or other related projects.
+Demonstrated understanding of the principles of diversity, equity, inclusion, and social justice and how they relate to the mission of the CSU
+Libraries and geospatial data services in particular
+Diversity Statement Reflecting departmental and institutional values, candidates are expected to have the ability to advance the Libraries’ commitment to diversity and inclusion.
+
+
+Essential Duties
+Job Duty Category Coordinate and Create new Programs and Education opportunities at the Centroid
+Duty/Responsibility The Centroid has a long history of training students and the community in GIS analysis. This position will be responsible for growing this training program, and coordinating education activities with the Centroid Director, Education Coordinator, and other Centroid staff. Additionally, this person will be responsible for helping to build new programs to connect more research groups and community members to the Centroid. These could include building websites for research groups to access and visualize data, performing analyses for research groups that have
+historically not used GIS analyses, and other related tasks.

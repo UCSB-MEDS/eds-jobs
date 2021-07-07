@@ -1,0 +1,56 @@
+﻿About ClimateAi
+
+
+ClimateAi is on a mission to accelerate resilience in food, water, and energy. The company has launched the first of its kind Resilience-as-a-Service platform in agriculture to help supply chains adapt to climate change. The company was founded at Stanford University and is backed by top VC firms. We are a fast-growing Series-A company looking for passionate individuals who will create solutions for the most important issue of our time.
+
+
+Culture
+
+
+Everyone at ClimateAi is driven by a united passion to tackle climate change, and we don’t engage customers who negatively impact climate outcomes. We believe in a culture of truth and transparency, where feedback is considered an opportunity for us to contribute to each other’s personal and professional growth. We recognize the value of diversity, and we are an equal opportunity employer.
+
+
+About the Role
+
+
+We are a young startup, looking for a passionate candidate who can contribute to our mission, and create impactful solutions to climate and resilience issues. We are working on the next generation of ML based weather and climate predictions, with an emphasis on cutting edge research and novel technology.  This person’s primary focus will be research and development on sub-seasonal (3-6 weeks) and seasonal (2-6 months) forecasts. This is a rapidly growing research sector where the combination of dynamical models and machine learning is making big improvements. The role will focus on academic style research on a National Science Foundation funded project using the latest ML algorithms.
+
+
+We hire people who are collaborative, adaptable, communicate well, and love to learn. Expect to give and receive constructive criticism, as we are constantly seeking to push the innovation frontier while simultaneously growing as individuals and as a team. The position is well suited for someone with strong programming skills and a Ph.D in Atmospheric Sciences, Oceanography, or a related Earth Science discipline. All applicants with relevant experience are encouraged to apply.
+
+
+Requirements:
+
+
+Must be currently eligible to work in the United States, to meet federal funding requirements.
+Role Responsibilities
+   * Research and understand the leading academic literature in seasonal and sub-seasonal forecasting
+   * Build and implement ML based forecasting algorithms in Python and Tensorflow
+   * Curate pre-training and operational datasets for training and inference
+   * Deliver step-change improvements in our industry leading seasonal and sub-seasonal forecasting
+   * Share and document your breakthroughs in internal presentations, conference talks, and peer reviewed papers.
+Preferred Qualifications
+   * PhD or equivalent experience in Atmospheric Science, Oceanography, or a related field
+   * Experience writing code for data management, analysis, and visualization in Python
+   * Experience with machine learning frameworks such as Tensorflow or Pytorch, especially applied to geospatial or time series data
+   * Experience working on software projects with a team: communication, management, issue tracking, and version control
+We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+Location
+
+
+San Francisco Bay Area, CA or remote
+
+
+Compensation
+
+
+Aligned with the best standards of the city you will be working from, commensurate with experience.
+
+
+Added Benefits
+
+
+Employees may expense relevant learning, growth, and personal development costs
+Industry standard medical insurance

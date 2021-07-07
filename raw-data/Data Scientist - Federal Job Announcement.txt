@@ -1,0 +1,184 @@
+﻿Data Scientist
+Office of Personnel Management
+Government-wide, Multiple Executive Branch Agencies
+Overview
+* Reviewing applications
+* Open & closing dates
+ 01/11/2021 to 01/13/2021
+This job will close when we have received 500 applications which may be sooner than the closing date. Learn more
+* Service
+Competitive
+* Pay scale & grade
+GS 13 - 14
+* Salary
+$102,663 to $157,709 per year
+Final salary depends on grade and duty location
+* Appointment type
+Permanent
+* Work schedule
+Full-Time
+Locations
+Many vacancies in the following locations:
+   * Washington, DC
+   * Cambridge, MA
+Relocation expenses reimbursed
+Yes For some specific positions, you may qualify for reimbursement of relocation expenses in accordance with agency policy.
+Telework eligible
+Yes as determined by agency policy
+This job is open to
+   * Career transition (CTAP, ICTAP, RPL)
+   * Federal employees who meet the definition of a "surplus" or "displaced" employee.
+   * The public
+   * U.S. citizens, nationals or those who owe allegiance to the U.S.
+Clarification from the agency
+U.S. Citizens, CTAP, ICTAP
+Announcement number
+DE-10950134-21-CN
+Control number
+588499000
+   * Duties
+Summary
+As an Program Analyst (Data Analytics), referred to here as Data Scientist, you will provide technical expertise improving the way it serves the public in support of agency missions and the Evidence Act. You will apply analytical methods to solving problems, communicate analyses findings to policy makers, and providing additional insight and evidence into policy making processes that better serve the American People.
+Responsibilities
+      * Automate the collection of data from varying sources, formats, and quality and prepare them for analysis.
+      * Apply a variety of analytical approaches to solve mission focused policy, methodologies, and/or administrative problems in a fast -paced environment.
+      * Clearly and concisely present the findings of analytical products to policymakers and non-technical audiences.
+      * Regularly conducts analysis in a programming or statistical software suite such as: R, Python, SAS, SPSS, STATA, Tableau, PowerBI (Specific Agency requirements may vary).
+      * Works with large data sets and/or data coming in at a high rate.
+      * GS-14 level candidates would be expected to work independently and/or act as a senior analyst in teams. They are a subject matter expert advising senior policy makers on methodological or analytical issues.
+      * Travel Required
+Occasional travel - Varies - Some positions may require travel. Please see https://smeqa.usds.gov/info/data-govwide for more information
+Supervisory status
+No
+Promotion Potential
+None - Varies- Some positions may have promotion potential to higher grade levels. Please see https://smeqa.usds.gov/info/data-govwide for more information.
+      * Job family (Series)
+      * 0343 Management And Program Analysis
+      * Requirements
+Conditions Of Employment
+         * U.S. Citizenship Required.
+         * Selective Service Registration is required, as applicable
+         * May require completion of one year probationary period
+         * Some positions may require a pre-employment drug test and/or random drug testing during the period of employment.
+         * Travel and security clearance requirements will vary depending on the position being filled.
+         * You may qualify for reimbursement of relocation expenses in accordance with agency policy.
+         * Qualifications
+This job will close at Midnight, ET the day when 500 applications are received, which may be sooner than the closing date.
+
+You must have at least a year demonstrating accomplishment of the duties and competencies described below. One year of specialized experience is equivalent to 12 months at 40 hours per week. If your position was not full time, you must indicate the number of hours worked per week.
+
+Data Wrangling: Work with teams to develop data products and definitions. Use appropriate analytic and statistical software to programmatically prepare data for analysis and clean imperfect data.
+
+Study Design and Data Analysis: Consult with stakeholders and customers to identify the appropriate data, methodological approach, and design. Conducts observational analyses using software and/or programming languages such as R, Python, or SAS to explore/group data, test hypotheses, predict outcomes, and inform decisions. Derive meaning from big data (i.e. datasets that may be large, disparate, unstructured, and/or complex).
+
+Communication: Translate complex concepts, findings, and limitations into concise, plain language. Closely tie findings and conclusions into the agency mission, original problem statement and team objectives. Research and design presentations and interpretations of analytical outputs tailored to specific audiences including the use of interactivity and narrative storytelling where appropriate. Collaborates with teammates, customers, and stakeholders in a reproducible and organized manner.
+
+GS-13: To qualify for the GS-13 level, your resume must show at least one year experience working with teams to develop data products and definitions, consulting with diverse stakeholders and using analysis tools to design and implement data analyses, and demonstrate experience translating data analyses into meaningful, easily understood communications.
+
+GS-14: To qualify for the GS-14 level, in addition to what is described at the GS-13 level, your resume must show at least one year experience working across silos to successfully deliver quantifiable impact, that you've led and advised leadership on data wrangling, implemented data analysis projects in an agile way through the entire lifecycle with a focus on study design and stakeholder needs, and have been recognized as an expert on communicating data analysis results.
+
+Applicants must meet all qualifications requirements by the closing date of the announcement.
+Education
+Education cannot be substituted at the GS-13 and GS-14 grade levels.
+Additional information
+To address questions about the application process and requirements, please join us at the scheduled times listed below for a Q/A session.
+
+January 7th, 8PM EST
+            * Participant Dial-In: (888) 251-2949
+            * Participant Code: 156 5524#
+            * January 11th, 2PM EST
+            * Participant Dial-In: (888) 251-2949
+            * Participant Code: 224 2221#
+            * Multiple positions may be filled from this announcement.
+How You Will Be Evaluated
+When you apply, you will be presented with three multiple choice questions from data science subject matter experts. To proceed to resume review, you must answer all three questions correctly. Preview the assessment questions here: https://apply.usastaffing.gov/ViewQuestionnaire/10950134
+The qualifications for this position will be evaluated by Subject Matter Experts prior to candidate referral. If you meet the minimum qualifications for this position, your application will be evaluated under Category Rating and Selection procedures for placement in one of the following categories:
+               * Best Qualified - for those who are superior in the evaluation criteria
+               * Well Qualified - for those who excel in the evaluation criteria
+               * Qualified - for those who only meet the minimum qualification requirements
+               * Resume review: Subject Matter Experts will review the first three (3) pages of your resume to determine your technical qualifications for this position based on the required competencies.
+
+Work Sample Assessment: The work sample assessment will include analysis of multiple public datasets totaling 150 MB or less in size. Your response to the work sample assessment will be used to measure your depth of knowledge in relation to the required competencies for the position.
+
+Qualifying phone interviews: At this phase, qualified candidates will have at least one phone interview to further assess whether their experience meets the required competencies. Qualified candidates may meet with more than one Subject Matter Expert for that determination to be made.
+
+Ranking and preference: Preference will be appliedto applicants who move forward after the qualifying phone interviews. This is a competitive vacancy announcement advertised under Delegated Examining Authority. Selections made under this vacancy announcement will be processed as new appointments to the civil service. Current civil service employees would therefore be given new appointments to the civil service; however, benefits, time served and all other Federal entitlements would remain the same.
+
+Selection process: Participating agencies will receive certificates listing qualified applicants eligible for selection and will begin making offers directly to applicants. Certificates may be shared with other federal agencies. Once a job offer is extended to you by any agency at a certain grade/promotion potential and you accept, decline, or do not respond, you are not guaranteed another offer but may receive one from another participating agency. You will be given 72 hours to respond to any offer or fit interview.
+
+Future consideration: When participating agencies complete their selections, the remaining list of qualified candidates may be shared with additional federal agencies. You will have an opportunity to opt-in if you would like your name, application material, and assessment results shared to be considered for employment with additional agencies. There is no guarantee of further consideration and you can continue to explore job opportunity announcements.
+Background checks and security clearance
+Security clearance
+Other
+Drug test required
+No
+               * Required Documents
+The following documents are required and must be submitted by 11:59 PM (EST) on 01/15/2021.
+                  * Résumé which includes a list of all significant jobs held and duties performed, with dates specified in month and year format, and indicate hours worked per week. If military or civilian federal employee, you must include your rank and/or grade. resume (we will review up to 3 pages of work experience).
+                  * Other Supporting Documents, if applicable, such as:
+                  * Veterans Preference Documentation:
+                  * If you are a Discharged, Non-Disabled Veteran, you must submit a copy of your DD-214 showing character of discharge (Member 4 copy), or other Documentation of Service and Separation under Honorable Conditions, as listed on the SF15. If you don't have your DD-214, you may request it after discharge from the National Archives.
+                  * If you are a veteran within 120 days of discharge, you must submit signed documentation from the Armed Forces certifying: 1) your expected release/retirement from active duty, 2) under honorable conditions, 3) your pay grade/rank/rate at time of discharge, 4) dates of active duty service, 5) any campaign or expeditionary medals received, & 6) dated within 120 days of your separation.
+                  * If you are a Disabled Veteran, Purple Heart Recipient, or Mother or Spouse of a Disabled or Deceased Veteran, you must submit all additional proof required by the SF15, and if applicable, a completed SF15. You may request a copy of your Department of Veterans Affairs letter from www.ebenefits.va.govor call 1-800-827-1000 to establish proof of disability.
+                  * Documentation for Interagency/Career Transition Assistance Planconsideration if you are a displaced Federal employee within the local commuting area. You must include: 1) Proof you are a displaced Federal employee, e.g., RIF Separation Notice, Notice of Proposed Removal, etc; 2) SF-50s (Notifications of Personnel Action) showing career/conditional tenure competitive status, promotion potential and duty location; and 3) your most recent performance appraisal. To exercise selection priority, displaced or surplus Federal employees must be rated well-qualified or above 85 on the rating criteria for this position.
+                  * Benefits
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding.
+                     * Benefits for federal employees
+                     * Healthcare insurance
+                     * Pay and leave
+                     * https://help.usajobs.gov/index.php/Pay_and_Benefits
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+                     * How to Apply
+To apply for this position: You must complete the occupational questionnaire and submit the documentation specified in the Required Documents section below. To receive consideration, the complete application package must be submitted by 11:59 PM (EST) on 01/15/2021.
+                        * Select Apply. If you are not logged in, you will be prompted to login or create an account.
+                        * Prompted to Start the Application Process by selecting "Start Application."
+                        * Click here for USAJobs Help with "How to create an application"
+                        * To PREVIEW the application questionnaire, select the following link: https://apply.usastaffing.gov/ViewQuestionnaire/10950134
+                        * Select or add the resume you want to use for this application. Click here on how to build a resume in USAJOBS.
+                        * Select documents you want included in this application.
+                        * Review package to acknowledge your documents were reviewed.
+                        * Select if you want to include your demographic information.
+                        * After reading and certifying the application is true and submitted in good faith, select "Continue to Agency Site."
+                        * Follow onscreen prompts and instructions to complete your application.
+                        * Add the supporting documents by indexing your documents with the dropdown.
+                        * Upload any missing required documents or optional documents.
+                        * Review and Submit Application.
+                        * While logged in, you can check the status of your application by selecting "+" next to the job title for this position.
+                        * You can review or revise your application at any point during the open period of the announcement.
+                        * To update an application, you should log into your USAJOBS account and select "+" next to the job title for this position. Select "Update Application" for this job.
+                        * Note: When you click Update Application, you will be prompted to re-select your documents from USAJOBS. Documents submitted with the first application will no longer be associated with the applicant record. It is important that you select all documents you want to use in the re-application.
+                        * Agency contact information
+ Midwest Services Branch
+Email
+kansascity@opm.gov
+Address
+SME QA Staff Acquisition
+601 E 12th
+St #131
+Kansas City, MO 64106
+US
+                        * Learn more about this agency
+                        * Visit our careers page
+Learn more about what it's like to work at Office of Personnel Management, what the agency does, and about the types of careers this agency offers.
+https://smeqa.usds.gov/info/data-govwide/
+Next steps
+We will notify you of the outcome after each step of the recruitment process has been completed. After making tentative job offers, agencies will conduct suitability/security background investigations. Tentative timeframes are described below.
+                           * Jan 11: Job Posting Opens
+                           * Late-January: Written assessment
+                           * Early February: SME phone interview
+                           * Late February: Agency interview
+                           * Early March: Selections made
+Fair & Transparent
+The Federal hiring process is setup to be fair and transparent. Please read the following guidance.
+Equal Employment Opportunity Policy
+The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy And gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
+                           * Equal Employment Opportunity (EEO) for federal employees & job applicants
+Reasonable Accommodation Policy
+Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application process should follow the instructions in the job opportunity announcement. For any part of the remaining hiring process, applicants should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.
+A reasonable accommodation is any change to a job, the work environment, or the way things are usually done that enables an individual with a disability to apply for a job, perform job duties or receive equal access to job benefits.
+Under the Rehabilitation Act of 1973, federal agencies must provide reasonable accommodations when:
+                           * An applicant with a disability needs an accommodation to have an equal opportunity to apply for a job.
+                           * An employee with a disability needs an accommodation to perform the essential job duties or to gain access to the workplace.
+                           * An employee with a disability needs an accommodation to receive equal access to benefits, such as details, training, and office-sponsored events.
+You can request a reasonable accommodation at any time during the application or hiring process or while on the job. Requests are considered on a case-by-case basis.
+Learn more about disability employment and reasonable accommodationsor how to contact an agency.

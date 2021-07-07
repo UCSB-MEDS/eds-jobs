@@ -1,0 +1,50 @@
+﻿Climate Policy Data Scientist - Sequoia Climate Fund
+
+
+Reports to: Director, Evidence & Learning
+Location: Irvine, CA
+Status: Full Time
+FLSA Status (OT eligibility): Exempt
+ 
+About the Organization
+Sequoia Climate Fund is a new philanthropy that seeks to decarbonize the world economy at a speed and scale equal to the problem. We support bold strategies and efforts that will have both near-term impact and the greatest probability of long-term success. We believe that solving climate change requires the adoption of ambitious, evidence-based policy solutions that transform markets, advance clean technology and lead to large‐scale change. Sequoia Climate Fund is active in major emitting geographies, including (but not limited to) China, the United States, the European Union, Brazil and India. We are dedicated to building the political will and powerful coalitions needed to achieve these bold policy solutions. Our office and staff are located in Irvine, California.
+ 
+About the Role
+Our Evidence & Learning team seeks to integrate the latest science and data into robust, compelling analyses to meaningfully shape real-time decision-making in an emerging philanthropy. Developing groundbreaking models to understand the probability of success with new climate interventions , the  Climate Policy Data Scientist will play a foundational role in the development and implementation of quantitative analyses to inform bold climate action.  This position reports to the Director of Evidence and Learning.
+The Climate Policy Data Scientist will:
+* Lead the delivery of salient and credible data analyses and products to inform evidence-based strategies for climate change mitigation.
+* Lead the development and implementation of methodologies to estimate the emissions abatement potential of specific interventions (ranging from developing new regulations to strategic communications), with a robust approach to handling uncertainty.
+* Analyze the realized impacts of specific interventions on greenhouse gas emissions and avoided warming, using appropriate statistical techniques for causal inference.
+* Collaborate closely with Sequoia Climate Fund’s subject matter experts and data visualization experts to develop clear, compelling analyses and data products that directly inform real-time decision-making.
+* Develop and maintain reproducible data workflows that facilitate collaborative analysis with Sequoia Climate Fund’s peer funders, grantees, industry experts and academics.
+As Sequoia Climate Fund is a new, growing organization, the specific responsibilities and scope of work for this role are evolving. Key responsibilities are likely to include, but are not limited to, the following:
+ 
+Key Responsibilities
+* Synthesis of large and complex external datasets (e.g., climate scenarios; energy projections) into clear, compelling data products to support decision-making needs.
+* Integration and custom statistical analysis of diverse datasets relevant to climate change mitigation efforts (e.g., country-level emissions trajectories; global climate scenarios).
+* Development of potential emissions reduction estimates that adequately address the likelihood of implementation and uncertainties in how specific actions translate into emissions reductions under differing social, economic and political scenarios.
+* Implementation of retrospective analyses examining the impact of climate mitigation actions on greenhouse gas emissions, avoided warming and socioeconomic impacts.
+* Develop and maintain reproducible data workflows (via GitHub) for both external and internal datasets.
+* Other responsibilities as needed.
+ 
+Minimum Qualifications
+* Advanced degree in relevant social, environmental or climate sciences field, including the advanced statistical analysis of quantitative data.
+* Minimum of five years working in climate change, environmental or sustainability data analytics or a related field.
+* Demonstrated experience and proficiency in RStudio, Python and GitHub is required.
+* Demonstrated experience in the handling and management of large and/or sensitive datasets; and the development of data visualization and synthesis products.
+* Ability to multi-task, meet deadlines and work both independently and collaboratively.
+* Demonstrated ability to establish and maintain effective working relationships with colleagues and external collaborators.
+ 
+Desirable Qualifications
+* Familiarity with running custom scenarios modeling the impact of interventions in climate policy simulators (e.g., Energy Policy Simulator, or EN-ROADS) or integrated assessment models (e.g., GCAM) preferred.
+* Familiarity with approaches to handling uncertainty in quantitative models preferred.
+* Thrives in an atmosphere where intellectual debates are encouraged and is passionate about the co-creation of analytical outputs.
+ 
+Sequoia Climate Fund’s Institutional Culture of Respect, Diversity and Inclusion
+Sequoia Climate Fund believes we are strengthened by the diversity of our staff, and welcome such diversity including race, gender identity or expression, educational attainment, disability, veteran status, and personal experience with the criminal justice system. We welcome applications from people of all cultures, backgrounds, and experiences, and we strongly encourage people of color and persons with disabilities to apply. We actively cultivate an institutional culture that reflects the values of respect, equity, and inclusion that we seek to amplify in the larger world.
+Sequoia Climate Fund hires, promotes and retains employees based on their professional qualifications, demonstrated abilities and work performance, as well as on the degree to which these qualities are required in the employment positions made available by the Fund’s service needs and business requirements. All personnel decisions, including but not limited to recruitment, hiring, compensation, assignment, training, promotion, discipline and discharge, are made without discrimination based on any protected characteristic as defined by law, e.g., race, color, religion, national origin, citizenship, ancestry, age, disability, gender identity or expression, sex, sexual orientation, marital or familial status, domestic partner status, veteran or military status, genetic predisposition or carrier status, and prior criminal convictions, as well as educational attainment.
+ 
+Compensation & Location
+Sequoia Climate Fund offers a generous benefits package including payment of 100% of the health insurance premiums for employees (and 80% of the premiums for spouses, domestic partners and qualified family members). Sequoia Climate Fund also offers other benefits including life insurance, long‐term disability protection, a group 401(k) retirement plan (with an employer match), support for continuing education, up to $5,250 in annual student loan repayment OR college savings assistance for qualified dependents and is committed to providing transgender‐inclusive healthcare.
+We have temporarily transitioned to a work-from-home model, and this role is expected to begin as a remote position. To ensure the safety and well-being of our employees, we will continue to monitor the situation and follow the recommendations from the Centers for Disease Control and Prevention (CDC), as well as local advisories from the California Department of Public Health and the Orange County Heath Care Agency. Once circumstances allow, staff will be required to work full-time from our office in Irvine, California.  We are flexible and willing to discuss the logistics and financial considerations raised by relocation, if needed.
+NOTE: At this time, our preference is that applicants have work authorization to work in the United States.

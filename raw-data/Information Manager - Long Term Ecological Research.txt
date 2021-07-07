@@ -1,0 +1,20 @@
+﻿Information Manager for Long Term Ecological Research
+The new Minneapolis-St. Paul (MSP) Urban Long Term Ecological Research (LTER) project, funded by the National Science Foundation (NSF), is seeking an information manager to provide professional data management, web development, and GIS support to natural and social science researchers. The MSP-LTER team is building a long-term program of research related to urban nature. The information manager will play a central role in the project via support for LTER science through curating and archiving a wide variety of datasets from researchers, developing a public-facing data portal website, providing GIS support, and otherwise supporting researchers in information management.
+New applications will be reviewed until the position is filled, but application before April 26, 2021 is encouraged to ensure full consideration. To apply, submit a CV, statement of research interests, and contact information for three references linked here (i.e. https://hr.myu.umn.edu/jobs/ext/339998. For more information, please contact Jacques Finlay (jfinlay@umn.edu).
+Required Qualifications:  
+* A bachelor's degree in information science, computer science, GIS, ecosystem science, natural resources, or a related field
+* Ability to build and deploy software applications using a programming or scripting language.
+* Familiarity with ecological data collection
+* Ability to work independently, effectively communicate with, and implement data policies, for a broad range of audiences
+* Experience and skill in GIS
+* Desire to help others work through information management challenges
+* Commitment to support the project mission by addressing information management needs of diverse teams working with diverse data sets
+
+
+Preferred Qualifications:
+* Database experience and familiarity with SQL.
+* Proficiency with R
+* Field experience with data collection
+* Experience with data processing and visualization (GitHub collaboration and R packages, for example), and developing workflows for data access, analysis, and modeling
+* Experience in one or more of the following: integration and use of public databases, remotely sensed and/or geospatial datasets, Google Earth Engine
+* Web development experience

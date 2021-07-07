@@ -1,0 +1,184 @@
+---
+title: "EDS Jobs Summary for Kickoff"
+author: "Jamie Montgomery"
+date: "6/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(googledrive)
+library(stringr)
+library(readr)
+library(tidyverse)
+library(ggplot2)
+library(ggwordcloud)
+```
+
+
+```{r}
+
+#list all google docs in the jobs folder
+jobs <- drive_ls("https://drive.google.com/drive/u/0/folders/1MMeiTL6C_AlJVkM6No8OQKzDzYFkY5GW")
+
+for (i in 1:nrow(jobs)){
+  print(i)
+  
+  job <- jobs[i,]$name
+
+  if (str_detect(job, ".pdf")) next 
+  
+drive_download(job, type = "text", path = paste0("../raw-data/", job, ".txt"), overwrite = TRUE)
+  
+}
+```
+
+Create dictionary of words to look for
+
+```{r}
+
+words <- c(" r ", " r,", "rstudio", "git ", " git, ", "github", "python", "remote sensing", "remotely sensed",  "spatial", "javascript", "sql", "arcgis", " gis ", " gis, ", "aws", "cloud", "machine learning", " sas ", " sas, ", "qgis", "tableau", "excel", "google sheets", "tensorflow", "pytorch", "matlab", "google earth engine", "stata", " api ", " api,", "shiny", "jupyter", "time series", "kepler", "docker", "css", "azure", "kubernetes", "dashboard", "metadata", "data visualization" ,"data management", "rmarkdown", "html", "bash")
+
+```
+
+Test
+
+```{r}
+
+df <- data.frame(title = "NA", skill = "NA")
+
+job_descriptions <- list.files("../raw-data", full.names = TRUE)
+
+#read in job
+for (i in 1:length(job_descriptions)) {
+  
+  a <- read_lines(job_descriptions[i]) %>%
+  tolower()
+  
+  job <- substr(job_descriptions[i],13,nchar(job_descriptions[i])-4)
+  print(job)
+  
+#run through all words 
+for (j in 1:length(words)){
+
+  word <- words[j]
+  t <- str_detect(a, word)
+  
+  if(TRUE %in% t){
+ df <- df %>% add_row(title = job, skill = word) 
+  }
+}  
+}
+```
+
+Separate title into job and employer
+
+```{r}
+df2 <- df %>%
+  separate(title, into = c("position", "employer"), sep = " - ") %>%
+  filter(!is.na(employer))
+```
+
+
+```{r, fig.height = 5, fig.width = 4}
+
+num_skills <- df2 %>%
+  mutate(skill = case_when(
+    skill %in% c(" r ", " r,", "rstudio") ~ "R",
+    skill %in% c("git ", " git, ", "github") ~ "git/GitHub",
+    skill %in% c(" gis ", " gis, ") ~ "GIS",
+    skill %in% c(" sas ", " sas, ") ~ "SAS",
+    skill == "python" ~ "Python",
+    skill == "excel" ~ "Excel",
+    skill %in% c("remote sensing", "remotely sensed") ~ "Remote Sensing",
+    skill == "matlab" ~ "MATLAB",
+    skill == "docker" ~ "Docker",
+    skill == "html" ~ "HTML",
+    skill == "arcgis" ~ "ArcGIS",
+    skill == "qgis" ~ "QGIS",
+    skill %in% c(" api ", " api,") ~ "API",
+    skill == "shiny" ~ "Shiny",
+    skill == "sql" ~ "SQL",
+    skill == "javascript" ~ "JavaScript",
+    skill == "css" ~ "CSS",
+    skill == "aws" ~ "AWS",
+    skill == "pytorch" ~ "PyTorch",
+    skill == "google earth engine" ~ "Google Earth Engine",
+    skill == "tableau" ~ "Tableau",
+    TRUE ~ as.character(skill))) %>%
+  distinct() %>%
+  group_by(skill) %>%
+  summarize(count = n()) %>%
+  mutate(prop = round(count/length(job_descriptions),2))
+
+software <- num_skills %>%
+  filter(skill %in% c("R", "git/GitHub", "Python", "JavaScript", "MATLAB", "SQL", "ArcGIS", "AWS","SAS", "QGIS", "Tableau", "Excel", "google sheets", "tensorflow", "PyTorch", "Google Earth Engine", "stata", "Shiny", "jupyter", "kepler", "Docker", "CSS", "azure", "kubernetes", "rmarkdown", "HTML", "bash"))
+
+
+ggplot(software, aes(reorder(skill,count), y = prop)) +
+  geom_col() +
+  theme_minimal() +
+  coord_flip() +
+  scale_y_continuous(labels = scales::percent) +
+  labs(y = "Proportion (%) of job postings", 
+       x = "",
+       title = "") 
+  #theme(axis.text.x = element_text(angle = 35, vjust = 0.75)) 
+
+ggsave(filename = "../software.png",dpi = 600)
+```
+
+```{r}
+non_soft <- num_skills %>%
+  filter(!skill %in% c("R", "git/GitHub", "Python", "JavaScript", "MATLAB", "SQL", "ArcGIS", "AWS","SAS", "QGIS", "Tableau", "Excel", "google sheets", "tensorflow", "PyTorch", "matlab", "Google Earth Engine", "stata", "Shiny", "jupyter", "kepler", "Docker", "CSS", "azure", "kubernetes", "rmarkdown", "HTML", "bash"))
+
+ggplot(non_soft, aes(reorder(skill,prop), y = prop)) +
+  geom_col() +
+  theme_minimal() +
+  coord_flip() +
+  labs(y = "Proportion (%) of job postings", 
+       x = "",
+       title = "") +
+  scale_y_continuous(labels = scales::percent)
+
+ggsave(filename = "../general_knowledge.png",dpi = 600)
+```
+
+```{r, fig.height=5, fig.width=6}
+num_jobs <- df2 %>% 
+  select(position, employer) %>%
+  distinct() %>%
+  mutate(position = str_replace_all(position, "_", "/")) %>%
+  group_by(position) %>%
+  summarize(count = n())
+
+ggplot(num_jobs, aes(label = position, size = count, color = position)) +
+  geom_text_wordcloud() +
+  scale_size_area(max_size = 8) +
+  theme_minimal()
+
+
+ggsave(filename = "../job_titles.png",dpi = 600)
+```
+
+Employers
+
+```{r, fig.height=5, fig.width=7}
+num_employers <- df2 %>% 
+  select(employer) %>%
+  distinct() %>%
+  group_by(employer) %>%
+  summarize(count = n())
+
+
+ggplot(num_employers, aes(label = employer, size = count, color = employer)) +
+  geom_text_wordcloud() +
+  scale_size_area(max_size = 4.5) +
+  theme_minimal() 
+
+
+ggsave(filename = "../employers.png",dpi = 600)
+```
+
+

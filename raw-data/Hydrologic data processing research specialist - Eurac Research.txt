@@ -1,0 +1,51 @@
+﻿From: Bertoldi Giacomo <giacomo.bertoldi@eurac.edu>
+Date: Fri, Feb 26, 2021 at 10:29 AM
+Subject: [AboutHydrology] Open Position: hydrologic data processing research specialist
+To: AboutHydrology <abouthydrology@googlegroups.com>
+
+
+
+
+Dear Colleagues,
+We are looking for a short-term collaborator supporting hydrologic data processing.
+See more information here: http://www.eurac.edu/it/aboutus/jobs/Pages/default.aspx
+Eurac Research is an interdisciplinary research center located in Bolzano, Italy. At the Institute for Alpine Environment, we perform ecosystem research with a special focus on global change in mountain environments.
+The current position is in the framework of the EU Interreg Alpine Space position "Alpine Drought Observatory (ADO)", which aims to create an online drought monitoring platform and develop policy implementation guidelines for proactive drought management in the Alpine Space region, to improve:
+* the understanding of drought impacts in the Alps,
+* the current drought monitoring and forecasting capabilities,
+* and the current drought management practices and drought preparedness.
+The candidate will support the project in collecting historical and real-time hydrological observations (river discharge, groundwater, water level data) in the Alpine space region, implementing a data infrastructure and a web-gis that will feed the ADO platform. He will also analyze the collected data to derive hydrological regime and identify historical droughts.
+ 
+Tasks:
+* Gathering hydrological observations from national and regional data providers in the Alpine Space
+* Keep contacts with the projects partners and data providing institutions
+* Organizing in the ADO platform and quality check collected data
+* Developing interactive visualization tools
+* Documentation / Report writing
+ 
+Requirements:
+* Bachelor o Master degree in engineering, statistics, meteorology, computer science, computational geography or a comparable course of study
+* Strong computational knowledge of at least one data analysis software, preferably Python or R;
+* Experience in data processing
+* Ability in team working, good communication, motivation to learn and personal initiative
+* Good English (good German and / or Italian desirable)
+* Experience with statistical downscaling and time series data analysis is desirable
+* Visualization skills for spatial and temporal data are desirable, i.e. knowledge of GIS and Web-GIS software
+ 
+We offer:
+* An interesting job in a young, international and interdisciplinary team
+* State-of-the-art technical facilities (soft- and hardware, communication tools)
+* The contract will start as soon as possible and will be initially issued for 6 months.
+ 
+How to apply:
+Interested candidates should submit their application (CV, cover letter and further relevant documents) by 14.03.2021 to the following address:
+Eurac Research
+Institute for Alpine Environment
+Viale Druso 1 – 39100 Bolzano
+Email: alpine.environment@eurac.edu- www.eurac.edu
+Tel: +39 0471 055 333 / Fax: + 39 0471 055 399
+
+
+For further information please contact Giacomo Bertoldi: giacomo.bertoldi@eurac.edu, tel: +39 0471 055 314
+ 
+Position financed by the EU Project Interreg Alpine Space "ADO" - ASP940 – CUP D54I18000330007

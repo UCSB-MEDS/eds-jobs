@@ -1,0 +1,48 @@
+﻿Remote Sensing Specialist (Associate Specialist), Environmental Market Solutions Lab (emLab), University of California Santa Barbara
+RECRUITMENT PERIOD
+Open date: October 8th, 2020
+Last review date: Sunday, Jan 31, 2021 at 11:59pm (Pacific Time)
+Applications received after this date will be reviewed by the search committee if the position has not yet been filled.
+Final date: Friday, Apr 30, 2021 at 11:59pm (Pacific Time)
+Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
+POSITION DESCRIPTION
+The Environmental Market Solutions Lab (emLab) is an interdisciplinary team of scientists based at UC Santa Barbara dedicated to bringing market-based solutions to the world's most pressing environmental problems. emLab conducts cutting-edge research and develops innovative policy solutions related to oceans and fisheries, land and freshwater, climate and energy, and people and poverty.
+Increasingly, many emLab research projects make use of remotely sensed data to identify causal relationships between policy, human behavior, and environmental outcomes. To support this growing body of research, emLab is seeking a highly motivated Specialist to compile, process, and analyze remotely sensed data. Research projects will include, but not be limited to, (1) the effect of financial incentives on the adoption of agricultural and land use outcomes including conservation farming, alternatives to field burning, and reforestation, (2) the cost and equity impacts of policies seeking to conserve forests, and (3) the environmental impacts of development interventions. Projects span a diversity of geographies, including Africa, South America, and Southeast Asia.
+The Remote Sensing Specialist will be responsible for a variety of tasks, including, but not limited to:
+● Identifying appropriate remote sensing datasets and methods to produce accurate measurements of environmental conditions such as land use and agricultural practices;
+● Overseeing the collection and refining of training datasets;
+● Developing efficient and reproducible workflows to implement best practices for data acquisition, pre-processing, and analysis;
+● Collaborating with environmental economists to analyze remotely sensed outcomes in experimental and quasi-experimental settings.
+The successful candidate will have strong quantitative skills, a creative and solutions-oriented mindset, and the ability to effectively communicate scientific results to stakeholders, scientists, and policymakers.
+Qualified applicants must have:
+Bachelor’s degree in geographic information systems, environmental science and management, data science, statistics, natural resource economics, or a related field at the time of application.
+In addition, the candidate must have:
+● At least 5 years of professional experience providing analytical research support to projects related to remote sensing, environmental economics, geography, or a related field;
+OR
+● A Master’s degree in geographic information systems, environmental science and management, data science, statistics, natural resource economics, or a related field at the time of appointment.
+Preferred Qualifications
+● Excellent quantitative skills including experience collecting, managing, processing, and analyzing large datasets;
+● Experience working with remotely sensed data from a variety of sensors, including datasets with different spatial, spectral, and temporal properties, as well as data from both active and passive sensors;
+● Proficiency with coding languages such as R, Python, the Google Earth Engine API, and Stata;
+● Familiarity with the application of machine learning methods to remotely sensed data;
+● Experience or proven interest in the use of econometric methods of causal inference;
+● Ability to synthesize and communicate scientific methods and results to a variety of partners and stakeholders;
+● Excellent creative problem solving and troubleshooting skills;
+● Excellent verbal and written communication skills;
+● Ability to take initiative, self manage, and work independently as well as collaboratively as part of a multidisciplinary team;
+● Exceptional attention to detail and strong organizational and time management skills.
+Salary and Benefits: Associate Specialist position with salary step commensurate with qualifications. 100% time appointment for 1 year from start date, with possibility for additional year(s) of employment contingent upon performance and funding. Start date is negotiable, but ideally no later than January 18, 2021. Full benefits package included.
+For primary consideration apply by November 2, 2020
+Position will remain open until filled.
+Please submit a cover letter, CV, and contact information for 3 references online at:
+https://recruit.ap.ucsb.edu/JPF01855
+The University is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching and service.
+The University of California is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+APPLICATION REQUIREMENTS
+Document requirements
+* Curriculum Vitae - Your most recently updated C.V.
+* Cover Letter
+Reference requirements
+* 3 required (contact information only)
+JOB LOCATION
+Santa Barbara, California

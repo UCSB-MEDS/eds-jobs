@@ -1,0 +1,22 @@
+﻿PF01968 Palmyra Atoll Data Scientist (Junior Specialist), Marine Science Institute, University of California, Santa Barbara
+
+
+The Marine Science Institute invites applications for a Junior Specialist to engage in a data science project relating to conservation and ecological research that has taken place at Palmyra Atoll over the past decades. The project involves retrieval and organization of data sets, and developing code for documentation of data with upload to established data repositories.
+The Junior Specialist will work collaboratively with the PI and partners at The Nature Conservancy (TNC) to seek datasets from researchers with documented research occurring at Palmyra Atoll between 2000 and present. The Junior Specialist will organize, document and submit datasets to the Palmyra Data Library within the Environmental Data Initiative data repository. The Junior Specialist will develop data editing and publishing workflow protocols for The Nature Conservancy Palmyra and partner data. The Junior Specialist will also assist with deployment of a conservation impact survey while acquiring datasets from Palmyra researchers. The Junior specialist will assist in mentorship of a data intern. The position will work closely with Project leads from UCSB and The Nature Conservancy.
+Basic Qualifications:
+A baccalaureate degree (or equivalent degree) in ecology, environmental science, computer science, or a related field
+Preferred Qualifications:
+• Masters or Doctoral degree in ecology, environmental science, data science, computer science, or a related field
+• Familiarity with ecological or environmental science research
+• Experience in data management and/or analysis
+• Experience building structured metadata
+• Proficiency in a scientific computing language (R, MATLAB, Python)
+• Experience or comfort with training others.
+• Strong communication skills
+The duration of the initial appointment is 12 months at 100% time at the Junior Specialist level; reappointment for an additional year(s) is possible depending on performance and funding. The position is available immediately. Salary is competitive, commensurate with the applicant’s qualifications.
+Please upload a cover letter including a description of your experience in data management and analysis, a curriculum vitae, and contact information for up to three references to:
+https://recruit.ap.ucsb.edu/JPF01968
+For primary consideration apply by April 21, 2021
+Position is open until filled.
+The University is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching and service as appropriate to the position.
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.

@@ -1,0 +1,59 @@
+﻿The Surf Conservation Data Coordinator
+
+
+ABOUT STW:
+Save The Waves Coalition (STW) is an international nonprofit that works with like-minded organizations dedicated to protecting surf ecosystems. We build coalitions to protect, steward and defend surf ecosystems, through legally protected areas, effective management, and grassroots mobilization. The Save The Waves Mobile app is the primary tool to connect surfers / oceans lovers around the world with the places they love.
+
+
+ABOUT THE ROLE:
+We are seeking a Surf Conservation Data Coordinator who is responsible for the development of the STW Mobile App project, with focus on database architecture to share critical data with partners. This person would also be responsible for surf ecosystem data analysis including but not limited to such as Surfonomics, Multi-Criteria Analyses, and impact data.
+
+
+ESSENTIAL FUNCTIONS
+The Surf Conservation Data Coordinator:
+* Leads efforts to coordinate and plan for conservation / surf data design, organization, function, and reporting.
+* Maintains the Save The Waves Mobile App platform and database, debugging, connecting with partners, keeping precise records of partners contacted, data shared, and surf ecosystems impacted in each region. 
+* Develops queries and reports to support the grant process and the project as a whole.
+* Develops and assists in delivering Mobile App training to field staff and partners individually and in groups in key locations.
+* Manage release train for the next version of the Mobile App, with development partners at Valtech.
+* Assists in recruitment of users for STW Mobile App, with a goal of 30,000 by the end of December 2021 2022.
+* Performs surf conservation data analysis including Surfonomics and, Multi-Criteria Analyses
+* D; designs and produces complex queries and professional reports, processes spatial and other relational data sets derived from cartographic and tabular source material and provides hardware / software support.
+* Assists in the development and maintenance of STW surfspot database and compiles, assembles, and maintains surf protection, biodiversity, and management data from various sources.
+* Combines and normalizes existing databases into an integrated system with existing CRM database (Salesforce).
+RESPONSIBILITIES AND SCOPE
+* May supervise staff, partners, graduate students, and interns and has the ability to motivate, lead, set objectives, and manage performance, including conflict resolution.
+* May help develop and manage work plans and large project budgets.
+* May negotiate and contract with partners / vendors.
+* Under limited supervision, acts independently, resolves complex issues, and may act as a resource to others.
+* Practices and promotes a culture of high-quality data collection, management, and reporting.
+MINIMUM QUALIFICATIONS
+* MS or BS degree in related field and 5 years related experience, or equivalent combination of education and experience.
+* Experience in designing and maintaining databases to meet organizational needs. 
+* Experience with software / mobile app development
+* Experience with GIS software, data/spatial analysis, data editing, and producing data reports and creating maps.
+* Experience managing multiple technology projects.
+* Experience interpreting results then developing and delivering training to practitioners.
+* Experience developing and delivering tech training to practitioners.
+* Experience with Microsoft Word, Excel, Access and Web Browsers.
+DESIRED QUALIFICATIONS
+* Multi-lingual skills and multi-cultural or cross-cultural experiences are appreciated, especially Spanish, Portuguese or Bahasa Indonesia.
+* Extensive experience with ArcGIS software family in a conservation setting.
+* Experience performing remote analysis and identification of natural resources using multiple data sources.
+* Experience with strategic partners and coalition building.
+* Ability to effectively communicate complex database concepts to non-technical audiences.
+* Knowledge of current trends and practices in relevant discipline(s) and geographic region(s).
+* Experience with impact evaluation data.
+* Knowledge of Salesforce tools and platform, experience with Salesforce preferred..
+* Experience collaborating with other parties / partners to obtain different data sources.
+* Managing and prioritizing tasks from multiple sources and meeting deadlines. 
+* Training or technical support experience.
+* Communicating clearly via written, spoken, and graphical means in English and other relevant languages.
+* Passion for the mission of Save The Waves, surfing, and conservation.
+ 
+As is the case in any small or growing organization tasks beyond this scope of work will likely be required of this position.
+
+
+Please send CV, Cover Letter and three references to: Jobs@savethewaves.org
+Any questions to: jobs@savethewaves.org 
+Absolutely no calls or walk-in applications.

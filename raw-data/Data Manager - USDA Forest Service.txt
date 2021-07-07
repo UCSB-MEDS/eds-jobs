@@ -1,0 +1,35 @@
+﻿The USDA Forest Service, Forest and Ecosystem Process Program, Pacific Northwest Research Station (http://www.fs.fed.us/us/pnw), is looking to fill a GS9 or GS11 Interdisciplinary Data Manager in Corvallis, Oregon, USA. This position would be in the series GS-0401 or GS-1301. 
+
+
+The incumbent serves as a Data Manager for a Forest Service Research group and: 
+• is responsible for evaluating, managing, cataloging, and/or archiving environmental databases. 
+• works with researchers and professional technical staff to improve annotation of databases with descriptive metadata and to archive data and metadata to online depositories. 
+• provides program support for the collection, compilation, storage, analysis, reporting, and distribution of strategic natural resources data. 
+• performs a wide variety of tasks and analyses that apply and integrate techniques, including data management and statistical analysis for database operations, data science, long-term forest and stream studies and high frequency, real-time environmental sensor data. 
+• applies research methodologies to evaluate data and ensure statistical consistency and accuracy. 
+• collaborates and consults on research and monitoring projects, including advising on database design and teaching best practices for data archiving. 
+• collaborates with partners and other specialists and has good communication skills. 
+
+
+Specifics: 
+
+
+- curates research data collected by researchers and from sensor networks, which includes evaluating data and reconciling inconsistencies and creating metadata records to document changes. 
+- participates in the design, development, and maintenance (including normalization) of existing standalone and internet-enabled databases and follows data governance guidelines for cataloging data, contributing to metadata management, data lineage, and data quality. 
+- uses Structured Query Language (SQL), R, Python, MatLab and other relevant software environments to write scripts to organize, evaluate, and conduct quality control analyses of data. 
+- tests programs to ensure accurate and statistically consistent operation, and identifies problems and bottlenecks in the information management system and makes corrections and improvements. 
+
+
+This position is with the Forest Landscape Ecology Team, in the Ecosystem Process and Function Program. The Program has responsibility for multiple Experimental Forests and Ranges (https://www.fs.usda.gov/pnw/page/experimental-forests-and-ranges) which have ongoing long-term studies and experiments including streaming real time data. The incumbent would join teams involved in evaluating and archiving multiple types of environmental data. 
+
+
+More Information: 
+The official duty station for this position is at the US Forest Service, Pacific Northwest Research Station, Corvallis Foresty Sciences Laboratory, on the campus of Oregon State University, Corvallis, Oregon. 
+If you are interested in this position and would like to be considered, please send an email to Anthony Youngblood (Anthony.d.youngblood@usda.gov) with your resume, a brief description of your background, your current position, and why you are interested in this position, by May 21, 2020. Please also fill out the form below. 
+
+
+If you have questions about this position, please contact Dr. Sherri Johnson, sherri.johnson2@usda.gov. 
+
+
+The main purpose of this outreach notice is to maximize diversity of the pool of candidates. The USDA prohibits discrimination in its programs on the basis of race, color, national origin, sex, religion, age, disability, political beliefs, and marital or familial status (not all prohibited bases apply to all programs). Persons with disabilities who require alternative means of communication of program information (Braille, large print, audiotape, etc.) should contact USDA's TARGET Center at 202-720-2600 (voice and TDD). To file a complaint, write the Secretary of Agriculture, USDA, Washington, D.C. 20250 or call 1-800-245-6340 (voice) or 202-720-1127 (TDD). The USDA is an equal employment opportunity employee
+Thank you for your interest in this position.

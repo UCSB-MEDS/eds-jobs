@@ -1,0 +1,40 @@
+﻿Research Scientist in econometric and geospatial analyses of sustainable supply chain policies
+100%, Zurich, fixed-term
+We are seeking to hire a full-time team member to support our quantitative data analysis projects, initially for a 2-year position (start date negotiable between July and October 2021) with possibility for renewal. We offer an intellectually challenging position in one of the leading research centers in Europe. The researcher will work closely with EPL members and Prof. Garrett to quantify the impacts of supply chain policies on environmental and socioeconomic outcomes by conducting analyses of farm and company level data, as well as spatial and other secondary data collected across the tropics.
+Project background
+ETH Zurich’s Environmental Policy Lab (EPL), chaired by Prof. Dr. Rachael Garrett, works on understanding the causes of global environmental change and identifying policies and practices that can contribute to reducing global environmental harms while promoting sustainable development. Our research is focused on land and food systems, with particular attention to supply chain sustainability policies and producers' motivations and livelihood challenges.
+One current area of focus is the effectiveness and equity of forest-focused corporate supply chain policies that aim to eliminate commodity-driven deforestation in the cattle, cocoa, soy, and palm oil sectors. To identify the impacts of these policies, we combine field-level survey data with geospatial imagery and supply chain network analysis, and also draw on qualitative (interview-based) evidence.
+See www.epl.ethz.ch and www.zerodeforestationimpacts.com for an overview of our research group and the portfolio of projects you would be working on.
+Job description
+The salary starts at 88,600 CHF/year and increases with seniority (see ETH standard payscale; this position is pegged at the Scientific Assistant II level).
+This is not a standard post-doctoral position as heavier emphasis is placed on assisting with existing team projects, rather than new individual research.
+Specifically the researcher will support EPL with:
+* Econometric analyses of spatial, survey and company data about supply chain policies to assess their impacts on land use change (e.g. degradation and deforestation) and on socioeconomic outcomes (e.g. technology adoption, equity)
+* Analyses and management of vector and raster spatial data
+* General data management and implementation of the data management plans of EPL projects
+* Synthesis of secondary data from the web  
+Your profile
+Key qualifications:
+* PhD degree or at least three years of commensurate experience applying microeconometric and quasi experimental methods for policy evaluation. If not formally trained in econometrics, the candidate should demonstrate commensurate experience in data analysis and programming
+* Previous experience in applied sustainability or socioeconomic research, ideally with a focus on quantitative policy impact evaluation, and/or analysis of the environmental and social impacts of land-use change
+* Strong competence in the analysis and management of spatial data
+* A good level of competence in programming in one or more among R, Stata, and Python as well as the ability to independently acquire new technical skills, including work in other programming languages, quickly
+* Fluency in English
+Desirable qualifications:
+* Experience with cloud computing for spatial data and large-scale raster & vector computations (e.g. Google Earth Engine)
+* Experience with Scientific Computing Clusters, e.g. Euler and Leonhard
+* Experience with web-based data scraping
+* Experience with version control (Git) and collaborative software development (e.g. GitHub)
+* Experience working with AWS services such as RDS or S3
+* Experience with machine learning algorithms 
+* Experience in creating and maintaining relational databases (e.g. SQL)
+* Experience in data processing and management of large-scale, field-based survey data (preferably including standardizing data across multiple regions) 
+ETH Zurich
+ETH Zurich is one of the world’s leading universities specialising in science and technology. We are renowned for our excellent education, cutting-edge fundamental research and direct transfer of new knowledge into society. Over 30,000 people from more than 120 countries find our university to be a place that promotes independent thinking and an environment that inspires excellence. Located in the heart of Europe, yet forging connections all over the world, we work together to develop solutions for the global challenges of today and tomorrow.
+Interested?
+We look forward to receiving your online application with the following documents all in one single .pdf file:
+* A one-page letter outlining your motivation and skills
+* A CV
+* Two writing samples (e.g., published articles or chapters from your dissertation)
+* Your Bachelor and Master level study transcripts
+Please note that we exclusively accept applications submitted through our online application portal. Applications via email or postal services will not be considered. Applications must be received by June 15 for a start date of September 1.

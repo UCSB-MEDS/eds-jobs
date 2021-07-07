@@ -1,0 +1,39 @@
+﻿Quantitative Research Associate
+Portland, ME
+Description
+The Gulf of Maine Research Institute (GMRI) pioneers collaborative solutions to global ocean challenges. Our scientists explore dynamic ocean systems from marine life to environmental conditions to coastal economies. We infuse our discoveries into the policy arena and design solutions with fishermen and seafood businesses to protect fishery resources, harvest them responsibly, and market them as premium quality food. We share our discoveries with the public and nurture a culture of leadership in communities that depend on the sea. Our education programs cultivate science literacy and build a foundation of collaborative problem-solving among our next generation of leaders, scientists, citizens, and stewards. Each year, we serve over 25,000 stakeholders from Cape Cod to Nova Scotia.  
+  
+The Gulf of Maine Research Institute is seeking applicants for a full-time Quantitative Research Associate position focused on statistical analyses and modeling of fish populations and marine ecosystem data. The work will span multiple research projects that focus on modeling the performance of fish, fisheries, and fisheries management under scenarios of climate change, fishing, and other drivers of interest. Work will include interacting with an interdisciplinary team and engagement with fishery stakeholders. Responsibilities and leadership of these efforts will be scaled with the applicant’s skill level and under the supervision of Dr. Lisa Kerr.
+  
+Responsibilities/Tasks
+* Manage large and diverse data sets
+* Conduct statistical analyses (including time series, spatial, and multivariate statistics)
+* Conduct stock assessment and fish population modeling 
+* Synthesis and visualization of modeling results
+* Manage code for manipulating and processing data in accessible and well documented manners
+* Perform literature reviews
+* Contribute to writing of project reports and manuscripts
+ 
+Other General Responsibilities
+* Project management across an interdisciplinary team.
+* Contribute to efficiency of operations across lab and projects through sharing of skills, codes, and data with other relevant associates 
+* Contribute to development of project and research team websites
+* Help populate and manage department-wide databases
+* Assist with general lab management, coordinating logistics, and other tasks as needed
+Requirements
+* A completed (or nearly-completed) M.S. or Ph.D. degree in a relevant discipline, such as Fisheries Science, Statistics, Ecology, or other related field that demonstrates a strong quantitative background.
+* Proficient programmer in R
+* Knowledge of fisheries science, population dynamics, stock assessment, and fisheries management.
+* Experience fitting models to data for fisheries stock assessment and/or experience in simulation modeling 
+* Strong quantitative skills, including experience with statistical analyses (e.g., regression, time series, spatial, and/or multivariate statistics), ecological modeling, and/or simulation modeling
+* Strong organizational skills and ability to manage multiple tasks and timelines
+* Strong verbal and written communication skills
+* Demonstrated ability to work independently and as part of a team
+ Other Preferred Qualifications
+* Familiarity with marine fisheries in New England
+* Proficient user of Microsoft Excel, Microsoft Access, SQL or other databases, ArcGIS
+* Experience working in GitHub.
+* Experience working in high performance computing environment is preferred. 
+Diversity and Inclusion
+Gulf of Maine Research Institute has a long-standing policy and commitment to providing equal access and equal employment opportunities in all terms, conditions, processes, and benefits of employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or veteran status. GMRI's employment decisions are made without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or veteran status. 
+Applicants and employees are encouraged to voluntarily self-identify their race/ethnicity, gender, disability status and veteran status to assist GMRI in fulfilling various data reporting requirements of the federal government. This self-identification is completely voluntary, will be kept confidential and separate from your application data, and used only to meet federal reporting requirements. Providing or declining to provide this information will not result in adverse action of any kind.

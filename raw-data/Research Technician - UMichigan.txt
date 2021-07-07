@@ -1,0 +1,30 @@
+﻿Job Summary
+The School for Environment and Sustainability (SEAS) overarching mission is to contribute to the protection of the Earth's resources and the achievement of a sustainable society.  Through research, education, and outreach, the faculty, staff, and students are devoted to generating knowledge and developing policies, techniques, and skills to help practitioners manage and conserve natural resources to meet the full range of human needs on a sustainable basis.
+The Jain lab at the University of Michigan is seeking a Research Technician to help process and analyze large datasets (ranging from census datasets, geo-spatial datasets, and satellite imagery) to aid research on sustainable food systems and food security in the face of environmental change.  
+Term Appointment
+This is a one (1) year term limited appointment with the possibility for renewal.  Renewal will be based on performance evaluations and funding.  
+SEAS is committed to creating an inclusive and equitable environment that respects diverse experiences, promotes and communications, discourages and genuinely respond to acts of discrimination, harassment, or injustice.  Our commitment to diversity, equity and inclusion is rooted in our values for a sustainable and just society.
+Why Work at Michigan?
+Benefits at the University of Michigan
+In addition to a career filled with purpose and opportunity, The University of Michigan offers a comprehensive benefits package to help you stay well, protect yourself and your family and plan for a secure future. Benefits include:
+* Generous time off
+* A retirement plan that provides two-for-one matching contributions with immediate vesting
+* Many choices for comprehensive health insurance
+* Life insurance
+* Long-term disability coverage
+* Flexible spending accounts for healthcare and dependent care expenses
+Responsibilities*
+* Download and clean census datasets needed for research.
+* Process remote sensing and GIS datasets in Google Earth Engine (GEE), R, and/or Python.
+* Conduct literature reviews.
+* Help manage lab meetings and projects.
+Required Qualifications*
+* Bachelor’s degree or combination of education and experience in environmental science, computer science, data science, geography, economics, or related field.
+* Ability to collect and organize data.
+* Experience with coding and demonstrated ability to analyze complex datasets.
+* Familiarity with R, MATLAB, Google Earth Engine or Python programming languages.
+* Ability to work independently.
+Desired Qualifications*
+* Experience with remote sensing and GIS.
+Additional Information
+Salary will be based on qualifications and experience.

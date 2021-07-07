@@ -1,0 +1,72 @@
+﻿Company Background
+In the United States, over a third of all the food we grow is lost to spoilage and w
+developing world, more than half of all produce is lost to spoilage before it can be c
+agricultural solutions inspired by and derived from nature for growers to protect their
+harvested fresh produce. We are committed to being a technological and environ
+between the agricultural, materials science, chemistry, biotechnology, and engine
+waste and reduce reliance on pesticides. Our mission is to enable widesprea
+development of high-performance pre- and post-harvest products and processes t
+resources and safeguard the Earth’s delicate ecological balance.
+Company Culture
+Apeel is comprised of highly talented, deeply passionate, and strongly tight-knit team
+opportunity to challenge the status quo, are obsessed with solving problems, and trul
+feed the world.
+Our people are core and absolutely fundamental to our company’s success and co
+what do you see? Team members who are working tirelessly and selflessly—not to
+team as a whole strategically, aggressively, and collectively realize a shared mission
+opportunity to jump in, tackle challenges (and opportunities!) head-on, take ownersh
+in a highly collaborative, communicative, and dynamic environment, we would love to
+
+
+Job Description
+Apeel Sciences seeks a highly motivated and experienced software engineer to de
+structure, and analysis pipelines for our IoT sensors in addition to building out backe
+mining IoT data.
+
+
+The ideal candidate will be excited about the possibility of working with world-class
+food waste through data-driven decision making. Apeel is seeking a person who
+about writing well-structured and maintainable object-oriented code, and meticulous
+secure data pipelines.
+
+
+As an IoT engineer, the right candidate may have embedded systems experience, wit
+communication, microcontroller programming, and/or electronics design. It is expec
+
+
+create well-constructed backend architecture around distributed sensors, to inclu
+access, to include offline/online database syncing and a RESTful API.
+
+
+Responsibilities
+Create reliable hardware and software for interfacing with research instruments (
+etc.)
+Work collaboratively with data scientists, interdepartmental stakeholders, and custo
+data collection and analysis projects
+Drive optimization and automation of data collection and storage from distrib
+paradigm
+Build and maintain databases, or utilize cost-effective and reliable third-party SaaS
+data, depending on cost effectiveness
+Create a backend API for our existing applications to implement to get real-time da
+Present frequently to the company (~once per 3 weeks) regarding deliverables, find
+the impact to business value
+Requirements:
+B.S. degree in Computer Science, Computer Engineering, or equivalent experience
+3+ years’ experience with software development
+Experience with Python, one of PostgreSQL/MySQL/MariaDB/MongoDB, and Git
+Strong oral and written communication skills
+An appreciation for teamwork and collaborative problem solving
+Would Be Great To See:
+Experience developing with Django/Flask
+Experience with Apache Spark, Cassandra, Hadoop, Terraform, Kubernetes, Resi
+products (AWS, Google Cloud)
+Experience with microcontrollers, embedded systems design and implementatio
+focused system administration
+
+
+Apeel believes that the scale of our impact is determined by the teams that work with
+performing teams of people from various experiences and backgrounds who can c
+new realms. We seek a diverse pool of applicants and consider all qualified candid
+color, gender identity or expression, sexual orientation, religion, national origin, cit
+marital status, or any other protected status. If you have a special need or disabi
+please let us know.

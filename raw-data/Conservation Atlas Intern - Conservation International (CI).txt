@@ -1,0 +1,43 @@
+﻿Conservation Atlas Intern
+Conservation International (CI) has been protecting nature for the benefit of all for over 30 years. Through science, policy, and partnerships, CI is helping build a healthier, more prosperous and more productive planet.  
+POSITION SUMMARY
+Diverse strategies are employed globally to conserve biodiversity, and conservation areas are subject to change, but assessments of conservation progress almost universally focus on static analyses of national parks and other protected areas. To advance scientific understanding and inform conservation decision-making, this intern will support efforts to document and describe the use of conservation systems including and beyond protected areas and their dynamics.
+The Conservation Atlas initiative at Conservation International seeks a detail-oriented intern to assist with global database construction and management, and other support. The intern will:
+* Research and compile spatial records and attribute data of area-based conservation systems and their dynamics in Europe, including protected area downgrading, downsizing, and degazettement (PADDD), and conservation beyond protected areas, including Indigenous Peoples and Local Community territories
+* Review literature and legal documents describing relevant conservation systems and their dynamics, as well as data sharing permissions and sources
+* Conduct statistical analysis and spatial analysis to support the project as needed
+* Generate summary statistics, maps, and other descriptive information as needed
+* Support initiative communication efforts    
+This position is a 12 week paid summer internship
+RESPONSIBILITIES
+Specific tasks include:
+* Desk research: review of data portals, legal documents, peer-reviewed literature, government reports, and other relevant documents; web search and outreach as needed to assess data sharing permissions
+* Spatial data collection and management: shapefile collection, data entry, geodatabase management, digitization of paper maps
+* Data analysis: descriptive statistics and analyses in GIS, Excel, and possibly Python, R, or other programs
+* Communication: post to social media pages and other related outreach
+* May have opportunity to contribute to peer-reviewed manuscripts
+* Project outputs will include spatial databases, maps, graphs, statistical analyses, and other related materials.
+* Other duties as assigned by supervisor
+WORKING CONDITIONS
+* Normal office environment; remote working likely due to COVID19
+QUALIFICATIONS
+Required
+* Proficiency with GIS, Excel, and spatial data management 
+* Strong qualitative and quantitative research skills 
+* Excellent organizational skills and attention to detail
+* Familiarity with biodiversity conservation in developing countries
+* Current student in the social sciences, natural resource management/conservation, environmental sciences, environmental policy, or related field
+Preferred
+* Programming skills (e.g. R, Python)
+* Foreign language skills
+To apply for this position please submit a resume and cover letter.
+See all Conservation International Career Opportunities HERE
+Conservation International Values
+We expect that all employees will embrace the values of our organization.​
+* Passion: Inspired by people and by nature, we are urgently compelled to drive change for a sustainable future. 
+* Integrity: We are honest, transparent and accountable for our actions.
+* Teamwork: We work together as one CI, recognizing that inclusion, collaboration and cooperation are fundamental to achieving a healthy and prosperous world for all.
+* Respect: We respect each other and work to earn trust, valuing our diversity of cultures, talents, and experiences.
+* Courage: We pursue our vision, taking bold action, persevering and overcoming challenges.
+* Optimism: We are optimistic about the capacity of people to be caring, generous and brilliant, and believe that with partners, we can inspire humanity to create a better future.
+Equal Opportunity Employer Minorities/Women/Vets/Disabled

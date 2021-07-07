@@ -1,0 +1,64 @@
+﻿R Programmer / ecological modeller
+Randstad - Commercial
+More jobs from this company
+Role Overview
+The Atlas of Living Australia (ALA) is Australia's biodiversity data infrastructure providing biodiversity data and related services to over 75,000 users in research, government, industry, and the public.
+ALA is a key partner in the 3-year digital innovation program, EcoCommons Australia, designed to tackle complex technical challenges encountered by researchers and decision-makers concerned with biodiversity including ecosystem services, biosecurity, natural resource management and climate-related impacts and responses. This is a multi-institutional program with partners across technical and research fields.
+In this exciting new role, you will develop scripts, packages and workflows needed to complete key analytical tasks in ecological and biodiversity modelling within the R programming language. You will be responsible for delivering standardised, reproducible software tools, and supporting the integration of those methods with the wider EcoCommons platform. This role is an opportunity to support and shape an emerging piece of Australia's scientific infrastructure, while drawing on established skills in quantitative ecology, ecological modelling, conservation or related fields. As a member of both EcoCommons and the ALA Science and Decision Support team, you will have a unique opportunity to work with Australian and international collaborators to enhance Australia's cloud computing capabilities.
+Duties and Key Result Areas
+* Develop scripts to deliver species distribution models, climate change projections, and ensemble models in R
+* Work with other developers to link R scripts to workflows written in other programming languages (such as Python)
+* Develop R packages to support reproducible workflows
+* Liaise with users and their communities/representatives regarding the delivery of data services to meet their requirements.
+* Work collaboratively with colleagues within your team and across partner institutions to reach objectives.
+* Adhere to the spirit and practice of CSIRO's Values, Health, Safety and Environment plans and policies, Diversity initiatives and Zero Harm goals.
+* Other duties as directed.
+What we are looking for:
+* Education/Qualifications: Tertiary qualification in Science, Engineering, Computer Science, Quantitative Ecology or another relevant field.
+* Communication: Excellent communication skills, both written and oral, including the ability to identify and influence critical stakeholders to gain support for contentious, proposals/ideas.
+* Behaviours: A history of demonstrating professional and respectful behaviours and attitudes while working in a collaborative environment.
+* Adaptability: The ability to effectively manage a number of competing priorities simultaneously and carry out non-routine tasks independently.
+* Problem Solving: Proven ability to investigate underlying issues of complex and ill-defined problems and develop appropriate responses by adapting/creating and testing alternative solutions.
+Essential Criteria:
+* Advanced skills in R programming
+* Demonstrated experience in analysis of spatial ecological data and ecological modelling
+* Excellent verbal and written communication skills and ability to use these skills to engage effectively with colleagues and clients
+* Demonstrated ability to work with independence and self-motivation within a team environment.
+* Ability & willingness to contribute novel ideas and approaches in support of cloud, open data publishing along FAIR principles and analysis strategies.
+Desirable Criteria:
+* PhD in ecology, conservation or evolutionary biology
+* Demonstrated experience of R package development
+* Experience in Species Distribution Modelling and climate change projections
+* Working knowledge with Python
+* Skills in effective visualisation of complex data
+CSIRO is a values-based organisation. You will need to demonstrate behaviours aligned to our values of:
+1. Integrity of Excellent Science
+2. Trust & Respect
+3. Creative Spirit
+4. Delivering on Commitments
+5. Health, Safety & Sustainability
+Other special requirements:
+To be eligible for this position you must be willing and able to travel interstate and/or overseas and to work outside of normal office hours when required. The role is preferably located in Canberra however applicants open to relocation or currently based in Melbourne are also encouraged to apply.
+Location
+The preferred location for this position is Canberra however other major city locations will be considered.
+How to Apply
+If you would like to be considered for this role, this is a great opportunity to tell Randstad and the Australian Atlas of Living about you. Please click "Apply Now" to submit a cover letter, statement addressing selection criteria, and a current CV, taking care to ensure your application includes the following information:
+   * Full name, address, telephone number and email address;
+   * Details of education, professional training and qualifications;
+   * Employment history, including present position;
+* Name and contact details of three referees
+For any questions please contact Dr Martin Westgate, ALA Science Advisor, martin.westgate@csiro.au
+Please note only short-listed candidates will be contacted.
+At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background.
+Right to live and work
+You must have the right to live and work in this location to apply for this job.
+
+
+--
+There are two exciting roles currently being advertised in collaboration with the EcoCommons Australia program developing the go to platform for ecological and environmental modelling:
+ 
+* R Programmer with skills in ecological modelling:
+https://www.seek.com.au/job/51810381?type=standout#searchRequestToken=c7fce2df-9e11-4a18-9286-bd985edfdcfd
+ 
+* Program Manager of the Sensitive Data Pathways Project:
+https://www.seek.com.au/job/51809742?type=standout#searchRequestToken=c7fce2df-9e11-4a18-9286-bd985edfdcfd

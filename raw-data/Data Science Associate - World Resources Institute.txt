@@ -1,0 +1,51 @@
+﻿World Resources Institute
+DATA SCIENCE ASSOCIATE
+Data Analysis & Technical Research  Washington, DC, United States
+________________
+
+
+
+
+Job Summary
+In this role, you will be part of a team using new methods and the latest data to enhance stakeholder’s trust and confidence in restoring degraded lands across the globe. You should be a Computational Social Scientist (CSS) that enjoys using data and modeling in creative ways and be adaptable and comfortable trying out new approaches and languages. In this role, you will contribute on all aspects of a wide range of computational social science research in support of the team’s goals. You will get the opportunity to work with multi-disciplinary teams with environmental science, research, finance, and communications backgrounds as well as peers in WRI’s Data Lab.
+This position is remote due to Covid-19, but you will be based at WRI’s office in Washington, DC once restrictions have lifted.
+Job Responsibilities
+You will contribute on all aspects of a wide range of CSS research projects. This includes development, original research and writing – and managing involvement in a number of different projects at once
+* Propose and execute data and analytic products that enable independent monitoring of restoration
+* Conduct remote sensing research to develop robust approaches to measuring restoration implementation with artificial intelligence, drone imagery, and satellite imagery
+* Manage defined CSS projects, collaborating on data collection, processing, validation, quality control, exploratory analysis, and production research
+* Write, test, and document high quality code using various languages and libraries such as TensorFlow, Rasterio, GDAL, and numpy 
+* Regularly write blogs, publications and research concepts and collaborates with manager to author peer-reviewed publications in remote sensing and machine learning
+* Lead internal workshops and gives external presentations for research peers, stakeholders, and decision-makers
+* Stay abreast of trends in data science, new kinds of data sources and methodologies skills
+* Experience in remote sensing-based monitoring utilizing optical and/or radar satellites in an applied research environment 
+* Experience interacting with web APIs, working with JSON data, and utilizing regex required
+* Experience working with very large data sets (data too large to fit into memory) required
+* Experience with machine learning (e.g., SVM, Random Forests, GBRT/GBDT, ensemble methods, etc.) required
+* Familiarity working with image data, OpenCV, and/or convolutional neural networks for machine learning (e.g., Caffe) preferred 
+* Experience writing about CSS research for both technical and general audiences preferred
+* Experience using crowd-sourcing (e.g., Mechanical Turk) to gather or make data preferred
+* Experience with SQL, Mongo (or other NoSQL DB), Hadoop/Hive/Spark/Pig/etc.) preferred
+Job Qualifications
+* Master's degree in Computational Social Science, Data Science, Environmental Science, or related field (or demonstrated data science credentials and 2 additional years of relevant experience)
+* Minimum of 3 years of full-time work experience with Python (pandas, numpy, rasterio, GDAL, Keras, and Tensorflow) and integrating machine learning models with cloud computing platforms (e.g., AWS, Google Cloud, Azure)
+* Experience with code management and data engineering tools such as GitHub, Docker, Kubernetes, and/or AWS Lambda
+* Expertise in ArcGIS software, including ArcGIS Desktop 10.x and ArcGIS Online
+* Experience with multiprocessing techniques (e.g. numba, cython, Spark)
+* US work authorization required for this position
+How to Apply: Please submit a resume with cover letter. Applicants must apply through the WRI Careers portal to be considered. 
+
+
+Potential Salary: $71,000 - $93,000. Salary is commensurate with experience and other compensable factors.
+
+
+Program Overview
+
+
+The Global Restoration Initiative works to mobilize action to restore economic and ecological vitality to degraded farms, forests, mangroves, and peatland around the globe. We are a team of nearly 80 across Africa, Asia, Latin America and Washington, DC working to accelerate this locally led, globally important movement in three ways: 1. Inform: Create new data and communicate insights at the global, national and landscape stakeholders 2. Enable: Shift policies and incentives by helping decisions makers solve each other’s challenges 3. Invest: Accelerate projects and businesses and match them with funders to start closing the funding gap All of which are led through partners of the scaling platforms—AFR100 and Initiative 20x20.
+WRI Overview 
+World Resources Institute (WRI) is an independent, nonprofit global research organization that turns big ideas into action at the nexus of environment, economic opportunity and human well-being. We are working to address seven critical challenges that the world must overcome this decade in order to secure a sustainable future for people and the planet: climate change, energy, food, forests, water, sustainable cities, and the ocean. 
+We are passionate. We value our diversity of interests, skills and backgrounds. We have a flexible work environment. And we share a common goal to catalyze change that will improve the lives of people. Our shared ideals are at the core of our approach. They include: integrity, innovation, urgency, independence and respect. 
+The foundation of our work is delivering high-quality research, data, maps and analysis to solve the world’s greatest environment and international development challenges, and improve people’s lives. We work with leaders in government, business and civil society to drive ambitious action and create change on the ground. Equally important, we bring together partners to develop breakthrough ideas and scale-up solutions for far-reaching, enduring impact.  
+We have been growing rapidly: our staff has doubled in size over the past 5 years and our operating budget is now $150 million. Founded in 1982, WRI has a global staff of 1,000+ people with work spanning 60 countries. We have offices in Africa, Brazil, China, Europe, India, Indonesia, Mexico and the United States as well as a growing presence in other countries and regions.   
+WRI is committed to advancing gender and social equity for human well-being in our mission and applies this principle to our organizational and programmatic practices.

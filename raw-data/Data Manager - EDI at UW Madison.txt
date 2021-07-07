@@ -1,0 +1,23 @@
+﻿DATA MANAGER
+Due March 22, 2021
+
+
+JOB NO:231512-AS
+WORK TYPE:STAFF-FULL TIME
+DEPARTMENT:L&S/CTR FOR LIMNOLOGY
+LOCATION:MADISON
+CATEGORIES:INFORMATION SYSTEMS/TECHNOLOGY, RESEARCH, SCIENTIFIC
+
+
+Official Title
+SR PROGRAMMER ANALYST(T06BN) or PROGRAMMER ANALYST(T06DN) or ASSOC PROGRAM ANALYST(T06FN)
+The Environmental Data Initiative (EDI) is a project, funded by the National Science Foundation (NSF) to provide professional data management, archiving and publishing to ecologists. Duties will include curating and archiving a wide variety of datasets from researchers, frequently involving a fairly short turnaround time if data publication is required for paper acceptance.
+25% Data Quality Control and scripted data processing - Checking datasets for known problems and resolving them in collaboration with the responsible researcher. Applying standardized approaches and developing new ones when needed, preferably in the R programming language. Contributing to a data quality control and data processing script library.
+
+
+25% Semantic Annotation - Interpreting the wide ranging representation of ecological research themes and measurement types among datasets in the EDI Repository to create semantic cohesion among them by tagging with well-defined terms from a web-accessible ontology. Working with researchers to review their own datasets for annotation accuracy.
+
+
+Requirements
+A bachelor's degree in ecological science, information science, computer science, or a related field is required.
+Demonstrated basic skills and at least one year of experience in scientific data handling and data processing script writing plus some knowledge of ecological principles and field data collection; Being comfortable with using and learning new technologies (e.g., database technology, R scripting, XML editing); Although some training in these technologies will be provided, willingness to find solutions and do troubleshooting independently through searching the web is also needed. Demonstrated capacity to learn quickly, work independently, as well as work well within teams; Attention to detail and the skills to communicate effectively with ecologists as well as technical staff in person and in writing are extremely important.

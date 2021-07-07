@@ -1,0 +1,44 @@
+﻿JPF01941 Software Engineer at the Benioff Ocean Initiative (Assistant/Associate Specialist)
+Marine Science Institute, UC Santa Barbara
+The Benioff Ocean Initiative (boi.ucsb.edu) is a marine science research group at the University of California, Santa Barbara that leverages university-powered science and technology research to create tangible solutions to problems that impact ocean ecosystems and human communities.
+The Benioff Ocean Initiative seeks a Software Engineer to support select marine technology projects. The person appointed will work closely with senior investigators and specialists from the Benioff Ocean Initiative and collaborating institutions to develop data-centric software products and manage the organization of data across the Initiative. 
+The applicant must be willing to balance a diverse portfolio of responsibilities and technical roles, and appreciate the challenges and opportunities that come with working in a small, flexible, and agile team. While all work takes place in a research-centric environment, primary emphasis for the position will be on applied environmental problem solving and not on generating peer-reviewed publications. 
+Responsibilities include:
+* Acting as the development lead for SharkEye (www.sharkeye.org), an AI-enabled drone monitoring program for studying great white sharks. Responsibilities may include: 
+   * Building a prediction pipeline in Google Cloud Platform for running video files stored in Google Cloud Storage through a computer vision model developed with Salesforce’s Einstein Vision API.
+   * Designing and developing a web service for uploading, organizing, and downloading data housed in Google Cloud Storage.
+   * Working with project partners and community stakeholders to publish the web service and design a next-generation version of SharkEye. 
+* Leading image data collection, annotation, and computer vision development work as part of the Benioff Ocean Initiative’s Clean Currents Coalition (www.cleancurrentscoalition.org), an effort to combat plastic debris in rivers. Responsibilities may include: 
+   * Building and managing tools for conducting data transfers and uploads to a collaborative dataset of river plastic imagery housed in a Google Cloud Storage space. 
+   * Overseeing the organization and publishing of the dataset online. 
+   * Designing annotation protocols and managing a team of image annotators. 
+   * Partner with external researchers to design and implement preliminary computer vision experiments for detecting objects present in river-based imagery. 
+* Assisting with the expansion of shipping report cards in Whale Safe (www.whalesafe.com), which may include scaling up existing code and infrastructure that is used to analyze ship tracking data.
+* Assisting with additional software engineering work for other Benioff Ocean Initiative projects as needed, including the maintenance of existing in-house APIs. 
+* Helping grow the Benioff Ocean Initiative’s engineering staff and network of pro bono engineers, and formalize the organization’s team engineering protocols. 
+Basic Qualifications
+Bachelor’s degree or equivalent degree in a relevant field (computer science, engineering or environmental/biological sciences) AND five years of experience in software engineering, data science, or other closely related discipline is required at the time of application
+OR
+Master’s degree or equivalent degree in a relevant field (computer science, engineering or environmental/biological sciences) is required at the time of application
+Additional Qualifications
+Working knowledge of Git and Python, or a similar programming language.
+Preferred Qualifications
+* Demonstrated ability to work across disciplines, with external partners and non-technical professionals.
+* Demonstrated experience with Google Cloud Platform tools and cloud infrastructure.
+* Confident with SQL and data management.
+* Experience developing computer vision models and using standard machine learning frameworks such as Tensorflow or PyTorch.
+* Experience in organizing professional engineering work on a team and helping grow an engineering team.
+* Understanding and acceptance of diversity, equity and inclusion in the workplace.
+This position begins as a one year appointment from the start date at 100% time. Position start date is negotiable, with a preference for March 2021. This appointment includes a competitive benefits package with medical, dental and vision insurance and a UC retirement plan. Title and compensation are flexible based on the applicant’s qualifications and experience.
+We encourage applicants to submit an optional Statement of Contributions to Diversity. These statements, if submitted, will be reviewed for evidence of research, professional and/or public service contributions that promote diversity, equal opportunity and equitable access.
+Electronic applications including a resume, cover letter, contact information for 3 references, and the optional statement of contributions to diversity should be submitted via:
+https://recruit.ap.ucsb.edu/JPF01941
+For primary consideration apply by February 21, 2021
+Position is open until filled.
+The University is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching and service as appropriate to the position. 
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+--
+Dr Emma Critchley
+Project Scientist
+Benioff Ocean Initiative
+University of California, Santa Barbara

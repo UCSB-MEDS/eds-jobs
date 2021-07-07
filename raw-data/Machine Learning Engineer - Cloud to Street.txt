@@ -1,0 +1,22 @@
+﻿Machine Learning Engineer
+Company
+Cloud to Street is the world’s leading remote flood mapping platform. We use global satellites and remote sensing AI to monitor flood risk and detect worldwide floods in real-time. Seeded by Google, we have been used by governments across almost 20 countries for disaster relief efforts. Partnering with top insurers, we are now launching the first commercial parametric flood insurance product to better protect climate-vulnerable communities.
+Role
+We are looking for an experienced Machine Learning Engineer to help us scale up our Deep Learning efforts to turn optical and radar satellite imagery into actionable insights. In this role, you will take ownership of large projects in Cloud to Street’s Deep Learning agenda - building the full pipeline from training data collection to model training and testing. You will work with a team of scientists and engineers with expertise in Machine Learning, remote sensing, radar and hydrology to turn petabytes of satellite data into meaningful information to empower the world’s most vulnerable communities.
+‍
+This role is based in Brooklyn, NY and is remote until further notice. Remote work is possible within UTC -5 to UTC +1 time zones (Eastern Standard Time to Central European Time).
+Who You Are
+* 2+ years of job experience training Deep Learning algorithms for Computer Vision (CNNs)
+* Strong track record (e.g. own projects, Kaggle, …) of distilling data into algorithms and results
+* Excellent in Python and Deep Learning Frameworks (PyTorch favored)
+* Experience in Data Engineering with open source geospatial Python packages preferred
+* Self-directed with a focus on getting things done without ego
+* Prioritize justice, diversity, science, and solidarity with vulnerable communities
+Responsibilities
+* Build Deep Learning based solutions to problems including: flood detection, cloud detection, super-resolution and gap filling
+* Automate the selection of the right additional training data to be labeled and review the quality of annotations from our partners
+* Integrate successful experiments and algorithms into the C2S product
+* Present findings in an accessible way to science and product teams
+* Evaluate, implement and test new approaches emerging from competitions or recent papers
+To Apply
+Send your resume to hiring@cloudtostreet.info with Machine Learning Engineering in the subject line. Let us know why you would like to join Cloud to Street and how you can best contribute. Applications will be open until the position is filled, with the goal of hiring the right candidate as soon as possible.

@@ -1,0 +1,74 @@
+﻿POSITION DESCRIPTION: Data Scientist  
+Conservation Science Partners (CSP; csp-inc.org) is seeking a Data Scientist passionate about  conservation to provide general leadership and project-specific support on a wide array of high profile, data-driven projects and initiatives in the U.S and internationally.  
+Conservation Science Partners is a leader in the fields of conservation biology and landscape ecology,  working at the intersection of the latest computational technologies and the environmental sciences.  We work in the exciting, complex, and fast-paced non-profit realm where the emphasis of projects is  
+generally on terrestrial ecology and freshwater systems, with applications to human systems (e.g., land  and water use, protected areas, social and environmental justice, end-user needs) using tools that  include: data science and advanced analytics; disturbance, drought, impacts, or risk analysis; climate  change vulnerability analyses; species occupancy and habitat modeling; and wildlife and ecological  connectivity analysis, among others. The successful candidate will contribute to an internal culture of  diversity, equity, inclusion, innovation, creativity, and experimentation, and help to advance the  function, direction, and initiatives of the organization. 
+The Data Scientist will serve as part of a team of data scientists, engineers, and ecologists working to  solve large-scale problems through implementation of end-to-end software development workflows,  machine learning/advanced statistical modeling, and cloud-based computing platforms. Projects involve  working with teams of ecologists on data-driven landscape and conservation planning projects around  the globe, developing more general platforms and tools that bring cutting-edge software technologies to  conservation practitioners.  
+The Data Scientist should have well-developed problem-solving, statistical, and analytical thinking  capacities and a demonstrated record of applying these skills to programming. They should demonstrate  attention to reproducibility and quality assurance/quality control in all their work. We are looking for  someone with excellent organizational and communication (oral and written) skills who can balance  several projects simultaneously. Specifically, the Data Scientist will be expected to lead or support the  design, development, and deployment of new or existing projects, steward external and internal  communications, and manage a variety of project tasks, not just technical ones. The successful  candidate will be expected to foster and maintain positive, respectful communications with clients,  research collaborators, interns, project contractors, and other personnel.  
+Data Scientist Core Skills and Responsibilities: The Data Scientist position brings technical and analytical  capacity to a variety of projects, as well as direct and regular engagement and collaboration with core  staff, clients, partners, contractors, and other project personnel. Primary responsibilities are expected to  include, but not be limited to: 
+● Practicing good software development 
+o Programming in Python, R, JavaScript, and Bash 
+o Using online versioned repositories for code (e.g., Github), including branching/forking  
+workflows 
+o Using and building portable environments, specifically Docker for reproducible  
+workflows
+  
+
+  
+
+o Familiarity with continuous integration/deployment and implementation of these  
+concepts into end products 
+o Learning new methods and software for specific projects, as appropriate 
+● Building geospatial machine learning/statistical datasets and models 
+o Manipulating and querying big datasets for analysis and modeling 
+o Data munging and preprocessing 
+o Acquiring and processing remotely sensed images 
+o Automating data allocation 
+o Model prototyping/fitting/evaluation using both machine learning methods and  
+inferential statistics 
+o Building and evaluating training/validation/testing dataset for fitting supervised learning  models for specified tasks 
+o Understanding, using and constructing deep learning architectures that include  
+convolutional neural networks and recurrent neural networks using the Tensorflow,  
+Keras, and/or PyTorch frameworks 
+o Provisioning and leveraging cloud resources for storage and computation (i.e Azure,  
+Amazon Web Services, and Google Cloud Platform). 
+● Managing and advancing projects and outcomes 
+o Fostering and maintaining positive, respectful communications with clients, research  
+collaborators, interns, and project contractors or other personnel 
+o Leading and contributing to the design, development, and management of multiple  
+research initiatives or projects simultaneously 
+o Creating user-friendly data visualizations and other syntheses of complex information 
+o Producing web-mapping applications with model outputs for multiple end users 
+Additional desired skills (or willingness and aptitude to receive training): 
+● Additional Machine Learning and Modeling Skills 
+o Applied experience with deep learning including convolutional neural network and  
+recurrent neural network design 
+o Applied experience with supervised/unsupervised image classification and segmentation 
+o Ability to provision and optimize large computational loads using cluster, GPU, and  
+distributed computing platforms 
+o Knowledge of backend workflows to prepare data and spatial data for dashboards  
+serving on the web 
+● Additional Software Skills 
+o Experience with GIS tools and web map APIs (e.g. Google Earth Engine, Mapbox, CARTO,  
+QGIS, ArcGIS) 
+o Fluency in SQL, HTML, CSS, Markdown, and LaTeX 
+We encourage you to apply even if you do not bring existing expertise in every listed skill and  responsibility. We welcome the broader complement of knowledge and skills that stem from applicants’  professional and life experiences. We seek a candidate with deep curiosity directed toward diverse  research interests, as well as aptitude and enthusiasm to develop new skills and areas of expertise. We 
+  
+
+  
+
+want to help you grow and, in return, for you to help CSP grow into a well-rounded, inclusive 
+organization. 
+Required qualifications: A bachelor’s degree in conservation biology, ecology, earth/environmental science, computer science, or a related field with 3-5 years of additional professional experience; a MSc or PhD in one of these fields, plus 1-3 years of professional experience, is preferred. 
+Application deadline and expected start date: Priority will be given to complete applications received by March 5, 2021, with screening to begin soon thereafter; interviews in the first half of March, and an  ideal start date of April 5, 2021.  
+Location: This position is intended to be based in Truckee, CA. Due to the ongoing, fluid situation with the risks of COVID-19 transmission, and CSP’s interest in reducing such risks, we will consider a remotely stationed individual. Ideally, if and when the risks are sufficiently reduced, and if the candidate and CSP staff are comfortable, we would like to revisit the location of this position. Truckee is 30 minutes from Reno, NV. The Reno-Truckee area offers a high quality of life near natural beauty, a vibrant evolving city, outdoor recreation, excellent educational institutions, and a convenient international airport. 
+Compensation: The Data Scientist salary range is $70,000-$82,000 depending on experience. We offer a comprehensive group medical, dental, and vision insurance package; retirement benefits; and professional growth and advancement opportunities. 
+How to apply: Please email a cover letter explaining how your goals, skills, and experience fit the core responsibilities of the role, as well as how your broader knowledge and experiences can contribute to our organizational culture and values. Include the names and contact information of at least three  relevant professional references, as well as your CV, and send to: hiring@csp-inc.org. Your cover letter,  reference list, and CV should be compiled and sent as a single PDF file. Please indicate DATA SCIENTIST  in the subject line. 
+About Conservation Science Partners: CSP is a 501(c)(3) nonprofit scientific collective established to  meet the analytical and research needs of diverse stakeholders in conservation projects. Our mission is  to apply human ingenuity to the preservation of species, populations, and ecosystems using scientific  principles, innovative approaches, and lasting partnerships with conservation practitioners. Our  principal offices are located in Truckee, CA, and Fort Collins, CO, with additional staff located in five  other states.  
+Organizational Values and Culture: Our core values include scientific and technical excellence and  integrity, and we consider diversity, equity, and inclusion as equally important values for our employees  to possess or be open to learning and growing. We support and encourage creativity and innovation in  practice and products; respectful co-production of knowledge; engagement with social justice practices;  and connection to the living world. CSP supports vibrant, diverse living systems of all kinds, remaining  mindful of the root causes of ecological harm. In particular, we are committed to realizing diversity,  equity, and inclusion in all we do. We are actively seeking project opportunities that directly involve  Black, Indigenous, and communities of color and diverse international partners, address disparate  impacts of environmental change, and support social justice. We are advancing a process to ensure that  
+  
+
+such goals come alive, recognizing the sustained attention, learning, and long-term commitment that  this requires. 
+CSP’s culture stems from highly skilled, independent people working in dynamic collaboration to  implement quality projects while imagining the future shape, form, and landscape of conservation  partnerships. Our staff includes artists, musicians, athletes, collectors, mechanics, and people pursuing  other passions beyond conservation. As a group, we are candid and embrace respectful communication,  intellectual independence, intentional collaboration across a dispersed network, personal  
+accountability, ownership of quality and joy in our work, and adaptability and resilience. We put a  special emphasis on innovation and creative co-leadership. Through staff workshops and retreats,  collaborative ‘Innovation Labs,’ cross-sector outreach and training, and staff-driven technical and  
+facilitative approaches, we seek ways to increase our creativity, efficiency, and effectiveness, while  enjoying the process. 
+CSP is an equal opportunity employer and does not discriminate on the basis of race, color, national  origin, sex, disability, age, religion, sexual orientation, gender identity, gender expression, creed, veteran  status, parental status, or marital status in its programs and activities. We recognize that diverse  backgrounds, cultures, and experiences can only enrich our community and our conservation mission and  goals. As part of our intentional efforts to increase inclusivity, equity, diversity, and justice, we encourage  applicants from underrepresented groups in conservation, e.g., those who identify as women or non‐ binary, LGBTQ+, are people of color, or represent any combination of these and other identities. We  value relevant skills and lived experience and encourage you to apply if you have interest in the position,  even if your experience is not a perfect match with the requirements.

@@ -1,0 +1,70 @@
+﻿SilviaTerra - San Fran
+
+
+Data Scientist - Natural Resource Econometrics
+US - REMOTE /BIOMETRICS /FULL-TIME
+
+
+About SilviaTerra
+SilviaTerra helps mission-driven companies buy carbon credits from American forest owners.  Based on a decade of work with America's largest landowners, our data-driven platform brings gigatons of new carbon offsets to market.  Our mission is to work with every forest owner to unlock the full value of every acre.
+
+
+Read more in this TechCrunch feature article about SilviaTerra.
+
+
+We are backed by some of the world’s leading VC firms who were early investors in companies like Twitter, Etsy, Kickstarter, and Coinbase. Our global team of foresters, scientists, and technologists hails from leading research institutions and high growth technology startups.
+
+
+We are looking for passionate, collaborative, and entrepreneurial individuals to join the team. If you like fast-paced environments and want to help us build the future of forestry, then we’d love to speak to you!
+
+
+Job Description
+SilviaTerra is built on terabytes of geospatial data, and we are rapidly expanding to integrate new types and structure of data into our work. Our Basemap dataset is our flagship data product- a high-resolution dataset of estimated number, species and size of trees across the continental United States.  Basemap and its derivative metrics are critical components that underpin transactions on our carbon market. 
+
+
+This role is an integral part of that work, primarily responsible for improving and extending spatially explicit forecasts of annual forest change, landowner behavior, and harvest likelihood. The initial focus of this work is North America, with planned expansion globally. The Data Scientist - Econometrician will work closely with the rest of our team of forest biometricians and data scientists. 
+
+
+
+
+The successful candidate for this role is creative, innovative, quantitative, and thorough. This is a role for a strong individual contributor who wants ownership of a critical component of an innovative new forest carbon market.
+
+
+You will be successful in this role if you are:
+
+
+- Eager to do applied work with real-world impact
+- Comfortable working with messy datasets from many sources
+- Able to tackle a challenge, deliver results, and continually improve your own products
+- Ready to design and produce a meaningful, data-driven and spatially explicit model of the world around you
+- Experienced with natural resource management, or can talk us through your experience learning and succeeding in work on new subject matter
+
+
+Come join us as we democratize natural capital markets for landowners!
+
+
+This is a remote position.
+Key Responsibilities
+   * Take the lead on improving and extending baseline forest change datasets to inform high-resolution, spatially explicit estimates of available carbon for marketplace transactions
+   * Research and understand current academic and commercial best-practices for forest disturbance modeling to inform model development
+   * Source, evaluate, and incorporate new datasets to improve estimates of landowner behavior and landscape change
+   * Develop methods for benchmark and improve disturbance-risk data products
+   * Assess, improve, and communicate the accuracy and precision of these models to stakeholders including internal and external parties (e.g., 3rd-party certification and verification bodies)
+   * Work closely with other members of the Data Science teams at SilviaTerra to ensure our modeling and data collection efforts are optimized for the improvement of forest disturbance modeling
+Required Skills & Experience
+   * Experience forecasting landowner behavior or forest change 
+   * Deep understanding of and applied experience using a variety of machine learning and statistical techniques
+   * Familiarity with natural resource management and ecology
+   * Fluent ability in Python or R (preferably both)
+   * Demonstrated ability to integrate large, disparate datasets for applied econometric analyses or forecasting
+   * Demonstrated understanding of spatially explicit, large-scale work
+   * PhD in Economics, Econometrics, Ecology, Forest Science, or a related field OR a Masters degree and 2 years of relevant work experience
+Desired Skills & Experience
+   * Experience with time series and spatial modeling techniques
+   * Familiarity with forest inventory, management, and ecology data
+   * Familiarity with remote sensing
+   * Experience with geospatial and remote sensing analyses using open-source software (QGIS, R and Python packages)
+   * Detail-oriented
+   * Excellent written communication skills
+   * Comfortable working remotely with necessary travel for company meetings
+SilviaTerra is an equal opportunity employer and will not discriminate against any employee or applicant on the basis of age, color, disability, gender, national origin, race, religion, sexual orientation, veteran status, or any classification protected by federal, state, or local law. Applicants must be authorized to work in the United States.

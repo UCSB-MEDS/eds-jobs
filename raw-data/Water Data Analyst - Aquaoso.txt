@@ -1,0 +1,34 @@
+﻿About AQUAOSO
+AQUAOSO Technologies, PBC is a startup, a Techstars company, a Nature Conservancy partner, and a critical data partner to hundreds of paying users throughout the Finance & Agriculture supply chain. Our experienced team is working towards a water resilient future. We build ethical technology to tackle 21st century water issues.
+As a public benefit corporation we believe that people, place, and community matter. By shining the light on water data, we can increase decision-maker ability to form intelligent, informed decisions about their business, government district, farm, or investment by providing actionable intelligence in mitigating risks associated with water.
+Turning raw data into refined catalysts for action is a messy process. We take on the dirty job of wading through unorganized and hard to locate data. Just as you may find a valuable vintage item at a local yard sale, we are on the hunt for valuable data that can assist in improving our current platform. We then polish, analyze, and present actionable insights to our clients in a clean, clear, concise manner. Data alone is not useful; the right data, in the right format, at the right time is invaluable. We have fun, work hard and are growing a new company with a bright, cross-disciplinary team.
+Responsibilities/Qualifications
+AQUAOSO is seeking a California Water Data Analyst to help take our water security platform to the next level. We need a creative and analytical person who does not mind getting their hands dirty with data and statistical analysis. As a member of the Data Insights and Impact team you will:
+* Research and track changes in California water regulation and policy
+* Maintain the current California database and expand when necessary
+* Author California water analysis reports
+* Expand current water demand estimate framework and investigate implementation of future demand projections
+* Expand current work on water and land valuation
+* Research & develop a water budget model
+* Utilize water, soil, climate, and agricultural data to inform a water security score
+* Identify relationships between large datasets for meaningful insights
+* Prepare clear and concise project documentation that thoroughly documents and explains methodologies used
+* Develop and implement standardized QA/QC procedures
+* Communicate project results to the team in a clear, logical, and engaging manner
+Required Skills
+* Understanding of California surface water, groundwater, and hydrologic principles
+* Ability to analyze watershed and water quality data using GIS and/or statistical techniques
+* 3+ years conducting data and statistical analysis involving Excel or Google Sheets, and other software, such as R, SAS, Python, SQL (Preferably Postgres), VBA, Tableau, ArcGIS, and QGIS
+* Ability to summarize and illustrate trends, develop and execute database queries, and develop/format modeling inputs/outputs
+* A positive attitude and willingness to take ownership of assigned projects
+* Master’s degree in geology, hydrology, environmental science, statistics, mathematics (or related field) OR a Bachelor’s degree with 3+ years of experience
+Compensation and Perks
+* Market salary
+* Stock option equity program
+* 401k, health and dental insurance
+* Paid leave
+* Flexible hours and ability to work remote
+* Periodic team retreats (on hold due to COVID-19)
+* Virtual ‘Lunch and Learns’ and team outings
+* Working with a highly motivated team on products that have the potential to have significant societal impact
+AQUAOSO is an equal opportunity employer. We value diversity in all its forms. Diversity is one of our core values.

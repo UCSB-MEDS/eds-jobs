@@ -1,0 +1,47 @@
+﻿Faculty Specialist (*note this is not a faculty job, it is an entry level position)
+Department: BSOS-Geography
+
+
+Starting Salary: Commensurate with experience
+
+
+Closing Date: Monday, May 31, 2021
+
+
+Duties:
+The Department of Geographical Sciences at the University of Maryland (UMD) is a leader in integrated research on the coupled human and physical dimensions of global change, remote sensing, and Geospatial Information Science. The Department seeks a highly self-motivated Professional Track Faculty Specialist position to serve as a Project Coordinator. Salary and benefits are highly competitive, commensurate with qualifications and experience. A bachelor’s degree in geography, project management, computer science, or a related field is required. Applications from women, gender minorities, BIPOC individuals, people with disabilities, and all intersecting identities are particularly sought.
+
+
+The primary responsibility of this position is to support NASA Harvest Program (www.nasaharvest.org). NASA Harvest is NASA’s food security and agriculture program, led by a Hub within the Department of Geographical Sciences at the University of Maryland. In particular, the Project Coordinator will support the development of the NASA Harvest Portal, a geospatial content management system providing access to data and analysis tools in partnership with international agencies/organizations involved with food security and agricultural monitoring.
+
+
+As Project Coordinator, you will be coordinating code sprints across multiple projects, scheduling regular check-in meetings for the development team, liaising between projects (and understanding the roles and responsibilities associated with each), performing quality control checks on systems and results, and developing written materials for documentation, training, and funding proposals.
+
+
+
+
+Qualifications:
+This is an entry-level or junior-level position. BA or BS is required.
+
+
+Strong candidates will:
+* Have a background in project management for software/applications development
+* Be capable of coordinating activities for several simultaneous projects across a small team of developers
+* Be capable of working within a dynamic research team with individuals from various backgrounds
+* Exhibit high attention to detail
+* Be able to quickly organize around short deadlines
+* Have strong writing skills to be able to contribute to developing system documentation and training materials
+* Have experience with software development and collaboration tools like the Atlassian suite (Jira, BitBucket, Confluence, etc.) or similar is required
+ 
+Preferences:    
+Additionally, comfort with GIS software (ArcGIS or QGIS) and programming using Python, Javascript, and/or SQL are preferred skills.
+For best consideration applications should be submitted no later than April 30, 2021, but the search will continue until a suitable candidate is selected. For questions about the position, please contact Dr. Michael Humber, Assistant Research Professor and NASA Harvest Data Lead, mhumber@umd.edu.
+To Apply: https://ejobs.umd.edu/postings/
+Further information on this position and on academic and research programs of the Department may be obtained from the address above and can be found at http://www.geog.umd.edu
+ 
+Additional Information:
+Applications should include:
+* A personal statement of background and experience relevant to the position, including research should be included in your cover letter.
+* A signed and dated Curriculum Vitae
+* 2 technical writing samples 250 words each ( writing sample 1 and 2 should be uploaded as writing sample 1 and 2.)
+* The names and addresses (including e-mail & phone numbers) of 3-5 references.

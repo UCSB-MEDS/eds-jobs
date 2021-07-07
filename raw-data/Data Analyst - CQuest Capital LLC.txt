@@ -1,0 +1,52 @@
+﻿C- Quest Capital LLC (CQC) is a social impact investor, project developer, and climate finance specialist whose mission is to transform the lives of families in the poorest communities in the developing countries by providing them access to clean and sustainable energy services and clean energy technologies and improving the health and wellbeing of women and children. CQC was founded in 2008 and is headquartered in Washington DC, USA with subsidiaries in India, Malaysia, Singapore, and Cambodia on-ground teams in Malawi, Zambia, and rapidly growing into other Sub-Saharan Africa countries. 
+
+
+CQC is a leader in providing clean efficient cooking and lighting services to the rural poor worldwide and has growing businesses in renewable energy production and supply, and sustainable agricultural land use, and forestry. Our projects are implemented either through our operational platforms and subsidiaries or through closely managed partnerships and joint ventures with on-the-ground organizations. 
+
+
+We have active investments in over 13 countries across Sub-Saharan Africa, Central America, and South and East Asia that have thus far improved the lives of over 20 million people. 
+
+
+CQC employs over 30 full-time staff of investment, project management, and carbon professionals based around the world including Washington DC, India, Malaysia, Cambodia, Malawi, and Zambia. In addition, we regularly draw on a pool of individual consultants, collaborating NGO and private sector partners, and staff of our joint venture partners. 
+
+
+Background: 
+CQC is rapidly expanding its investment in cleaner cooking services across its core geographies. In Sub-Saharan Africa, we have launched a three million household four-year investment across Malawi, Zambia, Zimbabwe, Mozambique, Kenya, Uganda, Tanzania, Angola, and Rwanda with pilot activities planned in several other SSA countries. 
+
+
+Core Tasks: 
+CQC is looking for a Data Analyst who will lead the data management strategy of the organization by designing, constructing, implementing, and maintaining a comprehensive management information system to support management oversight and product improvement across operations. The Data Analyst will initially focus on our Sub-Saharan Africa projects and then expand their support to CQC’s global operations and departments. 
+Under the guidance and supervision of the CEO and Director of Operations – Africa, the Data Analyst would: 
+* • Manage and analyze master data, including cleaning, duplicate checks, updates, user access, and user roles. 
+* • Design and implement a comprehensive Management Information System (MIS) with daily reporting functions.
+* • Provide quality assurance of data uploads from field teams, involves daily oversight as necessary. 
+* • Communicate errors in data to Senior Operations Specialists and Director of Operations in a detailed manner to support full edits and reduction of future errors. 
+* • Develop weekly and monthly reports and document project progress. 
+* • Track and reconciles data against purchase orders and field inventory. 
+* • Support data warehouse in identifying and revising reports to produce the necessary information. 
+* • Troubleshoot the reporting database environment and reports. 
+* • Evaluate changes and updates to the reporting system. 
+* • Provide technical expertise in data storage structures, data mining, and data cleaning. 
+* • Draw random data samples, following instructed parameters, upon request. 
+* • Provide oversight and fulfill data requirements for Validation and Verification Bodies (VVBs) before and during monitoring periods. 
+* • Interpreting data, analyzing results using statistical techniques. 
+* • Developing and implementing data analyses and other strategies that optimize statistical efficiency and quality. 
+* • Identify, analyze, and interpret trends or patterns in complex data sets. Updating, creating, and supporting databases and reports with key metrics to guide strategic decisions. 
+
+
+Location 
+Location is flexible, with a preference for Washington DC, USA, but other locations may be acceptable for the right candidates as CQC relies heavily on home-based workers and the use of video conferencing technology to connect with global teams. 
+Supervision 
+The appointee will report to the Director of Operations - Africa and work closely with Senior Operations Specialists and Senior Managers as needed. 
+
+
+Qualifications or specialized knowledge/experience required: 
+1. Bachelor's degree at a minimum preferably focused on Statistics, Mathematics, Data Science with a master's degree(s) in relevant fields advantageous, depending on the field of study and experience gained. 
+2. Ideally, 3+ years of work experience as a data analyst or related field, with direct work experience in M&E (Monitoring and Evaluation) strongly preferred. 
+3. Experience designing and engaging MIS to turn large databases into usable information. 
+3. High competency in Microsoft Excel required. 
+4. Previous experience employing Data Visualization Skills and familiarity with visualization software (Tableau/Power BI, etc.) would be an advantage. 
+6. Ability to analyze existing tools, databases, and provide software solution recommendations. 
+7. Practice onboarding a new database management system would be an advantage. 
+8. Demonstrated experience in handling and analyzing large data sets and relational databases. 
+9. High-level written and verbal communication skills with commitment to working in a global team environment and/or with hard or soft climate technologies an advantage.
