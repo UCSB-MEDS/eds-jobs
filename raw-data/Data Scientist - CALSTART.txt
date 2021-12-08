@@ -1,0 +1,33 @@
+﻿CALSTART is seeking a highly motivated, experienced, and results-oriented Entry-Level Data Scientist (DS) who will play a critical role in developing CALSTART’s data storage infrastructure, including maintaining an application programming interface (API) for users to access a wide variety of data derived from clean transportation programs throughout the country. The DS will create automated workflows to ingest data from a variety of sources before loading into a relational database and/or storing in raw formats in a backed-up file system. The DS will develop routines to calculate metrics at the levels of vehicle, fleet, project, and various spatial hierarchies (i.e. zip code or county). These metrics will then be served through an API for access internally and externally by authorized clients via web and desktop applications. The DS will work with CALSTART staff, external parties, and prospective users to develop the workflows, API, and reports.
+The Data Scientist will also:
+* Code in a scientific programming language (e.g. R or Python) to the degree of having documented functions in a package (e.g. R library or Python module)
+* Create and populate relational databases (e.g. PostgreSQL) including forming queries in SQL
+* Consume APIs by constructing web requests, possibly first authenticating with OAuth, and digesting responses in JSON with a programming language
+* Maintaining a RESTful API using a framework (e.g. R Plumber or Python Flask)
+* Version code using git and collaborate on issues through GitHub
+* Contribute to the strategic development of information technology infrastructure
+* Develop technical guidance documenting products and services created
+* Organize and submit reports to CALSTART staff
+* Present architecture and use of APIs to potential users.
+About CALSTART
+CALSTART‘s mission is to improve air quality, combat climate change, strengthen the economy, and create jobs by growing the clean transportation technology industry. With more than 28 years of experience, CALSTART is recognized nationally and internationally as an industry catalyst. CALSTART’s member organizations are diverse and include, among others, Tesla Motors, UPS, Ford, the Union of Concerned Scientists, Kenworth, General Motors, DTE, and Southern California Edison. CALSTART focuses on four major initiatives: cars, trucks & non-road vehicles, bus & innovative mobility, and fuels & infrastructure. CALSTART is a national organization with offices in several states. If you want a career making a real impact and benefiting society and the environment, you should consider coming to work with us!
+Qualifications
+* A bachelor’s degree in a scientific field including coursework in computer science and/or data science
+* 2 plus years of related experience in data science (relevant post-graduate education may count towards this experience)
+* Proficiency in a scientific programming language (e.g. R or Python)
+* Demonstrated experience with relational databases, such as PostgreSQL
+* Basic knowledge of APIs, OAuth, JSON
+* Knowledge of the transportation industry is a plus, with emphasis on zero-emission vehicles and supporting technologies
+* Exceptional presentation, communication, and writing skills
+* Excellent problem-solving and critical thinking skills
+* Strong ability to meet or exceed deadlines and work with minimal supervision or direction
+* Proven ability to multitask and handle complexity
+Salary and Benefits
+* Competitive annual salary based upon experience
+* Performance-based growth opportunities
+* Competitive company-paid health plan that includes dental and vision care
+* Retirement plan with a generous company contribution
+* Employee Incentive Program (bonus) yearly based on performance
+* Telecommuting and flexible work hours as appropriate
+* Rewards for sustainable forms of commuting to and from work
+* Committed to employee growth and development

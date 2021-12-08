@@ -22,7 +22,7 @@ library(ggwordcloud)
 #list all google docs in the jobs folder
 jobs <- drive_ls("https://drive.google.com/drive/u/0/folders/1MMeiTL6C_AlJVkM6No8OQKzDzYFkY5GW")
 
-for (i in 1:nrow(jobs)){
+for (i in 31:nrow(jobs)){
   print(i)
   
   job <- jobs[i,]$name
@@ -155,7 +155,7 @@ num_jobs <- df2 %>%
 
 ggplot(num_jobs, aes(label = position, size = count, color = position)) +
   geom_text_wordcloud() +
-  scale_size_area(max_size = 8) +
+  scale_size_area(max_size = 6) +
   theme_minimal()
 
 

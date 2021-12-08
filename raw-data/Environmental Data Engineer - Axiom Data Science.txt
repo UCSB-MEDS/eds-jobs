@@ -1,0 +1,32 @@
+﻿Environmental Data Engineer at Axiom Data Science
+Location:  We are a remote-minded company headquartered in Anchorage, AK and have satellite offices in Portland, OR; North Kingstown, RI; Washington, DC; Homer, AK; and Fairbanks, AK. Location is flexible and may be remote, though we would prefer someone in close proximity to our Anchorage, AK; Portland, OR; or North Kingstown, RI offices.
+
+
+Axiom Data Science is recruiting for an Environmental Data Engineer to contribute to the advancement of our scientific data management tools. Data science exists at the intersection of three domains: computer science, mathematics and statistics, and scientific expertise. We are seeking a candidate who can contribute to each of these domains through prior experience handling and analyzing marine, atmospheric or geospatial data. Experience with community standard open-source tools and scientific data formats is important, but inspiration, vision, motivation, determination, and commitment are the qualities Axiom values most. As a small company taking on complex information science challenges, Axiom depends on all employees being multi-talented, imaginative, and resourceful. Staff are provided with the tools they need to perform at their highest potential and rewarded with an employee-focused work environment.
+ 
+Core Responsibilities
+* Develop routines for extracting, transforming, manipulating, formatting, compiling, and curating large and complex geo-physical and scientific data types primarily in the coastal and ocean domains;
+* Develop and contribute to existing data services built to deal with large-scale scientific datasets;
+* Contribute to translating scientific data and analytic results into end-user products.
+Desired Skills
+* 4+ years of relevant experience with a spectrum of environmental scientific data formats;
+* Degree in computer science, statistics, mathematics, or similar quantitative discipline; or a degree in the physical and/or environmental sciences with quantitative and programming experience;
+* Experience working in a collaborative team environment;
+* Experience working within a Linux environment or the willingness to learn;
+* Experience with the core concepts of software engineering (e.g. source control, continuous integration tools, unit testing and coding best practices);
+* Experience with the core Python data science stack;
+* Experience building services and APIs on top of large geospatial datasets;
+* Experience with data from stationary and moving platforms (e.g., environmental sensors, autonomous vehicles, ocean drifters, etc.);
+* Experience with core GIS concepts such as rasters, vectors, projections and spatial operations;
+* Experience with geospatial databases and storage formats (e.g., GeoTIFF, ESRI Shapefile/geodatabase, NetCDF, PostgreSQL/PostGIS, GeoJSON, etc.);
+* Willingness to dive in and embrace other aspects of our technology stack: Docker, Ansible, Git, Jupyter, Apache Spark, GeoServer, Dask, TimescaleDB, Parquet/Arrow, NodeJS, React, D3.js
+About Axiom
+Axiom is a small and dynamic (~20 person) technology and informatics firm with a mission to build a better understanding of society and the environment by increasing the accessibility, reuse, and impact of scientific data. To that end, we provide cyberinfrastructure support, data management systems, and scalable solutions for organizing and analyzing large amounts of diverse datasets to organizations across the globe. We’ve assembled an outstanding team of software developers, data analysts, and data coordinators to tackle difficult problems and provide excellent support to our partners at businesses, non-profits, federal and state agencies, and universities.
+ 
+We offer a flexible, collaborative working environment, and we have a company culture that promotes taking initiative, solving problems, and maintaining a healthy work-life balance. We want to do great work, while being a great place to work. We are headquartered in Anchorage, AK and have satellite offices in Portland, OR; North Kingstown, RI; Washington, DC; Homer, AK; and Fairbanks, AK.
+ 
+Compensation and Benefits
+Competitive salary commensurate with experience. Benefits include 5 weeks paid leave plus holidays, healthcare reimbursement, a company 401K plan, and a gym membership. 
+ 
+Application Materials
+If you are interested in this position, please apply by July 31, 2021 with your resume and a cover letter describing how your experience fits with the desired qualifications. Please include links to projects you have worked on and explanation of your role; web links to relevant personal websites and/or projects; and examples of any open source participation (e.g., GitHub, StackOverflow), as available.

@@ -1,0 +1,54 @@
+﻿Category:
+	Staff and Administrators  RSS feed of all Jobs         
+	Department:
+	4221 (GEOG-Geography)
+	Locations:
+	Worcester, MA
+	Posted:
+	Jul 28, 2021
+	Closes:
+	Open Until Filled
+	Type:
+	Full-time - Exempt
+	Position ID:
+	134393
+	
+
+	About Clark University:
+Founded in 1887, Clark was one of the first all-graduate institutions in the United States. Today the University is a highly-ranked, student-centered institution educating approximately 2,350 undergraduate and 1,150 graduate students to be imaginative and contributing citizens of the world and to advance the frontiers of knowledge and understanding through rigorous scholarship and creative effort. This commitment to scholarship and inquiry reflects the University's commitment to "challenge convention and change our world" and to address issues of critical importance to society. It is also reflected by Clark's many national and international distinctions, including recognition for its diversity and inclusion efforts, innovation, community engagement and impact, as a top green campus, and for having a distinguished geography and international development program. Clark has also been included in the groundbreaking Colleges that Change Lives guide since it was first published in 1996.
+ 
+Clark is located in Worcester, Massachusetts, a dynamic, diverse city "on the rise." The second largest city in New England, Worcester is home to 11 institutions of higher learning and is increasingly recognized for its growing healthcare and biotechnology communities, its thriving cultural scene, and as a vibrant food hub.
+
+
+Job Description:
+Clark Labs and the Graduate School of Geography at Clark University seeks a research associate to advance projects focused on 1) mapping croplands and crop types in smallholder-dominated agricultural systems (led by Dr. Lyndon Estes) and 2) the expansion of aquaculture systems (led by Dr. Ron Eastman) across the global tropics. The successful candidate will have expertise in Earth Observation (EO) and machine learning, particularly in semantic segmentation using deep learning, as well as strong skills in programming (open source required; python preferred), experience in processing large volumes of EO data in cloud computing environments, and the ability to analyze, synthesize, and clearly present the data in oral and written formats for a broad diversity of audiences.
+ 
+Anticipated Term of Appointment
+An initial appointment of 12 months, with reappointment for another 12 months on satisfactory progress. Reappointment beyond 24 months is possible contingent on performance and sufficient funding.
+ 
+
+
+Requirements:
+* A PhD degree in a field with demonstrable relevance to the description, such as, but not limited to, Geography (GIScience/remote sensing focus), Computer Science, Environmental Informatics, Environmental Science, and Civil and Environmental Engineering.
+   * Candidates with an MS degree in a related field who can demonstrate outstanding relevant skills will be considered.
+* A publication record (including code repositories) that demonstrates the necessary skill sets.
+ 
+This is a Full-time position with excellent benefits, which include employee and family tuition benefits, 4 weeks' vacation, generous retirement plan, free use of campus fitness center and many more.
+ 
+Clark University currently requires all employees and students to be vaccinated against COVID-19 no later than July 15. Exemptions will be made for medical or disability reasons or religious beliefs, and could be made, at the sole discretion of the University, for other well-documented reasons.
+
+
+Additional Information:
+Clark University, the Graduate School of Geography, and Clark Labs
+Clark University is a pioneering institution in the fields of GIScience, and the application of GIScience to understanding interactions between humans and the environment, particularly in the fields of land use and land cover change. Clark Labs is internationally renowned as a leading innovator in GIScience and the developer of TerrSet software, and the Graduate School of Geography, the longest-running geography department in the US, has granted more geography PhDs than any other US institution, and has an internationally recognized faculty.  Clark University is under the leadership of a new President, David Fithian, and a new Provost, Sebastian Royo, whose goal is to transition the institution to a "culture of possibility" that seeks to transform the visibility of academic excellence by contributing novel ideas that serve as solutions to the world. GIScience at Clark will play an important role in contributing to that goal. 
+ 
+Clark University embraces equal opportunity and affirmative action as core values: we believe that cultivating an environment that embraces and promotes diversity is fundamental to the success of our students, our employees and our community. This commitment applies to every aspect of education, services, and employment policies and practices at Clark. Our commitment to diversity informs our efforts in recruitment, hiring and retention. All positions at Clark share in the responsibility for building a community that values diversity and the uniqueness of others by exhibiting integrity and respect in interacting with all members of the Clark community to create an atmosphere of fairness and belonging. We strongly encourage members from historically underrepresented communities, inclusive of all women, to apply.
+
+
+Application Instructions:
+To be considered for this position, you must submit your credentials online. Create a Clark University Careers Account by clicking on the APPLY NOW button below. You will be able to upload the following documents, which are required for consideration:
+* Resume, including contact information for 3 references
+* Cover letter
+See the FAQ for using our online system. Please contact us if you need assistance applying through this website.
+Already have a Clark University Careers Account? Login to your account to add documents or update your account.
+Review of applications will begin immediately and continue until the position is filled. Salary will be commensurate with skills and experience.

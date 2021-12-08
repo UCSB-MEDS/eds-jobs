@@ -1,0 +1,31 @@
+﻿Title: Associate Environmental Scientist
+Program: Clean Water
+Requisition No. CW-2021-03
+Posted: 2021-09-10
+Position Description:
+The San Francisco Estuary Institute (SFEI) seeks an associate environmental scientist or engineer to join an interdisciplinary team investigating nutrient biogeochemistry and ecosystem responses in San Francisco Bay. This work will be carried out in support of the San Francisco Bay Nutrient Management Strategy (NMS; see http://sfbaynutrients.sfei.org), a multi-year science program studying the impacts of nutrient loads to San Francisco Bay and evaluating potential management actions. Working with regional collaborators, we study the Bay’s biogeochemistry, water quality, and habitat condition using ship-based sampling, high-frequency in situ sensors, bivalves as biosentinels of algal toxins, and coupled hydrodynamic-biogeochemical modeling. 
+The SFEI-NMS team is recruiting for two closely-related positions. In advertising the positions in parallel, our aim is to hire two outstanding individuals whose experience, skills, and scientific backgrounds will best augment and/or deepen the NMS’ capacity within its technical focus areas. The two positions differ primarily in level of experience, with flexibility in the specific technical expertise for each position. The other open position (please see here) requires a higher level of experience and/or education than specified below.
+A major focus of both positions will be on the analysis and interpretation of large, rich datasets (e.g., multi-year high-frequency mooring datasets; multi-decade monitoring program data) to gain mechanistic insights into ecosystem dynamics and/or to characterize status and trends in water quality indicators. In addition, one or both of the positions (depending on areas of expertise and experience), will play a major role contributing to on-going and future field work, including managing and expanding the SFEI-NMS moored sensor program, targeted mechanistic field studies, and/or data management including QA/QC oversight and data visualization.
+Desired Qualifications:
+* Master’s degree plus at least 2 years of experience or Bachelor’s degree plus at least 5 years of experience in environmental engineering, environmental science, oceanography, or another related scientific field. 
+* Strong quantitative background and data analysis skills using data analysis or statistical software (e.g., Python, R, Matlab).
+* Experience applying those skills to interpret large datasets (high-frequency and/or multi-decade monitoring data) related to water quality
+* Strong communication, presentation and writing skills, and ability to synthesize information.
+* Ability to work well in teams as well as work independently.
+In addition, the candidate should have expertise or experience in some of the following areas:
+* Experience with oceanographic instrumentation (e.g. CTD, ADCP, etc.), including deployment planning, calibration, and maintenance.
+* Data visualization experience and skills.
+* Experience with data management, quality assurance, and post-processing. 
+* Understanding of marine/estuarine biogeochemistry, hydrodynamics, ecology, and/or chemistry.
+* Experience with technical project management, organizational skills, and ability to manage multiple projects at once and meet deadlines.
+* Strong meeting facilitation skills and/or experience presenting to/engaging with stakeholder groups.
+* Ability to contribute to, or lead, aspects of field work that may periodically involve working unusual hours (e.g., late nights, early mornings, and weekends), carrying field equipment, and working on boats.
+Duties: Several exciting NMS projects are underway, covering a diverse range of topics, and the ideal candidate will have the skills to effectively lead data collection and synthesis projects. Typical duties may include:
+* Identify, compile, and organize field and laboratory data and information from studies within and outside of SFEI. 
+* Analyze datasets using statistical software and open source code (e.g., Python, R suite).
+* Synthesize data from multiple lines of evidence, including both observational and modeling studies, to address key nutrient management issues and develop recommendations for mitigating impacts
+* Write technical reports, journal articles, memoranda, and proposals.
+* Depending on experience and interest, lead various types of field work using standard and innovative techniques, including instrument calibration and maintenance. 
+* Lead projects involving internal staff and external partners.
+* Oversee and provide technical direction on verification/validation (QA/QC) of data and/or instrument calibration and maintenance (depending on skills/experience). 
+* Develop posters and presentations for stakeholder meetings, public meetings and scientific conferences.

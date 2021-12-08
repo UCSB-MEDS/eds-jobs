@@ -1,0 +1,51 @@
+﻿About the job
+If you’re looking for a place to build your career, where you can contribute to a dynamic employee-owned firm, tackle challenging project work, and collaborate with industry recognized professionals - Geosyntec is the place for you! Geosyntec Consultants is seeking a highly motivated, organized Database and Visualization Specialist to join our team in Santa Barbara, California. The selected candidate ­will both support and manage projects that include environmental assessments, groundwater remediation, water resources, geotechnical construction, and more, while also learning and expanding the business skills needed for a successful consulting career.
+
+
+Our clients ask us to address their new ventures and most challenging problems involving the environment, natural resources, and civil infrastructure. Ranked by ENR in the top 20 design firms for the environment, Geosyntec is internationally known for its technical leadership, broad experience, and exceptional client service. Learn more by visiting www.geosyntec.com
+
+
+Essential Duties And Responsibilites
+
+
+Is this the right position to help you achieve your professional goals? Some of the key responsibilities for the position include:
+* Designing, developing, and managing project-specific relational database applications using desktop (MS Access) and enterprise (MS SQL Server, EQuIS) database software;
+* Developing comprehensive workflows and metadata to automate compilation of data from multiple sources and serve data to maps, reports and other tools;
+* Compiling, verifying, analyzing, and reporting large and diverse datasets;
+* Improving workflows and process efficiency using programming languages (e.g. R, Python, VBA);
+* Interacting with internal and external providers to coordinate collection and transfer of data to project databases; and
+* Interacting with internal and external clients to support database management and data visualization for environmental engineering, geoscience, stormwater, and sustainable groundwater management projects.
+Collaboration and mentoring are cornerstones of Geosyntec’s culture. You should expect to work closely with experienced professionals who will guide and integrate you into Geosyntec’s culture, as you kick start your career. Your success is our success. We encourage our professionals to continually develop their interests and skills. Advancement is based on an individual’s own performance and initiative.
+
+
+EDUCATION AND LICENSURE
+* BS degree in environmental science, geography, computer science, or geology. (required)
+* Master’s degree in environmental science, geography, computer science, or geology. (preferred)
+Skills, Experience And Qualifications
+* At least 1 year of technical training and experience in database technology or GIS; or equivalent combination of education, experience and training that provides the prerequisite knowledge and skills. (preferred)
+* Exceptional attention to detail in quantitative work products, written communication, spelling, and grammar. (required)
+* Proficiency in MS Excel and MS Access, including the ability to write complex formulas and visualize data effectively. (required)
+* Working knowledge of database structure, query design, and maintenance. (required)
+* Proficiency in scripting languages such as R, Python, SQL, or Matlab. (preferred)
+* Proficiency in web-based mapping applications. (preferred)
+* Competency in, or ability to learn three-dimensional (3D) modeling and visualization software (e.g. Earth Volumetric Studio (EVS), Leapfrog3D, etc.). (preferred)
+* Knowledge of server architecture and web technology. (preferred)
+* Experience with the front-end processes of collecting field data with various GPS units and the process of downloading and compiling the data. (preferred)
+* Understanding and use of Graphic Design software (Adobe Photoshop, Illustrator, etc.). (preferred)
+* Direct experience managing environmental, geologic, and geotechnical data collection. (preferred)
+* Knowledge of laboratory analytical data verification and validation processes. (preferred)
+* Valid U.S. driver’s license and satisfactory driving record for business travel. (required)
+Preferred Candidates Will Also Possess The Following Professional Attributes
+* Vision and desire to lead a data management and visualization practice in the environmental consulting industry.
+* Patience and planning skills to cultivate an efficient data management and visualization practice.
+* Ability to talk to and engage clients in business development and willingness to learn new business development skills.
+CULTURE/EEO STATEMENT
+
+
+Geosyntec strives to hire and retain the best and brightest people in their fields. We look for hard working individuals with exceptional interpersonal skills, communication skills, and problem-solving abilities, plus the passion for technical excellence and quality. We seek individuals with leadership potential, a commitment to lifelong learning and growth, and the desire to build a long and rewarding career with a growing Firm.
+
+
+Geosyntec is a great place to build a career. If you're looking for an exciting place to work, a place with challenging and rewarding projects, and a place that has been nationally recognized for its employees' quality of life, technical expertise, and business success, then Geosyntec may be the place for you. You can learn more about careers and employment at Geosyntec by visiting http://www.geosyntec.com/careers/
+
+
+We are proud to offer our employees a highly competitive benefits package. Learn more by visiting http://www.geosyntec.com/careers/employee-benefits.

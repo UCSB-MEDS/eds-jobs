@@ -1,0 +1,94 @@
+﻿Chief Data and Learning Officer
+Technology · Oakland, California
+Chief Data and Learning Officer (Full-time, Remote)
+
+
+About Us
+UpTogether is a national organization of individuals across the country with diverse backgrounds, experiences, and identities who share a passion for social justice and racial equity.  Our mission is to recognize, highlight and invest in the ingenuity and entrepreneurship of people in historically undervalued communities and partner with government and philanthropy to do the same.
+
+
+After working with thousands of families since our founding in 2001, at UpTogether, we are certain people don’t live in poverty because they are lazy, uneducated, or mismanage money, as stereotypes would indicate. Instead, the poverty cycle, which disproportionately impacts Black and Latinx communities, can be traced to well-intentioned but inadequate governmental and charitable policies and practices that rely on a traditional top-down approach. 
+
+
+UpTogether’s Strengths Based Approach (SBA) includes:
+1. Community: We center our work around the strengths and initiatives of people living in undervalued communities and promote the role social networks within these communities play in helping people accomplish their goals and achieve long-term socioeconomic mobility.
+2. Capital: We invest in our members with unrestricted cash in recognition of the initiatives they are taking to improve their lives.
+3. Choice: We trust that people in undervalued communities know what’s best and are capable of making decisions for themselves and their families.
+
+
+UpTogether reveals and accelerates the initiative people are taking to improve their lives.
+As a community, a movement, and a platform, we use the power of information—compelling insights and personal success stories—to transform stereotypes, beliefs, practices, and policies. Together with our members, we are championing a community-led movement to boost economic and social mobility in communities that have been undervalued and underinvested in for far too long.
+
+
+At UpTogether, we work toward these values:
+
+
+* Community: We honor the strengths and initiatives of people living in undervalued communities and promote the role social networks within these communities play in helping people accomplish their goals and achieve long-term socioeconomic mobility.
+* Impact: We test and scale strategies for systems adoption of a strength-based approach to accelerate socioeconomic mobility for people living at or below the poverty line in the U.S.
+* Collaboration: We center the lived experiences of families in undervalued communities and engage the knowledge, experience, and perspectives of our board, partners, and staff to build and grow a strength-based approach to end poverty. 
+* Racial Equity: We are committed to being an anti-racist organization, and we promote anti-racist policies that eliminate the racial wealth divide. 
+* Leadership: We acknowledge that leadership is not based on a title and honor the many forms in which it appears. We celebrate leadership that embodies all of our organizational values, driving us to act against the dominating deficit-based approach to fighting poverty. 
+* Choice: We trust that people living at or below the poverty line know what’s best and are capable of making decisions for themselves and their families.
+
+
+The Position
+UpTogether is seeking a full-time Chief Data and Learning Officer (CDLO) to join the Executive Team.  The CDLO will manage the Analytics and Policy & Practice teams and will work collaboratively with all departments in the organization, including Finance, Membership and Communication, Partnership and Revenue, and Operations and Admin. This position reports directly to the Chief Executive Officer. 
+
+
+The CDLO is responsible for setting the vision, building the infrastructure, and leading the Analytics and Policy & Practice teams, to advance the organization’s long-term policy and systems change work. The ideal candidate will have the skillset (and mindset!) to effectively lead both a technical and policy team within a dynamic and growing organization. Strong communication skills, experience setting and executing learning agendas that translate into actionable policy insights, and sufficient technical background to guide and mentor a team of data analysts and policy are essential for this role. 
+
+
+This is a 100% remote position (must be based in the United States), so the successful candidate will be located where a solid internet connection is available and perform duties in a functional work environment.
+
+
+Responsibilities
+
+
+Strategy: 
+* Set and execute the overall vision and direction for the Data & Analytics and Policy & Practice teams
+* Explore strategic partnerships to enhance the UpTogether Community learning experience and further build evidence of the Strength Based Approach
+* Provide strategic leadership in the design and presentation of our data to internal and external audiences 
+* Set a vision and collaboratively lead a team to achieve strategic goals in an organized, effective manner
+
+
+Analytics: 
+* Lead the organization in evidence building through internal analysis and external academic partnerships
+* Safeguard UpTogether data integrity and security and craft and monitor policies to ensure ethical, values-aligned collection and use of our data and information
+* Lead a Data & Analytics team that capably manages UpTogether’s multidimensional data infrastructure, building out and maintaining data pipelines
+* Works closely with the technology team to direct the development of tools and reporting for performance measurement and benchmarks
+* Ensure the Data & Analytics team has the requisite capabilities to write high quality, maintainable code
+* Grow our ability to learn. Ensure it is easy to access and understand the data and impact of our analytics
+Policy: 
+* Drive UpTogether’s learning, systems change, and policy adoption agenda
+
+
+Team Building and Culture: 
+* Grow, lead, and develop the Data & Analytics and Policy & Practice teams
+* Foster a work environment that practices our organizational values to ensure belonging within our team and collaboration across all department 
+
+
+Qualifications, Attributes & Skills 
+* Solid background in statistics, experience with econometrics and/or machine learning a plus
+* Mastery of a scientific computing language (we rely heavily on R but use some Python a well)
+* Guide the creation of impactful data visualization 
+* Experience managing diverse data, research, and/or policy analysis teams
+* Comfortability writing raw SQL, experience with data modeling a plus
+* Strong writing skills to explain and contextualize data analysis 
+
+
+Other Attributes:  
+* Ability to thrive in a remote work environment; self-directed; proactively reaches out, responsive; comfortable in a virtual setting.
+* Demonstrated commitment to, or passion for, our mission; deep belief and trust in the innate capabilities of families with limited incomes and their communities; willingness to engage in conversations aimed at addressing erroneous stereotypes about people with limited incomes and people of color.
+* Exceptional communication, written and verbal; skilled at making complex information easy to understand. Ability to effectively communicate with diverse teams and across all levels of management.
+
+
+Compensation
+This is a full-time position with a competitive benefits package, including medical, dental, and vision, 401(k), and vacation. The salary range is $165,000 and $185,000 annually. This is a remote position (must be based in the United States). The successful candidate will have a reliable internet connection and functional work environment, including a fully functional computer (laptop or desktop) with video conferencing capabilities. 
+
+
+Inclusion Statement
+We strive to create a community that embraces equity, diversity, and inclusion, and we support the efforts of others to build such communities. We encourage all qualified and interested persons to apply, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+To Apply
+To be considered for this opportunity, please submit a resume and cover letter via this link: Apply Now. Your cover letter should outline how your personal and/or work history will contribute to the mission of UpTogether.  Applications submitted without a cover letter will not be considered.

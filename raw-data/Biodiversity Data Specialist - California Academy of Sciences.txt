@@ -1,0 +1,69 @@
+﻿https://californiaacademyofsciences.applytojob.com/apply/S3eZ8I5Ny7/Biodiversity-Data-Specialist
+
+
+Biodiversity Data Specialist
+* San Francisco, CA
+*  Temporary
+*  IBSS
+*  Experienced
+
+Come join a team dedicated to the Academy’s mission, vision and values! Currently, the Academy has a new strategic plan including three initiatives – Hope for Reefs, Thriving California, and Resilient Islands – that leverage biodiversity science, environmental learning, and collaborative engagement to regenerate fragile ecosystems around the world. Learn more at https://www.calacademy.org/about-us/major-initiatives.
+
+
+We hope you are inspired by what we do and are excited to contribute to our mission. The Academy is looking for candidates who do great work, and we know they may come from a number of different backgrounds and experiences. We encourage you to apply even if you do not believe you meet every ­one of the qualifications for the position.
+Please note: As of Friday, August 27, Academy employees and volunteers are required to provide proof of COVID-19 vaccination or undergo testing and provide negative test results before they are able to work on-site or off-site with others.
+POSITION SUMMARY: 
+The Biodiversity Data Analyst/ Scientist designs innovative approaches to integrate, analyze, model, synthesize, and visualize community-contributed biodiversity observations arising from the activities of the Center for Biodiversity and Community Science and the iNaturalist community, with the ultimate goal to reveal patterns of biodiversity change and produce actionable biodiversity insights in California and globally. The Biodiversity Data Analyst/ Scientist is in charge of extracting important biodiversity information held in community-contributed data and museum collections and translating it into insights relevant to research and management of natural resources. In addition, the Biodiversity Data Analyst/ Scientist leads the development of innovative tools to mobilize, analyze, and visualize biodiversity data from community science and natural history collections within Academy-wide initiatives aimed at informing critical science, conservation, and decision making. 
+The Center for Biodiversity and Community Science uses the biodiversity observation recording and social network platform iNaturalist for the bulk of our data collection.  The Biodiversity Data Analyst/ Scientist will lead the development of data analyses that integrate community science collected and museum specimen species occurrence (presence only) data with available environmental data (temperature, salinity, pH, etc), to build predictive spatial models for species. In addition to providing overall expertise in working with large biodiversity data sets (primarily species occurrence data) across the organization, the Biodiversity Data Analyst/ Scientist will work on three specific projects: 
+   1. Early Warning and Forecasting System for Biodiversity Change on the California Coast: Building on preliminary work, the Postdoctoral Researcher will use community collected species occurrence data to complete a tool that forecasts changes in species abundance based on climate projections.  40% time
+   2. Bringing Urban Biodiversity Data and Social Equity to Conservation Planning in the Bay Area: The researcher will build species distribution models using community collected data for 10 Bay Area species and be a key member of a team incorporating species occurrence data into a regional planning tool.  20% time
+   3. Visualizations for Academy Strategic Initiatives: The researcher will build interactive visualizations, as needed, using collections and community science data for the Thriving California and the Islands 2030 initiatives.  25% time
+   4. Other projects as needed  15% time
+The Center for Biodiversity and Community Science is within the Academy’s Institute for Biodiversity Science & Sustainability. We are committed to developing a community of naturalists working together to document biodiversity, connecting people to their local nature, and simultaneously collecting data critical to science and management. We accomplish these goals through a variety of programs including community bioblitzes, long-term intertidal monitoring, City Nature Challenge, and Snapshot Cal Coast, which scaffold collecting biodiversity observations using the iNaturalist platform with in-person community science field experiences. Our team is also dedicated to building best practices around engagement through community science and is actively working on research related to science learning and development of environmental science agency through participation in community science. The Center for Biodiversity and Community Science has delivered a broad range of innovative projects since 2012, reaching tens of thousands of people and collecting millions of species occurrence records throughout California and beyond.
+We are committed to ensuring diversity, equity, accessibility, and inclusion are intrinsic to Academy culture and operations, from recruitment and retention to science and advocacy. Explore Our Commitment to Racial Equity to learn about our intentional engagement of traditionally excluded groups in an effort to spark interest in or foster pathways to scientific careers.
+POSITION DUTIES AND RESPONSIBILITIES :
+   * Integrates, analyzes, models, and visualizes community-contributed biodiversity observations with additional data sources to answer key research and management questions and indicators useful for decision making
+   * Determines computational strategies for investigating scientific questions concerning the ecology and distribution of species and ecological communities, as well as the integration of community science efforts into land and coastal management
+   * Contributes to Academy initiatives by visualizing species occurrence data, developing other helpful visualizations. 
+   * Designs and builds software and web-based interactive tools to visualize biodiversity insights derived from community-contributed and additional data
+   * Builds models and tools to forecast biodiversity responses to likely future environmental changes in California
+   * Provides regular updates on project progress to funders and partners
+   * Disseminates findings in written technical reports and academic publications, as well as oral presentations at scientific conferences and public meetings
+   * Contributes to content development of grants to support activities of the Center for Biodiversity and Community Science related to analysis and modeling of biodiversity data
+   * Participates in the Academy's fieldwork to become familiar with community science data collection and how to best use it for modeling purposes
+   * Travels to Sacramento and throughout the Bay Area to meet with project funders, stakeholders, and partners, as needed. 
+   * Works early mornings, evenings, and weekends, as needed
+   * Follows all Academy safety regulations
+   * Other duties as assigned
+QUALIFICATIONS: 
+EXPERIENCE and/or EDUCATION:
+A qualified candidate will possess a combination of the following experience and/or equivalent education:
+   * Research experience and expertise in spatial ecology, species distribution modeling, data visualization, mapping, museum collections data, etc., and experience and/or interest in both advancing scientific frontiers and addressing real-world challenges in sustainable ocean resource management. 
+   * Experience in geo-spatial analysis and data visualization (R, QGIS, ArcGIS, etc.), 
+   * Experience in building web-based interactive mapping and dashboard applications in RShiny
+   * Experience in reproducible workflows, code version control, and management (Git, GitHub)
+   * Ph.D. degree in evolutionary biology, ecology, statistics, bioinformatics, data science, or related fields. 
+KNOWLEDGE, SKILLS, AND ABILITIES: 
+   * Expertise in modeling past and future impacts of environmental change on the distribution of species and ecological communities
+   * Expertise in modeling spatial and temporal variation in species, functional and phylogenetic diversity of ecological communities
+   * Expertise in R programming and statistical environment for the integration, manipulation, and analysis of big data
+   * Proficiency with harvesting data from the web using Application Programming Interfaces (APIs) and web scraping
+   * Excellent verbal and written communication skills (English) and a strong background in science communication with diverse audiences
+   * Strong interest in biodiversity and ability to communicate that passion
+   * Works as a part of multi-disciplinary teams and diverse stakeholder groups
+   * Committed to working on a team that is striving to be anti-racist in work, interactions, systems, and tools
+   * Confident and flexible communicator, both written and verbal, to diverse audiences
+   * Excellent organizational skills and attention to detail
+   * Ability to work independently, and as a member of interdisciplinary teams on cross-cutting issues
+   * Demonstrated ability to successfully collaborate with non-scientists 
+   * Flexible and creative
+   * Ability to read and interpret documents such as safety rules, operating and maintenance instructions, and procedure manuals
+WORK ENVIRONMENT: 
+Reasonable accommodations will be made to enable individuals with disabilities to meet the job’s essential functions. While performing the duties of this job, the employee is frequently required to stand, sit, walk, use a computer, and communicate on the phone, in person, and online meetings/calls.  The employee will spend time out-of-doors at events and programs, occasionally in hot or inclement weather. Must be able to transport 30 lbs. Must be able to perform repetitive motions 50% of the time.
+APPLICATION DEADLINE:
+ Applications will be reviewed on a rolling basis until the position is filled.
+APPLICATION PROCESS:
+Please upload your resume and complete the brief online application.
+ 
+The California Academy of Sciences will give full consideration for employment to all qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance (SF Police Code, Article 49).
+The California Academy of Sciences is an Equal Opportunity Employer and is committed to ensure that all employees and applicants receive equal consideration and treatment, regardless of race, color, creed, gender (including gender identity or gender expression), religion, marital or domestic partner status, age, place of birth, national origin or ancestry, physical, mental or medical disability, height or weight, sex, sexual orientation, citizenship, military service status, veteran status, or any other characteristic protected by state or federal law or local ordinance.

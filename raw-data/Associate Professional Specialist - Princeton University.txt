@@ -1,0 +1,32 @@
+﻿Application for Associate Professional Specialist
+Approximate posting date: 2021-09-22
+
+
+The ZERO Lab and Energy Systems Analysis Group at Princeton University's Andlinger Center for Energy and the Environment seeks applications for a geospatial and data visualization specialist, at the rank of associate professional specialist or more senior position. The individual will work under the supervision of the principal investigator, Assistant Professor Jesse Jenkins, while also providing high-level research support to the Energy Systems Analysis Group led by Senior Research Engineer, Eric Larson. 
+
+
+The individual will be part of Rapid Switch, an international multi-disciplinary research collaboration that seeks to identify pathways to accelerate decarbonization of energy systems by assessing barriers, bottlenecks, and unintended consequences that can arise during large-scale rapid energy-system transitions and seeking to define approaches for resolving these sector-by-sector and region-by-region. The research will build on Princeton's Net-Zero America study, which adopted a Rapid Switch framing and developed uniquely-granular sectoral, temporal, and spatial analyses to illustrate what different transitions to net-zero emissions by 2050 for the U.S. would look like 'on the ground'. The study quantitatively elucidated important socio-technical, physical infrastructure, environmental, and capital mobilization challenges that are now helping to inform societal conversations of how best to overcome these. 
+
+
+The geospatial and data visualization specialist will provide expertise in geospatial analysis and data visualization to support high-impact research, including geospatially-explicit modeling related to large-scale transitions to net-zero emissions energy systems. Work may include production of maps and graphics for research publications and public reports/websites, development of new geospatial siting algorithms to model placement of energy infrastructure, and collaboration with researchers to generate new insights from visual display of quantitative information. This position will also contribute to academic research leading to publications.
+
+
+The program is looking for applicants with masters-level expertise in energy, environmental studies, and geography or a related field, and have 1-3 years of experience with geospatial analysis and/or data visualization in a professional or academic context. The ideal candidate will have familiarity with geospatial analysis and mapping tools (such as ArcGIS, QGIS, GeoPandas, ArcPy) and proficiency in common programming languages such as Python, Julia, and/or R. The candidate should display a proven skill at the visual display of quantitative information and have energy related experience/expertise. 
+
+
+We are interested in receiving applications from members of groups that historically have been underrepresented in science and engineering.
+
+
+The initial appointment will be for 12 months with expectation of renewal contingent on funding and performance. A successful candidate may start as early as November 1, 2021. Depending on University travel and on-campus restrictions, it may be necessary to start remotely.
+
+
+Interested applicants should apply online at https://www.princeton.edu/acad-positions/position/22442 and submit a CV, cover letter, and contact information for three references.
+
+
+The candidate is subject to the University's background check policy.
+
+
+Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+
+Requisition No: D-22-ENE-00003

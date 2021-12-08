@@ -1,0 +1,28 @@
+﻿Seafood Watch Data Analyst
+At the Monterey Bay Aquarium, we are passionate about creating an inclusive workplace that celebrates and values diversity. We firmly believe that having a team of diverse backgrounds and voices, working together, increases our capacity to serve our visitors and fulfill our mission.  We welcome people from all walks of life into our team and strongly encourage people of color, LGBTQ+ individuals, veterans, and people with disabilities to apply.
+Job Summary:  Under general supervision, support the Seafood Watch program in all database operations including Salesforce, Sitecore, and proprietary databases and data visualization needs using Tableau and Alteryx software. The Analyst is responsible for all programmatic data management needs including data analysis, quality assurance, reporting, and data entry to support Seafood Watch activities. This position will also create and implement data management procedures and audits for accuracy and provide training and support on procedures to Seafood Watch staff.  Perform other duties as required.
+Core Activities:                                                                                                                                 
+* Maintain reporting dashboards and data visualizations for internal and external audiences using Tableau and Alteryx software.
+* Conduct data analysis including building complex queries and exporting data for a variety of departmental projects.
+* Perform database administration activities including but not limited to new user account set up, data audit, reporting of software bugs, staff training, etc. 
+* Assist with creating/generating specific tools to support existing Conservation & Science staff projects, including the development of new reporting dashboards to meet department needs.
+* Advise other departments with their data-driven decision-making needs.
+* Assist with hardware troubleshooting and maintenance, liaising with the Information Technology department as needed; responsible for maintenance and troubleshooting of databases.
+* Collect metrics data from existing platforms and templates to evaluate program performance. Respond to data requests for monthly, annual, and other departmental reports.
+* Assist in the development of business requirements and user acceptance testing for enhanced functionality and new software/database systems. Support development of database enhancements as needed. Coordinates with Seafood Watch Product Manager and Information Technology to implement enhancements.
+* Perform data entry as needed.
+Preferred Knowledge, Skills & Abilities (KSAs):
+* Masters degree in the environmental sciences fisheries, statistics, computer science, engineering, mathematics, or equivalent combination of education, training, and experience
+* High proficiency with data analysis
+* Commitment to continually acquiring new skills
+* Previous database administration or database support experience, including proficiency in building and running complex queries, exports, and reports
+* Superlative project management skills
+* Strong interpersonal skills and experience in working across departments and among a diversity of stakeholders.
+* Ability to work independently with a high degree of self-motivation
+* High level of problem-solving skills
+* Ability to work within, and maintain Monterey Bay Aquarium's Core Values
+Physical Requirements to Perform Essential Job Functions:
+* Typical office equipment
+* Long duration of sitting for primary core activities; occasional walking, standing, bending
+* Occasional unassisted lifting up to 30 lbs
+* Typical office environment; travel to offsite client locations for conferences, special events

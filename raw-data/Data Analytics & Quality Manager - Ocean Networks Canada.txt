@@ -1,0 +1,42 @@
+﻿Data Analytics & Quality Manager
+About this Opportunity
+We are seeking an experienced Data Analytics & Quality Manager (DM) to join the Ocean Networks Canada’s Observatory Digital Operations.
+The successful candidate will have a graduate degree in physical or ocean-related sciences or engineering as well as 3 or more years of managerial and technical experience. An equivalent combination of education and experience may be considered.
+Please see the Qualifications section in the job description for additional knowledge, experience and competency requirements. This position is based in Victoria, BC.
+The University of Victoria is an employer of choice and offers competitive extended healthcare plans, generous leave options and opportunities for professional development. For more information, see Why apply to UVic. For specific questions related to this competition, please contact lyubag@uvic.ca.
+The salary range for this position is:
+Recruitment range: $74,712 - $84,087 starting salary determined by the PEA Collective Agreement.
+Performance range: starting salary to max of $98,049 is available through annual performance increases
+Job Summary
+The Data Manager provides team leadership on all ONC data initiatives by implementing standards and integrating requirements from the research community, community and industry partners. Leading a diverse team of Scientific Data Specialists in a demanding and dynamic work environment, the Data Manager sets priorities for the Data Team and monitors workflows to meet time sensitive ONC organizational goals. The Data Manager balances the ONC operational priorities with the integration of new data products and data services infrastructure developments in collaboration with ONC users, ONC Science Team, Software Development and Data Stewardship.
+The Data Manager participates in data model design reviews, and contributes to the scientific requirements and testing of software for data products. The Data Manager will communicate with external researchers and organizations during the course of each project. The Data Manager, together with the Data Team, is responsible for helping users’ access ONC data through both the web products and data archive interface. The Data Manager co-ordinates the resolution of data access issues for end users with the assistance of the rest of the Data Team and the Software Development team. In order to represent and best serve the user community, the Data Manager participates in the prioritization, initiation and stakeholder meetings for software development projects across ONC.
+Job Requirements
+Graduate degree in computer, physical or ocean-related sciences or engineering as well as 3 or more years of managerial and technical experience. An equivalent combination of education and experience may be considered.
+Experience Requirement:
+* 3 or more years experience working with complex data systems.
+* 3 or more years experience managing a team of highly skilled professionals.
+* Experience with a wide variety of data types, especially complex and large data sets.
+Knowledge requirements:
+* Knowledge of data standards and protocols in oceanography.
+* Knowledge of project management workflows including documentation.
+* Demonstrated proficiency in scientific programming, with knowledge of scientific programming languages.
+* Knowledge or experience in the field of machine learning as related to large data sets.
+* Understanding of relational database management systems and database query tools.
+* Experience working in a collaborative research environment.
+Competencies requirements:
+* Ability to lead in a team-oriented, multidisciplinary environment.
+* Strong interpersonal skills.
+* Demonstrated ability to work in a user-centred environment.
+* Ability to manage multiple projects with several stakeholder groups and consistently meet deadlines.
+* Ability to formulate software requirements, knowledge of software design practices.
+Assets:
+* Experience in ocean and climate science (or similar) related research.
+* Creative approaches to displaying data to non-specialists.
+* Proven presentation skills.
+Condition of employment:
+This position will require obtaining Canadian Government Security Clearance
+ 
+Opening Date: 
+Monday, September 27, 2021 - 10:45
+Closing Date: 
+Tuesday, October 26, 2021 - 16:00

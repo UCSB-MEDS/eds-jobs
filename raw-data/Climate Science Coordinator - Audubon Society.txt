@@ -1,0 +1,48 @@
+﻿Climate Science Coordinator - The National Audubon Society
+Date: September 9, 2021
+Job Locations
+ US-DC | US | US-MD-Baltimore 
+Type Regular, Full-Time 
+Job Category Science 
+ID 2021-4762 
+State/Province DC
+Overview
+Now in its second century, Audubon is dedicated to protecting birds and other wildlife and the habitat that supports them. Audubon’s mission is engaging people in bird conservation on a hemispheric scale through science, policy, education and on-the-ground conservation action.  By mobilizing and aligning its network of Chapters, Centers, State and Important Bird Area programs in the four major migratory flyways in the Americas, the organization will bring the full power of Audubon to bear on protecting common and threatened bird species and the critical habitat they need to survive.  And as part of BirdLife International, Audubon will join people in over 100 in-country organizations all working to protect a network of Important Bird Areas around the world, leveraging the impact of actions they take at a local level.  What defines Audubon’s unique value is a powerful grassroots network of approximately 450 local chapters, 120 campus chapters, 17 state and regional offices, 34 Audubon Centers, Important Bird Area Programs in 50 states, and 700 staff across the country. 
+ 
+The National Audubon Society is a federal contractor and an Equal Opportunity Employer (EOE). All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, disability or protected veteran status. We are committed to a policy of nondiscrimination, inclusion and equal opportunity and actively seek a diverse pool of candidates in this search.
+ 
+The National Audubon Society endeavors to make https://careers-audubon.icims.com/ accessible to any and all users.  If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Accommodations@audubon.org. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.
+
+
+Position Summary
+Reporting to the Director of Climate Science, the Climate Science Coordinator will be responsible for supporting Audubon’s science team with regional, national, and hemispheric bird conservation initiatives.
+ 
+The Climate Science Coordinator will support technical analyses and the application of skills in data management, spatial data analysis, geoprocessing, landscape analysis, climate science, ornithology, and map design; assembling relevant datasets; and generating spatial and quantitative data products. The Coordinator will also support the process of publishing Audubon science work including, but not limited to, peer-reviewed articles and reports. This will include participating in cross-functional teams, particularly with the spatial and quantitative science teams and across the broader Conservation Division within which science is located.
+ 
+**In order to be considered for this opportunity, please include a cover letter with your application.  
+ 
+**This position has opportunity to be based remotely within the continental U.S. for the right candidate.  
+Essential Functions
+* Support the national science climate team on Climate Science projects and Climate Watch, and provide support to spatial, quantitative, Migratory Bird Initiative, or community science teams as required.
+* Support dataset management, literature reviews, preparation of presentations, and writing of reports and/or scientific publications.
+* Perform statistical and/or spatial analyses, as well as other data analyses, using various processing packages in R and ArcGIS or ArcPro.
+* Assist with biological data collection, data sharing, and data management.
+* Conduct presentations, either virtually or in-person, for professional conferences, meetings, and on internal and external working groups, such as other NGOs and state and federal agencies. 
+* Contribute to Equity, Diversity, Inclusion, and Belonging and other Audubon community initiatives.
+ 
+Qualifications and Experience
+* Bachelor’s degree in climate science, environmental studies, ecology, biology, ornithology, spatial ecology, conservation, environmental and/or climate justice, or a related field and a minimum of 2 years professional GIS or applied science experience . An equivalent combination of education and experience will also be considered.
+* Technical skills, to include some experience with some or all of the following:
+   * o Demonstrated ability to script statistical and spatial analyses in R and/or Python.
+   * o Demonstrated cartographic (map design) experience.
+   * o Skilled in the use of ArcGISPro, ArcGIS 10+; experience with ArcGIS Online preferred.
+   * Proficiency with Microsoft Office applications, specifically Excel.
+* Self-motivated, excited to learn, and willing to take on problems autonomously.
+* Must possess excellent judgment, ability to work independently, and collaborate well with team members across a decentralized organization.
+* Demonstrated interpersonal skills, facilitating professional connections across internal teams and externally. 
+* Excellent time and project management skills, including the ability to juggle multiple tasks and prioritize to meet deadlines. 
+* Excellent oral and written communication skills, to include a scientific writing background in order to support peer-reviewed publications. Comfort interpreting information to both technical and non-technical audiences also important. 
+* Demonstrated personal and professional commitment to and experience in advancing equity, diversity, inclusion, and belonging.
+* Interest in working to promote bird conservation across the US and Americas, and passion for the mission of the National Audubon Society
+* Experience in ornithology, especially birds of the Americas, climate science/ecology preferred.
+* Experience with environmental or climate justice also preferred.

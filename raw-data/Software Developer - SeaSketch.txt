@@ -1,0 +1,56 @@
+﻿Payroll Title:Applications Programmer 3
+
+
+Working Title:Software Developer
+
+
+Annual Salary: $61,000 - $70,000
+
+
+The McClintock Lab, based at the National Center for Ecological Analysis and Synthesis, supports geospatial planning and research efforts in the marine sciences which have complex and challenging software needs. Lab development projects include web applications, mobile data collection tools, and computer vision software. The Lab’s longest running project, SeaSketch, is a hosted software service which supports diverse and numerous government agencies and other institutions around the globe in engaging scientists, stakeholders and the general public in marine spatial planning.
+
+
+The McClintock Lab is currently working to release a new version of SeaSketch. Under general direction the Software Developer will develop automated browser test suites to verify the reliable operation of the Lab’s software service. The Software Developer will work with the Principal
+
+
+Developer to identify priority workflows for testing, independently implement automated
+end-to-end tests, and maintain a complex continuous integration system which deploys software to a staging environment for testing. The Software Developer will perform both manual and automated testing of the software on mobile devices to ensure compatibility with multiple screen sizes and user input constraints. The Software Developer will also develop improvements to the SeaSketch user interface on mobile devices, involving use of TypeScript, React, CSS, and responsive design principles.
+
+
+Required Qualifications
+
+
+●2 years experience developing web applications using HTML, CSS, and Javascript
+
+
+●2 years of experience developing web sites or applications for mobile devices
+
+
+●1 year of experience with React
+
+
+●Experience using tools for automated software testing (unit, integration, or end to end)
+
+
+●Bachelor's degree in related area and / or equivalent experience / training.
+
+
+Desirable Qualifications
+
+
+●Experience using Cypress or Selenium for automated browser testing
+
+
+●Experience using TypeScript, Tailwind CSS, Node.js, and GraphQL
+
+
+●Experience using responsive design principals to adapt web interfaces to a variety of
+
+
+screen sizes
+
+
+●Familiarity with continuous integration workflows, using tools such as GitHub Actions,
+
+
+Jenkins, and Docker to bootstrap testing environments

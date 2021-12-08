@@ -1,0 +1,78 @@
+﻿Seafood & Food Security Data Scientist (15933)
+Date: Sep 17, 2021
+Location: Washington, DC, US, 20016
+Company: American University
+Summary/Objective
+The Seafood and Food Security Data Scientist will join an interdisciplinary team focused on seafood production and trade. Seafood plays an important role in global food security, providing nearly 20% of global animal protein and supplying essential fatty acids and micronutrients. Seafood is also among the most highly-traded foods and the seafood sector is evolving with the rapid growth in aquaculture, geographical shifts in trade, and increasing commoditization and vertical integration. This research team brings together global trade data, local consumption data, and environmental impact data to understand the opportunities and risks of seafood globalization for sustainable production and food security.  
+
+
+The Seafood and Food Security Data Scientist will lead the open data and reproducible science components of this research program. Responsibilities include data management, improving reproducible workflows, exploring opportunities to leverage new data sources, interfacing with a front-end developer for a database website, assisting database users, and helping coordinate database-related events. There are also opportunities to engage with students in the Data Science program and student researchers working on seafood trade data projects.  
+
+
+This position is based at American University in Washington, DC and is supervised by Dr. Jessica Gephart, however the Seafood and Food Security Data Scientist will interact with a network of interdisciplinary and international scholars. This is a grant-funded position and continuation is dependent upon securing external funding. The Seafood and Food Security Data Scientist has opportunities to contribute to scholarly publications, learn new data skills, network with the DC data science, fisheries, food system, and environment communities, and collaborate with transdisciplinary teams. Successful applicants have either extensive experience in the food security and fisheries space and an interest in deepening data science skills or significant experience in the data science space with an interest in deepening their knowledge of food security and/or fisheries.   
+
+
+Essential Functions
+1. Data Management– Management of diverse data sources, including the cleaning, processing, and documentation of the data. Coordinate exploratory data analysis techniques, including statistical modeling, to identify meaningful relationships, patterns, or trends from complex data sets. Access, query, and retrieve data from various sources relevant to the requirements of the research project.
+2. Data analysis– Contribute to the development of theoretical and statistical models. Identify a suitable data modeling approach for each project by analyzing research requirements. Work with the team to establish a framework for the development of statistical models, data exploration and mining, and machine learning algorithms. Document code development and produce publishable code.
+3. Methods Research and Training – Continually explore new research methods and techniques for use with appropriate research projects. Responsible for testing and deployment efforts for various tools and technology solutions. Provides technical expertise, training, and assistance on critical technical issues.
+4. Research Coordination – Coordinate the work of student researchers develop workflows for managing projects and tasks in order to ensure project tasks and goals are achieved within established timelines.
+5. Other duties as assigned by supervisor.
+
+
+Position Type/Expected Hours of Work
+* Full time
+* 5.1 Project Leader/Advisor B 
+* Exempt 
+
+Salary Range
+   *  Anticipated Salary of $70K
+
+Required Education and Experience
+      * Master's Degree in Data Science or closely related field 
+      * 2-4 years of relevant experience providing analytical research support to projects related to fisheries, supply chains, food systems, complex systems, or a related environmental science field.
+
+Preferred Education and Experience
+         * Doctorate in Data Science or closely related field 
+         * Previous experience building packages, creating Shiny apps in R, scraping data from the web and mining text.
+
+Additional Eligibility Qualifications
+            * Excellent data analysis and statistical skills (e.g. network analysis, linear algebra, optimization, Bayesian statistics).
+            * Ability to review and synthesize large amounts of literature and disparate data sources.
+            * Incumbent must be able to take initiative and work independently and collaboratively as part of a multidisciplinary team.
+            * Exceptional attention to detail and strong organizational and time management skills.
+            * Advanced R skills and experience working with GitHub and developing reproducible workflows.
+            * Excel Level 2 Advanced: Microsoft Excel Advanced skills: the user has mastered advanced functionality including Data Validation, Pivot Tables and Charts; use formulas such as INDEX and VLOOKUP, and can create logic statements such as IF, AND, OR.
+            * Statistical Analysis: Statistical Analysis: Applies skill using statistical software packages (e.g., R, SPSS, SAS, Minitab) to manipulate data and conduct advanced data analysis applying ANOVA, correlation, regression, cluster or factor analysis techniques.
+            * Communication- Oral: Oral Communication skills: Organizing and expressing thoughts and information orally in a clear, concise manner, meeting the requirements of the audience. Engages in active listening while seeking and accepting feedback in anon-defensive manner. Readily shares pertinent knowledge and information to co-workers and customers. Demonstrates effective listening skills and asks questions; offers input for positive results.
+
+Additional Eligibility Qualifications Cont.
+               * Technology: Skill leveraging technology as a tool to research, organize, evaluate, and communicate information; ability to use digital technologies (e.g., computers, tablets, mobile devices, etc.), communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information and solve work or business problems.
+               * Communication- Written: Written Communication skills: Expressing oneself clearly and concisely, using language with precision; constructing logical arguments; accurate note taking, editing and summarizing; and writing reports or correspondence free of spelling and grammatical errors.
+               * Synthesizing Data: Skill synthesizing data and information by: processing, interacting and engaging information; coalescing, extracting details, categorizing, integrating, analyzing, combining, re-assessing the value of the collected information pulled from multiple sources, and looking for bias, omissions, etc. and then creating new meaning or understanding; drawing conclusions to create new meaning based on sound reasoning and authenticity of information.
+               * Hiring offers for this position are contingent on successful completion of a background check.
+               * To ensure the health and safety of our community AU requires COVID-19 vaccinations for faculty and staff. Click here to learn more about our health and safety directive.
+
+Benefits
+                  * Click here to learn about American University's unique benefit options
+
+Others
+ 
+                     * Preffered ability to create advanced data visualizations and conceptual figures.
+                     * Preffered proficiency in Python and with parallel computing/cluster computing.
+                     * Hiring offers for this position are contingent on successful completion of a background check.
+                     * To ensure the health and safety of our community AU requires COVID-19 vaccinations for faculty and staff. Click here to learn more about our health and safety directive.
+                     *  
+
+
+ 
+Current American University Employees:
+If you are a current full-time or part-time staff member at American University, please log into AsuccessfulU through the myAU portal. Once in AsuccessfulU, please select the Careers tile which will take you to our internal career page. 
+ 
+Contact Us:
+For more information or assistance with the American University careers site, email theworkline@american.edu.
+ 
+American University is an equal opportunity, affirmative action institution that operates in compliance with applicable laws and regulations. The university does not discriminate on the basis of race, color, national origin, religion, sex (including pregnancy), age, sexual orientation, disability, marital status, personal appearance, gender identity and expression, family responsibilities, political affiliation, source of income, veteran status, an individual’s genetic information or any other bases under federal or local laws (collectively "Protected Bases") in its programs and activities.
+
+
+Nearest Major Market: Washington DC

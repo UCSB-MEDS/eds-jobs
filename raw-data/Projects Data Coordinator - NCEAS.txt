@@ -1,0 +1,119 @@
+﻿About the job
+Job Posting Details
+
+
+Position Information
+
+
+Payroll Title: Data Systems Analyst 2
+
+
+Job Code: 7198
+
+
+Pay Rate/Range: $26.63 - $30.09/hr.
+
+
+Job Open Date: 10/12/21
+
+
+Application Review Begins: 11/15/2021
+
+
+Department Code-Name: NCEA
+
+
+Percentage of Time: 100%
+
+
+Collective Bargaining Unit (CBU): 99- Non-Represented (PPSM)
+
+
+FLSA Exemption Status: Non-exempt
+
+
+Work Location: Santa Barbara, CA
+
+
+Benefits Eligibility: Full benefits
+
+
+Benefits of Belonging Working at UC means being part of this vibrant institution that shines a light on what is possible. People make UC great, and UC recognizes your contributions by making this a great place to work. Excellent retirement and health are just one of the rewards. Learn more about the benefits of working at UC Department Marketing Statemet
+
+
+The National Center for Ecological Analysis and Synthesis (NCEAS), supports cross-disciplinary research that uses existing data to address major fundamental issues in ecology and allied fields, and their application to management and policy. NCEAS is a unique institution with an explicit mission to foster synthesis and analysis, turn information into understanding and, through effective collaboration, alter how science is conducted
+
+
+Brief Summary Of Job Duties
+
+
+The Data Systems Analyst manages ecologically and environmentally relevant data from the Arctic Data Center and other funded projects at the National Center for Ecological Analysis and Synthesis (NCEAS). The analyst contacts data providers and consults the literature to manage and archive data of moderate complexity for preservation. This includes gathering and analyzing information from data providers and editing metadata to make the data understandable and useful for synthesis activities. The analyst also performs a wide variety of analysis and data modeling activities to assess and remedy data quality issues, as well as characterize and visualize data for synthesis. The analyst works closely with the Director of Informatics Research and Development to identify issues that need attention to streamline the data management process, with NCEAS' Scientific Programmers to implement approaches to streamline data management operations, and with researchers from targeted projects to archive data and metadata. The analyst also organizes and mentors graduate student interns and fellows who contribute to the data management goals of the Center, and participates in data science training activities serving the Arctic research and other NCEAS communities.
+
+
+Minimum Requirements
+
+
+The position requires a Bachelor's degree in environmental, ecological, or related research fields involving data management, knowledge of data management systems, practices, and standards, and demonstrable statistical analysis and modeling skills. Qualified candidates must have demonstrable experience working in one or more scripted statistical frameworks such as R or Matlab, as well as demonstrated excellent writing and speaking skills in English allowing communication of complex technical topics with a science audience. Must have strong organizational skills, strong problem solving skills, and be service oriented.
+
+
+Desirable Qualifications
+
+
+A Master's degree or other higher degree in environmental, ecological, or related science fields is desirable, as is extensive knowledge and skill in data management, metadata standards, data standards, R, statistics, and modeling. Skill in other programming languages is desirable.
+
+
+Special Conditions of Employment
+* Satisfactory conviction history background check
+Special Instructions
+
+
+For full consideration, please include a resume and a cover letter as part of your application.
+
+
+Job Functions/Percentage of Time/Duties
+
+
+55% Data Management- Works with data support team members and with scientists from targeted research projects and working groups to gather, document, and archive scientific research data and metadata records. Formats research data and authors structured metadata to construct useful documentation supporting data re-use by other researchers and/or project teams.
+
+
+20% Tool Development- Assists in developing tools for data and metadata quality analysis, automated metadata creation and deposit, or documenting data semantics. Development of tools involves working in concert with data and computer scientists to test and devise the best user interfaces to service the environmental science community. These tools facilitate the processes surrounding documentation, analysis, and interpretation of environmental data
+
+
+25% Coordination-Coordinates data management activities among staff, interns, and fellows working on related projects, recruitment and supervision of 2-4 interns quarterly as needed and 4-6 fellows annually or bi-annually, and training and mentoring of their work on data management tasks.
+
+
+Pandemic Statement
+
+
+The University of California is vigilantly monitoring and acting in accordance with all applicable public health directives related to COVID-19. As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy . All Covered Individuals* under the policy must provide proof of Full Vaccination or submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. For new University of California employees, the applicable deadline is eight weeks after their first date of employment.
+
+
+For More Information, Please Visit
+* UC Santa Barbara COVID-19 Information: https://www.ucsb.edu/COVID-19-information
+* UC SARS-CoV-2 (COVID -19) Vaccination Program Policy: https://policy.ucop.edu/doc/5000695/SARS-CoV-2_Covid-19
+* Covered Individuals: A Covered Individual includes anyone designated as Personnel, Students, or Trainees under this Policy who physically access a University Facility or Program in connection with their employment, appointment, or education/training. A person accessing a Healthcare Location as a patient, or an art, athletics, entertainment, or other publicly accessible venue at a Location as a member of the public, is not a Covered Individual.
+Equal Opportunity/Affirmative Action Statement
+
+
+The University of California is an Equal Opportunity/Affirmative Action Employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+
+Reasonable Accommodations
+
+
+The University of California endeavors to make https://jobs.ucsb.edu accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Katherine Abad in Human Resources at 805-893-4664 or email katherine.abad@hr.ucsb.edu . This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.
+
+
+Privacy Notification Statement
+
+
+The State of California Information Practices Act of 1977 (effective July 1978) requires the University to provide the following information to individuals who are asked to supply information about themselves: Application: The principal purpose for requesting information on the Application is for applicant-tracking purposes and to collect applicant contact information. Affirmative Action and Equal Employment Opportunity Data Form: Information furnished on this form is requested by UCSB's Affirmative Action Office. The University of California, Santa Barbara is a Federal contractor and, therefore, must comply with Affirmative Action regulations issued pursuant to Executive Order 11246, Federal Revised Order No. 4, Section 503 of the Rehabilitation Act of 1973 and Section 402 of the Vietnam Era Veterans Readjustment Assistance Act of 1974. Furnishing the information on this form is voluntary. There is no penalty for not completing this form. The offices responsible for maintaining the information supplied on this form are the UCSB Human Resources Office and the Affirmative Action Office.
+
+
+GENERAL DATA PROTECTION REGULATION (GDPR) STATEMENT FOR PERSONS IN THE EUROPEAN ECONOMIC AREA: As part of our commitment to protecting your privacy, the General Data Protection Regulation (GDPR) Privacy Statement ("Privacy Statement") is designed to provide you, as a person in the European Economic Area, with information regarding the types of personal information that the University of California’s Human Resources departments and offices collect about you. The Privacy Statement can be found at: https://ucnet.universityofcalifornia.edu/gdpr.html .nformation supplied on this form are the UCSB Human Resources Office and the Affirmative Action Office.
+
+
+Notice of Availability of the UCSB Annual Security Report
+
+
+The University is committed to providing a safe and secure campus environment for our students, faculty, staff, and visitors. In accordance with the "Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act" (Clery Act), UCSB publishes an Annual Security Report to provide information regarding campus safety and security policies, crime statistics, and resources to current and prospective students and employees. This report includes statistics for the previous three years concerning crimes reported to Campus Security Authorities (CSAs) that occurred on campus, in certain off-campus buildings or property, and on public property adjacent to and accessible from campus. The report also includes campus policies concerning crime prevention, crime reporting, alcohol and drug use, sexual and interpersonal violence, student discipline, and other matters. To access the Annual Security Report, visit www.police.ucsb.edu/asr . A copy of this report may also be requested by contacting the UCSB Police Department (call 805-893-3446 or visit 574 Public Safety Bldg., Santa Barbara, CA 93106 during business hours). To learn more about the Clery Act and CSA duties and reporting requirements, please visit www.police.ucsb.edu/clery-act .

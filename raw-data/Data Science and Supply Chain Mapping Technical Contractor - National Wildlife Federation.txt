@@ -1,0 +1,25 @@
+﻿Contractor: Data Science and Supply Chain Mapping Technical Contractor
+ORGANIZATION
+National Wildlife Federation
+DEADLINE
+Wednesday, October 13, 2021
+START DATE
+Monday, November 1, 2021
+Learn more
+The National Wildlife Federation (NWF) – the largest conservation and education advocacy organization in the United States – is requesting proposals for a multidisciplinary contractor for a five-year project, for a service contract to provide advanced data science, econometric analysis, and science communication to policymakers, investors and multi-national corporations in Europe and Brazil. This will require expertise in GIS, economics, supply chain traceability, carbon mapping and forest governance analysis.
+This team will become a core member of a five-year international project seeking to reduce deforestation driven by cattle expansion in Brazil. The Technical Contractor will implement a suite of analyses of property-level deforestation and traceability data, and provide recommendations to a variety of stakeholders. To appropriately meet these project needs, a long-term commitment of capacity, expertise, and resources will be needed to fulfil the tasks, including the production of annual data analyses, policy briefs supporting environmental governance of supply chains and the implementation of robust zero deforestation commitments, presentations and frequent meetings with stakeholders where technical details are clearly communicated.
+Description:
+The Technical Contractor will assess the impact of new and upcoming corporate and government deforestation policies in Brazil and Europe. They will develop reports and recommendations for supermarkets, brands and investors aimed at improving the adoption and implementation of zero deforestation commitments. They will advise policymakers in Europe and Brazil about increasing compliance with existing forest legislation and promoting new and expanded environmental legislation related to beef and leather supply chains. They will also provide technical guidance on aligning reduced greenhouse gas emissions from the cattle sector with raising Brazil’s ambition in its contribution towards the Paris Climate Agreement.
+Qualifications and Skills:
+* Multidisciplinary team with expertise in GIS, remote sensing, statistical analysis, econometrics, land-use change science and carbon mapping, legal policy analysis, and data science or related fields. Team members should have a minimum of Masters degrees in their respective fields.
+* Demonstrated experience and expertise downloading, cleaning, analyzing, and matching large, complex datasets, particularly those associated with cattle supply chains in Brazil. This includes employing advanced data science methodologies such as information extraction, novel entity matching, machine learning, and other credible data engineering techniques to manage large stores of data and to link disparate datasets into robust, flexible, and replicable systems deployable over multiple endpoints.
+* Proven track record of high quality publications and presentations, including experience communicating science to policymakers and the private sector.
+* Experience relationship-building and advising private sector actors on implementing effective zero deforestation commitments, including meatpackers and financial institutions.
+* 5 years’ experience engaging with policy makers/government agencies in Brazil and Europe to support supply chain monitoring.
+Award Criteria:
+* Data Science and Spatial Analysis (30%)
+* Science Communications (12%)
+* Multistakeholder, and Private Sector Engagement Expertise (13%)
+* Public Sector Engagement Expertise (15%)
+* Project Management skills, and Consortium Collaboration (10%)
+* Budget/Value for Money (20%)

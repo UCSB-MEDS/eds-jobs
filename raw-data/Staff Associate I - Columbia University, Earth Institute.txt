@@ -1,0 +1,27 @@
+﻿Staff Associate I
+Columbia University in the City of New York: Earth Institute
+Location
+01
+Open Date
+Aug 14, 2021
+Description
+The Center for Climate Systems Research (CCSR) in the Earth Institute, Columbia University in New York invites applicants for an Staff Associate I appointment for assisting the Research Scientist at the Center for Climate Systems Research (CCSR) on research-related activities, with a focus on the Department of Defense (DoD)-funded Multidisciplinary University Research Initiative (MURI) project on migration and the Defense Advanced Research Projects Agency (DARPA) World Modelers project.  These projects are focused on advancing understanding of the links between food insecurity, migration, and refugee movement. 
+Additionally, the World Modelers project involves the development of a platform to accelerate data-informed decision making in complex environments. The Staff Associate I will assist the Research Scientist in programming in both R and Python to perform technical analysis on observational datasets, to run simulations models, and to integrate models into the World Modelers platform.  The overall goal of these efforts is to understand dynamics and potential interventions in reduce fragility and promote stability in East Africa and other regions with significant social instability.
+The Staff Associate I will support and assist the Research Scientist with: creating scientific content (e.g., technical figures, tables, and diagrams with captions; results descriptions, interpretation, etc.)  for scientific presentation in publication or presentation formats; participating in group and project meetings including with expert partners and project stakeholders, via phone conference and in person, including at workshops and conferences; supporting the creation and documentation of technical analysis methods; collection and maintenance of datasets, literature reviews and other background research. 
+Qualifications
+Minimum Qualifications:
+* Bachelor's degree in data science, computer science, statistics, mathematics or related quantitative and computational field of study. A MA degree in data science, computer science, statistics, mathematics or related quantitative and computational field of study can substitute for 2 years of experiences.
+* At least 2 years of related experience working in quantitative and computation analysis
+* Ability to work in the R and Python programming languages
+* Familiarity with large (100+ GB) dataset analysis and archival
+* Ability to effectively execute work in Unix environments
+* Ability to create clear and visually compelling scientific figures and tables
+* Ability to work effectively in team environment
+* Excellent spoken and written English
+Application Instructions
+Appointment will be for 1 year, with continuation contingent upon performance.
+Search will remain open for at least 30 days after the ad appears and will continue until the position is filled.
+Proposed start date is September 16, 2021, with some flexibility
+Submit your application, including: a cover letter, and current CV
+Columbia University benefits offered with this Officer of Research appointment.
+We accept online applications only.

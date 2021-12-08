@@ -1,0 +1,37 @@
+﻿We’re Hiring a Data Fellow!
+August 23, 2021
+Data, job, R, data visualization, hiring, data science
+
+
+The Greater Louisville Project (GLP) is a Louisville nonprofit that creates data and research for local nonprofits, foundations, and civic leaders. You can check out our work here! We’re looking to hire a new team member to assist with crunching data, creating reports, and visualizing information for the community.
+Duties
+* Compile data and visualizations for GLP reports and website from available sources.
+* Conduct research for community data requests.
+* Assist with other internal data projects.
+* Visualize GLP data using appropriate tools.
+* Contribute to the team as a whole. We are small and everyone lends a helping hand!
+Required skills
+* Moderate fluency in R. If you aren’t familiar with R, you’ll need to show a strong background (project-based work or certification) in another computational language like Python that demonstrates skills transferable to R. We can evaluate this on a case-by-case basis.
+* Some background in data/statistics beyond just working with data in preformatted tables. The role involves working with survey data as well as some complicated data scraping and wrangling. Concepts like margins of error, survey weighting, medians, etc. come up often.
+* Show a commitment to service, justice, and equity. We create data to advance equity and make Louisville a better place for all, and you’ll need to be committed to those goals to engage with the work and be a good fit for the team.
+* Ability to learn new skills on the job with minimal supervision. We’ll provide appropriate support and mentorship, but data analysis also requires reading a lot of documentation and figuring out new things on your own.
+Preferred skills
+* Community service and community engagement experience through your personal or professional life. Involvement in local organizations and social justice issues helps bring more community perspectives to this work, and it also helps us share our research. For example: helping folks access resources during COVID-19, work experience with other nonprofits, or involvement with a neighborhood organization.
+* Experience with data visualization and storytelling to people with a variety of technical expertise. Our goal is to make our research accessible to everyone in the community regardless of their background. 
+* While the role doesn’t require developing new methods for communicating our data, if you have ideas for how to better communicate our data through storytelling, graphs, dashboards, visuals, etc., you can make it happen!
+* Familiarity with any web languages and tools like HTML, CSS, WordPress, Google Analytics, D3. Doesn’t have to be a part of the job, but it can be if you’re familiar with them.
+* Familiarity with Python. We’re working on a specific project using Python, and it’s a good general-purpose skill to have when R isn’t the best choice.
+Compensation + Opportunities for Advancement
+* Will be a contracted position, not an employee. We’re looking for someone to join for 15-30 hours a week, with flexibility depending on skill level and other commitments. An experienced R user would be fine with fewer hours, while someone transferring over to R from another language would need more time to get comfortable with the code.
+* Compensation starts at $15 if the applicant requires a lot of upskilling to start, and would go up to $20 with more experience. There will always be a reasonable gap between what someone would make at GLP and what they could make, say, joining the data team at Humana.
+* Potential for an apprenticeship model where the applicant graduates to a higher pay rate upon completion of certain milestones within their first several months. (Specifically this is in regard to someone who does not know R.)
+* Possibility for advancement over time as the applicant becomes familiar with GLP data systems and responsibilities.
+* Flexible start date, preferably sometime in early Fall 2021.
+We are actively seeking diversity of experience and perspectives among our team and are committed to building an inclusive workplace culture where all individuals who share these values can thrive. If you have most, but not all, of these skills but feel that you are a good fit for this role, please apply! These guidelines are not hard and fast rules and we would love to see your materials.
+The first review/priority deadline for this position is September 1st, 2021, but we will accept applications on a rolling basis until September 10th, 2021.
+
+
+To apply, submit your resume and a brief (<250 words) statement of interest to the google form linked below.
+
+
+Please reach out to glp@greaterlouisvilleproject.org with any questions.

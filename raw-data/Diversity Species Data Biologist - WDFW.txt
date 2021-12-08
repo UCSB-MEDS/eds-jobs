@@ -1,0 +1,140 @@
+﻿Salary 
+$56,856.00 - $74,604.00 Annually
+Location 
+Thurston County – Olympia, WA
+Job Type
+Full Time - Permanent
+Department
+Dept. of Fish and Wildlife
+Job Number
+2021-11642
+Closing
+11/3/2021 11:59 PM Pacific
+FULL-TIME/PERMANENT 
+FISH & WILDLIFE BIOLOGIST 3 
+
+
+WILDLIFE DIVERSITY SPECIES DATA BIOLOGIST 
+
+
+WDFW Wildlife Program 
+Olympia, Washington 
+
+
+The preferred duty station is Olympia, Washington, however, we are also considering other duty stations within Washington State.
+You are excited to support diversity species biologists by managing species data collected from field surveys, telemetry projects, other remotely sensed observations, and public reports of wildlife observations! 
+You thrive on building collaboration and teamwork – become the liaison between the Wildlife-Science Division’s IT, research staff, business units, Diversity Division staff and other WDFW employees that utilize diversity  species data.
+Join a team of IT Staff, GIS Analysts, and Data Stewards that provide the tools, services, and products to support the entire data management lifecycle for diversity species data.
+With that in mind, 
+Picture yourself being responsible for quality assurance, quality control, management, interpretation, usability, delivery, and supporting the analyses of diversity species data.
+In this dynamic role you will improve the quantity and quality of wildlife diversity species data by soliciting, acquiring, translating, and processing survey, research, incidental, and external species data.
+The optimal applicants have strong organizational skills, have the willingness and aptitude to manage diversity species data, and provide excellent customer service to internal and external partners.  
+We are seeking a candidate with demonstrated values matching those of WDFW: Accountability, Service, Professionalism, Integrity, Respect, and Empathy (ASPIRE).
+
+
+Duties
+Our Wildlife Diversity Species Data Biologist,
+Manage diversity Species of Greatest Conservation Need (SGCN) data in corporate databases.  Tasks include but are not limited to: 
+* Solicits and acquires species data from WDFW staff and external entities.
+* Conducts quality control, translation and processing of species data and incorporates this data into WDFW datasets and enterprise species databases.
+* Uses or modifies scripts and other automated geo-processing routines for managing data and maintains/updates existing species records in corporate databases.
+* Liaises with WDFW staff and species work groups to identify business needs for species data and aligning species biology with species data business rules.
+Support species surveys and other field data collection by WDFW staff.  Tasks include but are not limited to: 
+* Coordinates with biologists to develop survey data collection procedures, such as survey protocols and mapping criteria, and to align survey protocols with species data business rules, to improve the flow of survey data into corporate species databases. 
+* Coordinates with Wildlife Program IT staff on the development of surveys apps, tools, and scripts for appropriately collecting, monitoring and QC-ing of survey data. 
+* Supports the use of platforms and systems for managing data collected from camera traps and other indirect species data collection surveys such as telemetry, acoustic recordings, or drone imagery.
+Support species evaluations, assessments, planning, reporting by WDFW staff.   Tasks include but are not limited to: 
+* Coordinates with biologists to determine business needs, identify data gaps and solicit data from internal and external sources.
+* Compiles and standardizes data for integration into species databases and use in species evaluations.
+WORKING CONDITIONS:
+* Work Setting, including hazards: 
+   * Primarily office work - the duty station for this position is in Olympia, WA. Due to the Governor’s “Stay Home, Stay Safe” order, many of our positions are currently working remotely, or a combination of office and remote.  When the Governor lifts the “Stay Home, Stay Safe” order for state employees, combinations of office or telework may be considered.
+   * Occasional participation in surveys and other field activities will require working outdoors, in inclement weather, walking through dense vegetation, over rough terrain, and hiking over long distances while at times carrying a light load of field equipment/electronic gear that weighs up to 40 pounds. 
+* Schedule: 
+   * Standard business hours are Monday – Friday – 8:00 a.m. – 5:00 p.m.
+   * Workload demands may require work outside the assigned work hours and adjustment of work schedules.
+* Travel Requirements: 
+   * Occasional travel to WDFW regional offices, district offices, Wildlife Areas, and to field sites for participation in surveys and other outdoor activities.
+   * Occasional travel to conferences, trainings, or meetings with other agencies and external entities. 
+* Tools and Equipment: 
+   * Standard office/telework equipment, occasional use of survey equipment, field equipment, and travel/field safety gear. 
+* Customer Interactions: 
+   * Interactions with and responsiveness to inquiries from professional, external entities and members of the public - communication is via phone, email, or in-person.
+
+
+Qualifications
+REQUIRED QUALIFICATIONS:
+* A Bachelor's degree in wildlife management, environmental science, biology, or a related natural resource discipline. 
+AND 
+One (1) of the following:
+* Two (2) years as a Fish & Wildlife Biologist 2. 
+OR  
+* Three (3) years of professional experience in management, field-technician or research jobs involving wildlife, habitats, forestry, or similar biological, environmental, and natural resources.
+Please Note: 
+* Closely related qualifying experience may be substituted for the required education on a year-by-year basis.
+* A Master’s degree in the applicable science discipline will substitute for one (1) year of the required experience. 
+* A Ph.D. in the applicable science may be substituted for two (2) years of the required experience.
+Certifications/Licenses: 
+* Valid State Driver’s License. 
+PREFERRED QUALIFICATIONS: 
+Experience with:
+* Using GIS software such as ArcPro or ArcGIS for Desktop and using this software for geodatabase management, geoprocessing, and spatial analyses.
+* Intermediate experience Microsoft Office software, including Access databases.
+* Statistical software and understanding of statistical methods for evaluating species, species populations, and species-habitat relationships.
+Knowledge of: 
+* Principles of conservation biology and wildlife management.
+Familiarity with: 
+* Washington state species’ habitats, ranges, and distribution.
+* Standard biological field methods, survey protocols, and survey tools for observing and collecting species data.
+Ability to: 
+* Effectively identify, collect, organize, and document data in ways that make the information most useful for subsequent assessment, analysis, and investigation.
+Knowledge of, or experience with: 
+* Relational databases and data management processes within those databases.
+* Managing data on cloud platforms and software such as ArcGIS.com, Amazon Web Services, or Azure
+* Managing hardcopy and electronic records
+* Scripting languages of Python and/or R for automating data management.
+Resume must indicate experience in these requirements and years of experience.
+
+
+Supplemental Information
+Please note: Failure to follow the instructions below may lead to disqualification.
+ 
+In order to successfully apply for this position, you MUST complete your profile at www.careers.wa.gov and attach the following to your profile before completing the online application:
+* A cover letter describing how you meet the qualifications of this position (Generic cover letter will not be accepted).
+* A current resume. 
+* Three professional references. 
+IMPORTANT NOTES: 
+On Monday August 9, 2021, Governor Inslee enacted Proclamation 21-14 which requires that all employees of all state agencies not headed by an elected official be fully vaccinated with a recommended COVID-19 vaccine by October 18, 2021 as a condition of employment. Fully vaccinated includes the two-week waiting period after the last shot in each series, or single shot, is given. If hired for this or any position at WDFW, you will be required to provide verification of COVID vaccination. A list of acceptable documents to provide verification can be reviewed here. Vaccination acceptable documents link (Download PDF reader) (Download PDF reader)
+The Department of Fish and Wildlife’s priority during the Covid-19 health crisis is to keep our staff, candidates, and the public safe.  We are hiring and encourage you to apply to open positions. We have transitioned to a virtual recruitment process, to include web-based interviews.
+All new employees must complete an Employment Eligibility Verification Form (I-9 Form) on their first day of work. If hired for this or any position at WDFW, you will be required to provide documentation proving you are eligible to work in the United States. For a list of acceptable documents, please use the following link:  https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents
+JOIN THE WDFW TEAM:
+Learn about our agency and the perks of working for WDFW!
+The Washington Department of Fish and Wildlife has some of the most talented people in the natural resource field.  We celebrate and value diversity, appreciating that a workforce composed of those from different backgrounds and experiences creates an inclusive environment, strengthens positive relationships with the local community, and brings new perspectives and approaches to fulfilling the agency’s mission. We value demonstrated skill in living WDFW values of Accountability, Service, Professionalism, Integrity, Respect, and Empathy (ASPIRE).
+WDFW employees may be eligible for the following:
+Medical/Dental/Vision for employee & dependent(s), Public Employees Retirement System (PERS), Vacation, Sick, and other Leave*, 11 Paid Holidays per year*, Public Service Loan Forgiveness, Tuition Waiver, Long Term Disability & Life Insurance, Deferred Compensation Programs, Dependent Care Assistance Program (DCAP), Flexible Spending Arrangement (FSA), Employee Assistance Program, Commute Trip Reduction Incentives (Download PDF reader), Combined Fund Drive, SmartHealth.
+UNION – WAFWP: 
+This position is in the bargaining unit represented by the Washington Association of Fish & Wildlife Professionals and is subject to the terms of the Collective Bargaining Agreement between the State of Washington, Department of Fish & Wildlife, and the Washington Association of Fish & Wildlife Professionals.
+ Yes Vets - say yes to those who served image. 
+
+Diversity, Equity, and Inclusion Employer
+VETERAN PREFERENCE NOTICE:
+To take advantage of veteran preference, please do the following:
+* Email a copy of your DD214 (Member 4 copy), NGB 22 or USDVA signed verification of service letter to RecruitmentTeam@dfw.wa.gov.
+* Subject line should include recruitment number, position, and Vet (for example: #10155 Biologist 1 – Veteran)
+* Include your name as it appears on your application in careers.wa.gov.
+ 
+MILITARY SPOUSE PREFERENCE NOTICE: 
+To take advantage of military spouse preference, please do the following:
+* Notify us of your military spouse status by email at RecruitmentTeam@dfw.wa.gov.  
+* Subject line should include recruitment number, position, and MS (for example: #10155 Biologist 1 – MS)
+* Include your name as it appears on your application in careers.wa.gov.
+ 
+Note: Please blackout any PII (personally identifiable information) data such as social security numbers. For further information, please contact us at RecruitmentTeam@dfw.wa.gov.
+ 
+As part of WDFW’s efforts to advance respectful and inclusive work environments, the Agency expects inclusivity as part of our professional interactions and communications.   Therefore, we want to ensure that all individuals feel welcome, are treated fairly and respectfully.  All staff are empowered to fully contribute to serving their work unit, Agency, and the citizens of Washington.
+The Department of Fish and Wildlife is an equal opportunity employer.  We strive to create a working environment that includes and respects cultural, racial, ethnic, sexual orientation and gender identity diversity.   Women, racial and ethnic minorities, persons of disability, persons over 40 years of age, disabled and Vietnam era veterans and people of all sexual orientations and gender identities are encouraged to apply.  
+Persons needing accommodation in the application process or this announcement in an alternative format may call (360) 902-2276 or the Telecommunications Device for the Deaf (TDD) at (800) 833-6388.
+If you are having technical difficulties creating, accessing, or completing your application, please call NEOGOV toll-free at (855) 524-5627 or support@neogov.com.
+*Images shown are Pre-COVID, WDFW Staff follow current COVID Safety Protocol including the use of face masks. 
+Follow us on social media: 
+ LinkedIn | Facebook | Instagram

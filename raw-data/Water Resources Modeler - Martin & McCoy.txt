@@ -1,0 +1,31 @@
+﻿Martin & McCoy
+
+
+Water Resources Modeler 
+
+
+Job Type: Full Time 
+
+
+Position: The position will provide key support and insight in model development, deployment, and modification, as well as integrate existing object-oriented modeling approaches with new from-scratch frameworks. The candidate will lead all Colorado River modeling projects and work with the team to optimize the generation of various future conditions. The position provides the opportunity to have hands-on involvement with everything the start-up deals with and has the potential for substantial growth.
+
+
+ Team: We are looking for creative, big thinkers ready to join our start-up team -- people who are interested in employing modern technological, data and programming tools to help solve critical problems at the intersection of water and climate change. Our clients and customers will expect us to think outside the box and provide solutions that will help to break down the barriers to achieving actual change, and that’s what we will expect from you. We are looking for people who are eager to learn, motivated to solve problems and find solutions for a better future, and who want to be part of a collaborative team tasked with building moonshot data platforms, modeling solutions, and new visualization tools to guide decision making. Our team members will be willing to flip, turn, spin, and even go through wormholes to get things done. We won’t give up and we won’t set boundaries. Their reward? Besides a healthy compensation package: being part of a dynamite, tight-knit team that is focused on making an impact and getting in on the ground floor of a new business. 
+
+
+Required Skills and Experience: 
+● Deep experience using RiverWare 
+● Out-of-the-box thinking related to hydrologic simulation and modeling, with a desire to modify and improve existing modeling infrastructure 
+● Some experience using coding/scripting languages (R, Python, Bash shell, etc.) 
+● Knowledge of the Law of the River and current State and Federal policies and dynamics surrounding the Colorado River 
+● Comfort communicating at both technical and executive levels of detail, especially in explaining complex topics to those new to the subject area 
+● Excellent interpersonal and communication skills, both written and verbal 
+● Demonstrated productivity when working independently and as a team member 
+● Ability to work in a highly collaborative and inclusive environment 
+
+
+Preferred Skills and Experience: 
+● Running and developing scenarios in CRSS (Colorado River Simulation System) 
+● Experience building, maintaining, and updating models in MIKE 
+● Undergraduate or graduate degree in hydrology, geology, or related field; coursework in hydrogeologic data analysis, modeling and computer programming preferred 
+● 4+ years experience using hydrologic modeling in professional setting

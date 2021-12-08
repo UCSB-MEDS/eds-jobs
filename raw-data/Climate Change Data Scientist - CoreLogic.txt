@@ -1,0 +1,54 @@
+﻿Job Summary
+
+
+Join our team of over 5,000 employees globally, who provide the insights through data and next generation technology that help millions of people find, buy and protect the homes they love. From the beginning, CoreLogic has been driven by a single purpose - to innovate and create solutions that solve our clients' toughest challenges in the housing market. CoreLogic is the trusted source for property intelligence, with deep knowledge of powerful economic, social, and environmental forces that promote healthy housing markets and thriving communities.
+
+
+We apply that same dedication to creating a diverse and inclusive work culture that inspires innovation and bold thinking. A place where individuals can work on small teams, feel valued, and directly impact the real estate industry. We believe our team members are the best in the business, and we will continue to recruit, retain, develop and reward our most important asset - our people!
+
+
+Job Description:
+
+
+As a leader in property data and intelligence, CoreLogic is looking for someone that can create and effectively communicate unique property-level insights associated with current and future impacts of sea level variability. To this end, a major task will be collecting and consolidating the latest scientific research into thought leadership to help business and government leaders think strategically about risk exposure related to Climate Change. The candidate therefore must be comfortable leading discussions and public forums with business unit leaders and executives internally and industry and government leaders externally.
+Essential Requirements:
+
+
+The ideal candidate's qualities, skills and attributes follow:
+* Master or higher degree in a relevant subject (e.g. Climate Science, Atmospheric Science, Hydrology, Geophysics, or closely related areas) plus three years of experience.
+* Research experience with, and solid understanding of climate processes and their variability including Climate Change.
+* Strong mathematical foundation with focus on physics-based and numerical modelling of natural systems.
+* Experience in numerical weather prediction modeling (NWP), analyzing and interpreting present and future climate projections from Phase 5 or 6 Coupled Model Intercomparison Project (CMIP5/6) models,
+* Demonstrated ability to manage priorities and deadlines and to work independently in a highly dynamic and diverse environment with multiple concurrent goals and with a diverse team of scientists and engineers.
+* Experience working with large and complex datasets.
+* Strong ability in modelling languages (e.g. Fortran, C++, R, Python).
+* Strong user skill in a Linux/Unix environment.
+* Ability to effectively communicate insights and analyses.
+Advantageous:
+* Relevant experience with a climate modeling organization/firm, re/insurance company/broker, or catastrophe model vendor.
+* Peer-reviewed scientific publications in areas related to climate and extreme weather risk and/or climate change.
+* Experience in Artificial Intelligence and Machine Learning.
+* Experience communicating complex scientific and risk modelling concepts to external stakeholders (in a commercial setting).
+* Familiarity with catastrophe risk modelling - particularly with respect to tropical cyclone, flood, wildfire, and severe convective storm.
+* Strong foundation in probability and statistics.
+* Postdoctoral research experience.
+Job Qualification:
+
+
+* Master or higher degree in a relevant subject (e.g. Climate Science, Atmospheric Science, Hydrology, Geophysics, or closely related areas) plus three years of experience.
+* Research experience with, and solid understanding of climate processes and their variability including Climate Change.
+* Strong mathematical foundation with focus on physics-based and numerical modelling of natural systems.
+* Experience in numerical weather prediction modeling (NWP), analyzing and interpreting present and future climate projections from Phase 5 or 6 Coupled Model Intercomparison Project (CMIP5/6) models,
+* Demonstrated ability to manage priorities and deadlines and to work independently in a highly dynamic and diverse environment with multiple concurrent goals and with a diverse team of scientists and engineers.
+* Experience working with large and complex datasets.
+* Strong ability in modelling languages (e.g. Fortran, C++, R, Python).
+* Strong user skill in a Linux/Unix environment.
+* Ability to effectively communicate insights and analyses.
+Advantageous:
+* Relevant experience with a climate modeling organization/firm, re/insurance company/broker, or catastrophe model vendor.
+* Peer-reviewed scientific publications in areas related to climate and extreme weather risk and/or climate change.
+* Experience in Artificial Intelligence and Machine Learning.
+* Experience communicating complex scientific and risk modelling concepts to external stakeholders (in a commercial setting).
+* Familiarity with catastrophe risk modelling - particularly with respect to tropical cyclone, flood, wildfire, and severe convective storm.
+* Strong foundation in probability and statistics.
+* Postdoctoral research experience.

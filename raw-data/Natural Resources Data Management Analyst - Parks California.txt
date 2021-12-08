@@ -1,0 +1,79 @@
+﻿Parks California
+Natural Resources Data Management Analyst
+
+
+ORGANIZATION BACKGROUND
+Parks California is a new organization working to ensure that our state’s parks thrive. From redwood groves and desert springs to lighthouses and ghost towns, we are working with our partners to make California parks more welcoming, accessible, and relevant to all visitors. Managing these assets for nearly 40 million residents and millions more annual visitors takes collective work. Park managers cannot do it alone. Parks California harnesses skills and resources—and California’s renowned ingenuity—to help our state, regional, and local parks thrive and evolve. Parks California coalesces a diverse set of partners to make this vision a reality. Parks California is committed to promoting diversity, equity, and inclusion throughout the organization and its programs.
+
+
+This position will work with two of Parks California’s key partners: the Golden Gate National Park Conservancy (Parks Conservancy) and the California Department of Parks and Recreation (CA State Parks) Natural Resources Division (NRD). This partnership collaborates with CA State Parks natural resources programs statewide and supports inventory and monitoring networks for ecological data management projects. CA State Parks generates ecological monitoring data in 212 parks, many with significant natural resources, and has several long-term ecological monitoring programs, including the Management Unit Datasheet Database System, and Weed Information Management System, as well as data collected using Early Detection Rapid Response protocols. Data coordination for these programs requires a diversity of strategies, which are strengthened through communication and transfer of knowledge between partners and programs.
+
+
+POSITION OVERVIEW
+The Natural Resources Data Management Analyst (Analyst) contributes to Parks California and Parks Conservancy partnership with CA State Parks NRD to gather and manage ecological data that supports conservation stewardship and informed park management. The Analyst will support the partnership by cross-referencing and error-checking data, enhancing or building integrated resource data storage strategies and systems, developing quality control and quality assurance procedures, writing standard operating procedures and other data management plans, and creating reports and/or dashboards. The position will provide data management and interpretation support for multi-district programs.
+
+
+The Analyst will report to the Parks California Resource Stewardship Programs Manager. Through this unique partnership position, the Analyst will also collaborate with two Site Supervisors, including the Parks Conservancy One Tam Conservation Management Specialist and CA State Parks NRD Statewide Programs Manager in a matrix management framework to complete project-specific tasks.
+
+
+RESPONSIBILITIES
+• Works collaboratively with NRD staff and the Parks Conservancy One Tam Conservation
+Management Specialist
+• Supports database design and development of tables, queries, forms, and reports in SQL and
+Microsoft Access for ecological and resource-based data sets
+• Enhances and troubleshoots geodatabases and spatial data collection applications using ArcGIS
+(desktop or online), creates maps, and performs spatial analyses
+• Writes or contributes to standard operating procedures
+• Develops and implements quality assurance and quality control procedures
+• Helps assure that metadata for tabular and geospatial datasets are complete and current
+• Prepares report graphics and/or dashboards illustrating datasets for weed management and
+other resource-based data
+• Maintains office area, paper, and electronic files in organized manner
+
+
+KNOWLEDGE, SKILLS, and EXPERIENCE
+• Ability to take initiative and to work independently.
+• Experienced at problem solving and applying logical thinking. Can proactively identify and
+resolve problems in a timely manner and know when to ask for assistance.
+• Excellent attention to detail and accuracy.
+• Basic knowledge in natural resource biology/ecology and familiarity with remote sensing data.
+• Good understanding of integrated data management/ information management theory.
+• Strong communication skills, both oral and written.
+• Ability to manage multiple projects and skillful at time management
+• Enjoys and excels working in a team environment.
+• Considers and responds appropriately to the needs and capabilities of different people in
+different situations; is tactful and treats others with respect; relates effectively to others when
+encountering difficult situations.
+
+
+OTHER QUALIFICATIONS
+• BA/BS in environmental science, natural resources, ecology, geography, data management or
+similar field; OR equivalent experience
+• Experience with federal, state and/or regional land management resource management data
+collection, management, and processing needs
+• Competent in use of Microsoft Office, especially Excel and Word
+• Competent in Python programming language
+• Competent with ESRI ArcGIS products
+• Knowledge of contemporary database applications, especially MS Access
+
+
+PHYSICAL REQUIREMENTS AND WORK ENVIRONMENTS
+• Performs work in an office setting
+• Work is primarily performed sitting
+
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.
+
+
+COMPENSATION & LOCATION
+Full-time, one-year limited-term basis. $25/hour with a comprehensive benefits package. This position will be hybrid and will require both remote and occasional in-person work out of the Sacramento Office of CA State Parks and occasional travel to CA State Park Districts.
+
+
+TO APPLY
+Interested candidates should apply via email by sending a cover letter describing their qualifications that match the position criteria and what they will bring to the role, along with a resume, to resume@parkscalifornia.org with the subject line “Parks California, Natural Resources Data Management Analyst.”
+
+
+ADDITIONAL INFORMATION
+More information on Parks California can be found at https://parkscalifornia.org/.
+Parks California is an Equal Opportunity Employer. We believe that our overall effectiveness is
+enhanced when equity and inclusiveness are practiced and protected throughout our organizational governance, culture, and staffing. We are committed to leadership in and serving as a catalyst for promoting equity and inclusion in parks communities.

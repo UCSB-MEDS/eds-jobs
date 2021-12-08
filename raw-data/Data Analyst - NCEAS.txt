@@ -1,0 +1,57 @@
+﻿LTER Data Analyst at NCEAS
+Job #JPF02074
+* National Center for Ecological Analysis and Synthesis / Office of Research / UC Santa Barbara
+POSITION OVERVIEW
+Position title: LTER Data Analyst
+Percent time: 100%
+Anticipated start: Winter 2021
+Position duration: 12 months
+APPLICATION WINDOW
+Open date: October 19th, 2021
+Next review date: Monday, Nov 22, 2021 at 11:59pm (Pacific Time)
+Apply by this date to ensure full consideration by the committee.
+Final date: Wednesday, Jan 12, 2022 at 11:59pm (Pacific Time)
+Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
+POSITION DESCRIPTION
+PROGRAM OVERVIEW
+The Long Term Ecological Research (LTER) Network Program was established by the National Science Foundation in 1980 to study ecological processes operating on decadal-to-century time scales. The program now includes a network of 28 diverse sites across the U.S. and engages thousands of researchers and students. The LTER Network Office supports multiple simultaneous synthesis working groups (https://lternet.edu/current-working-groups/) that develop generalizable insights and propose new theory drawing on decades of data in LTER’s five core focus areas (https://lternet.edu/core-research-areas/): primary productivity, populations, organic matter, water and nutrients, disturbance. Many sites have also incorporated deep expertise in human-environment interactions. For more information about the LTER Network, visit: https://lternet.edu/.
+This position will be resident at the National Center for Ecological Analysis and Synthesis (NCEAS), located in scenic downtown Santa Barbara, California. NCEAS is a pioneer in open, team-oriented, and data-driven science, and has an inclusive community of postdocs, resident scientists, and analysts, as well as frequent visiting leading scientists and practitioners from around the world.
+POSITION OVERVIEW
+The LTER Network invites applications for 1-2 Data Analysts (Junior/Assistant Specialists) to engage in a portfolio of environmental synthesis research drawing on LTER and other data.
+POSITION DESCRIPTION
+Under the supervision of NCEAS Senior Data Scientist, and in partnership with working group investigators, the LTER Data Analysts (Junior/Assistant Specialists) will participate in all stages of the synthesis process. The data analysts will develop data pipelines and reproducible analytical workflows to integrate heterogeneous sources of data (tabular, geographic, remote sensing, etc.) for LTER synthesis groups (https://lternet.edu/current-working-groups/). They will also gather, organize, and document the use of source data and assist scientists in preserving their scientific products (codes, data) and developing interactive data visualizations.
+To APPLY
+Please apply via UC Recruit by Nov 22 for primary consideration. Position open until filled.
+ADDITIONAL INFORMATION
+NCEAS is committed to improving diversity and inclusion in science. We value the diversity of expertise, backgrounds, needs, and experiences reflected among our residents, visitors, and broader communities. We are committed to providing a safe, productive, and welcoming environment for everyone, regardless of race, ethnicity, religion, age, gender identity, parental status, sexual orientation, (dis)ability, citizenship status, and nationality. To see the steps we are taking to advance diversity and inclusion please see our full statement here: https://www.nceas.ucsb.edu/diversity-inclusion.
+The Department is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching and service.
+Unit: https://www.nceas.ucsb.edu
+QUALIFICATIONS
+Basic qualifications (required at time of application)
+A baccalaureate degree, or equivalent experience, in environmental science, Earth science, ecology, data science, computer science, or a related field.
+Additional qualifications (required at time of start)
+For consideration at the Assistant Specialist level, must have a Master's degree in environmental science, Earth science, ecology, data science, computer science, or a related field or 5 or more years of environmental research experience.
+Preferred qualifications
+At least 1 year of experience in data analysis for junior specialist; 5 years for Assistant Specialist
+Clean, efficient coding abilities, preferably in R and/or Python
+Ability to communicate complex information using data visualization techniques
+Analytical and problem-solving skills, paired with the ability to develop creative and efficient solutions
+Interpersonal communication skills to collaborate with working group investigators
+APPLICATION REQUIREMENTS
+Document requirements
+* Curriculum Vitae - Your most recently updated C.V.
+* Cover Letter - Cover Letter, including:
+Interest in the position
+Qualifications related to position
+Experience in supporting diversity, equity, and inclusion
+Reference requirements
+   * 3 required (contact information only)
+Name and contact information for three references
+The top candidate's references will be contacted before the final job offer.
+Apply link: https://recruit.ap.ucsb.edu/JPF02074
+Help contact: morris@nceas.ucsb.edu
+CAMPUS INFORMATION
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy https://policy.ucop.edu/doc/5000695/SARS-CoV-2_Covid-19. All Covered Individuals under the policy must provide proof of Full Vaccination or, if applicable, submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. For new University of California employees, the applicable deadline is eight weeks after their first date of employment. (Capitalized terms in this paragraph are defined in the policy.)
+JOB LOCATION
+Santa Barbara, CA

@@ -1,0 +1,52 @@
+﻿NCEAS Environmental Data Analyst
+Job #JPF02067
+* National Center for Ecological Analysis and Synthesis / Office of Research / UC Santa Barbara
+POSITION OVERVIEW
+Position title: NCEAS Environmental Data Analyst
+Percent time: 100%
+Anticipated start: November 2021, or as soon as possible thereafter
+Position duration: 12 months, with the possibility of extension pending available funds and strong performance
+APPLICATION WINDOW
+Open date: October 14th, 2021
+Next review date: Friday, Nov 12, 2021 at 11:59pm (Pacific Time)
+Apply by this date to ensure full consideration by the committee.
+Final date: Friday, Dec 31, 2021 at 11:59pm (Pacific Time)
+Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
+POSITION DESCRIPTION
+DESCRIPTION
+We are seeking a full-time Environmental Data Analyst to join Ben Halpern’s research group at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California, Santa Barbara. We are a diverse, inclusive scientific team that uses environmental data science approaches to tackle pressing sustainability research questions so we can uncover strategic, effective, and efficient solutions to environmental problems.
+The candidate will be based at NCEAS in Santa Barbara, CA and will engage with ongoing and emerging research projects. Current projects include: mapping pressures and environmental justice implications of global food production, quantifying pressures and risk to aquaculture from climate change within the U.S., spatially mapping and quantifying the magnitude of ocean pressures and impacts on marine species and coastal habitats, and measuring ocean health.
+This full-time position offers competitive salary and benefits commensurate with experience. The successful candidate will work with Ben Halpern and his research team – and will have opportunities to work on many on-going and related projects.
+RESIDENCY AT NCEAS: NCEAS is located in scenic downtown Santa Barbara, California. The Center is known for fostering interaction and collaboration, a characteristic that leads to the success of its resident and visiting scientists. NCEAS has a growing and thriving community of postdocs, resident scientists, and analysts, and frequent influx of leading scientists and practitioners from around the world participating in working group projects. We expect the candidate to contribute their knowledge, interests, and enthusiasm to the intellectual atmosphere. This Assistant Specialist should anticipate spending the vast majority of their time working at the Center.
+RESPONSIBILITIES:
+This position will be responsible for: engaging with a research team to help determine the data and analytical approaches needed to address environmental questions; track down and prepare data using R scripts; analyze and visualize data; apply and promote good data practices and collaborative research; troubleshoot code and hunt down errors; communicate progress and results with team members and other scientists.
+The department is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching and service.
+Unit: https://www.nceas.ucsb.edu
+QUALIFICATIONS
+Basic qualifications (required at time of application)
+A Master's degree in natural resource management, ecology, climate change, aquatic ecology or related disciplines at the time of application.
+Preferred qualifications
+Eager to learn new skills, including programming and analytical skills as well as learning about new scientific disciplines
+Spatial analyses skills, or a strong desire to learn these skills (e.g., ArcGIS, or R equivalents)
+Experience with statistics and modeling
+Strong communication and interpersonal skills
+Ability to use code versioning systems, or a desire to learn and apply this skill (e.g., Git, GitHub)
+Ability to review and synthesize large amounts of literature and disparate data sources
+Applied experience using R programming, particularly data wrangling
+Outstanding organizational skills and attention to detail
+Ability to take initiative and work independently and as part of a team
+APPLICATION REQUIREMENTS
+Document requirements
+* Curriculum Vitae - Your most recently updated C.V.
+* Cover Letter - Cover letter describing your research background and qualifications for the position
+Reference requirements
+* 3 required (contact information only)
+Names and contact information for 3 references.
+The top candidate's references will be contacted before the final job offer.
+Apply link: https://recruit.ap.ucsb.edu/JPF02067
+Help contact: acastillo@nceas.ucsb.edu
+CAMPUS INFORMATION
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy https://policy.ucop.edu/doc/5000695/SARS-CoV-2_Covid-19. All Covered Individuals under the policy must provide proof of Full Vaccination or, if applicable, submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. For new University of California employees, the applicable deadline is eight weeks after their first date of employment. (Capitalized terms in this paragraph are defined in the policy.)
+JOB LOCATION
+Santa Barbara, CA

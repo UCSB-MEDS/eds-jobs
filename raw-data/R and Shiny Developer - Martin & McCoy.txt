@@ -1,0 +1,39 @@
+﻿MARTIN & McCOY 
+
+
+info@martin-mccoy.com 
+
+
+11201 N Tatum Blvd Ste 300 PMB 58282, www.martin-mccoy.com Phoenix, Arizona 85028-6039 
+
+
+R and Shiny Developer 
+
+
+Job Type: Full Time 
+
+
+Position: The developer would collaborate with the project team to create from-scratch data visualization and exploration products, as well as rebuild and refine existing Shiny applications. Candidates should have experience that leverages a modern R programming toolkit, as well as significant app-building and deployment experience. Candidates should have significant experience designing and building production-grade Shiny applications with a focus on user experience and design. The position provides the opportunity to have hands-on involvement with everything the start-up deals with and has the potential for substantial growth. Team: We are looking for creative, big thinkers ready to join our start-up team -- people who are interested in employing modern technological, data and programming tools to help solve critical problems at the intersection of water and climate change. Our clients and customers will expect us to think outside the box and provide solutions that will help to break down the barriers to achieving actual change, and that’s what we will expect from you. We are looking for people who are eager to learn, motivated to solve problems and find solutions for a better future, and who want to be part of a collaborative team tasked with building moonshot data platforms, modeling solutions, and new visualization tools to guide decision making. Our team members will be willing to flip, turn, spin, and even go through wormholes to get things done. We won’t give up and we won’t set boundaries. Their reward? Besides a healthy compensation package: being part of a dynamite, tight-knit team that is focused on making an impact and getting in on the ground floor of a new business. 
+
+
+Required Skills and Experience: 
+● Significant experience with developing on and working with the Shiny (R) data visualization platform 
+● Deep fluency with and cultivation of modern coding practices in R (building complex functions, tidyverse, documentation, project management in Rstudio) 
+● Experience with key software development frameworks (version control, unit testing, modularization), familiarity and fluency with golem a plus 
+● Experience with collaborative software development (GitHub) 
+● Experience generating creative data visualizations that inform and engage broad audiences 
+● Interest and experience bringing high-level customer experiences to dashboards and web products that rely on thoughtful design and aesthetics 
+● Comfort communicating at both technical and executive levels of detail, especially in explaining complex topics to those new to the subject area 
+● Excellent interpersonal and communication skills, both written and verbal ● Demonstrated productivity when working independently and as a team member 
+● Ability to work in a highly collaborative and inclusive environment 
+
+
+Preferred Skills and Experience: 
+● Experience with water/hydrology and/or economics domains 
+● Advanced degree in quantitative field (or demonstration of equivalent experience) 
+● 4+ years experience doing quantitative analysis and data product design 
+
+
+
+
+Location: This position will ideally be based in Tucson, Arizona, but we are open to remote locations. Timing: Position will begin on December 1, 2021. COVID-19 considerations: COVID-19 vaccine required (with the exception of a medical or religious exemption). Work will be semiremote with integrated in-person work sessions as CDC guidance allows with integrated testing protocols as needed. Compensation: A competitive salary + equity based on experience 401(k) retirement plan Pre-tax health care Flexible medical, dental, and vision benefits Life insurance & disability insurance Parental leave Unlimited paid time off Apple computer and phone set-up and ergonomic home office stipend Much more About Us: We are forming the initial core team of a mission-driven modeling, analysis, and data visualization startup. We will be focused on building 21st-century technology solutions to address the most challenging water and climate problems, developing data-focused products at local and regional scales, ranging from public-facing dashboards with high traffic to smaller bespoke customer-specific analyses and tools. Our products will support decision-making, understanding water-related climate risks, detailing economic impacts associated with climate risk, and visualization of potential solutions. We welcome applicants from diverse backgrounds with a variety of skills, experiences, and ideas that are enthusiastic about learning and contributing to a new and rapidly growing enterprise. We are an equal opportunity employer. Employment selection and related decisions are made without regard to gender, race, age, disability, religion, national origin, or any other protected class. How to apply: Applicants should send a cover letter and resume combined as a single document in PDF format to: info@martin-mccoy.com please indicate “R and Shiny Developer” in the subject line. Position will remain open until filled; preference will be given to candidates who apply by October 31, 2021.
