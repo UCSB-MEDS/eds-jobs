@@ -8,18 +8,19 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
+# Attach packages: 
 library(googledrive)
 library(stringr)
 library(readr)
 library(tidyverse)
 library(ggplot2)
 library(ggwordcloud)
+library(patchwork)
 ```
 
 
-```{r}
-
-#list all google docs in the jobs folder
+```{r, eval = FALSE}
+# List all google docs in the jobs folder
 jobs <- drive_ls("https://drive.google.com/drive/u/0/folders/1MMeiTL6C_AlJVkM6No8OQKzDzYFkY5GW")
 
 for (i in 31:nrow(jobs)){
@@ -30,11 +31,10 @@ for (i in 31:nrow(jobs)){
   if (str_detect(job, ".pdf")) next 
   
 drive_download(job, type = "text", path = paste0("../raw-data/", job, ".txt"), overwrite = TRUE)
-  
 }
 ```
 
-Create dictionary of words to look for
+Create dictionary of words to look for:
 
 ```{r}
 
@@ -46,9 +46,11 @@ Test
 
 ```{r}
 
+# Create a placeholder data frame
 df <- data.frame(title = "NA", skill = "NA")
 
-job_descriptions <- list.files("../raw-data", full.names = TRUE)
+# Read in job description file names from raw-data
+job_descriptions <- list.files(here::here("raw-data"), full.names = TRUE)
 
 #read in job
 for (i in 1:length(job_descriptions)) {
@@ -115,35 +117,69 @@ num_skills <- df2 %>%
 software <- num_skills %>%
   filter(skill %in% c("R", "git/GitHub", "Python", "JavaScript", "MATLAB", "SQL", "ArcGIS", "AWS","SAS", "QGIS", "Tableau", "Excel", "google sheets", "tensorflow", "PyTorch", "Google Earth Engine", "stata", "Shiny", "jupyter", "kepler", "Docker", "CSS", "azure", "kubernetes", "rmarkdown", "HTML", "bash"))
 
+# Narrow to top 10 for paper
+software_top10 <- software %>% 
+  top_n(wt = prop, n = 10)
 
-ggplot(software, aes(reorder(skill,count), y = prop)) +
+tools_software <- ggplot(software_top10, aes(reorder(skill,count), y = prop)) +
   geom_col() +
-  theme_minimal() +
+  theme_bw() +
   coord_flip() +
-  scale_y_continuous(labels = scales::percent) +
-  labs(y = "Proportion (%) of job postings", 
+  scale_y_continuous(labels = scales::percent,
+                     limits = c(0, 0.7),
+                     expand = c(0,0),
+                     breaks = c(0, 0.2, 0.4, 0.6)) +
+  labs(y = "\nProportion (%) of postings this \ntool or software appears in", 
        x = "",
-       title = "") 
-  #theme(axis.text.x = element_text(angle = 35, vjust = 0.75)) 
+       title = "Tools / software") +
+  theme(panel.grid.minor = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.border = element_blank())
 
-ggsave(filename = "../software.png",dpi = 600)
+
+ggsave(tools_software, filename = "software.png",dpi = 600)
+
+
 ```
 
 ```{r}
 non_soft <- num_skills %>%
-  filter(!skill %in% c("R", "git/GitHub", "Python", "JavaScript", "MATLAB", "SQL", "ArcGIS", "AWS","SAS", "QGIS", "Tableau", "Excel", "google sheets", "tensorflow", "PyTorch", "matlab", "Google Earth Engine", "stata", "Shiny", "jupyter", "kepler", "Docker", "CSS", "azure", "kubernetes", "rmarkdown", "HTML", "bash"))
+  filter(!skill %in% c("R", "git/GitHub", "Python", "JavaScript", "MATLAB", "SQL", "ArcGIS", "AWS","SAS", "QGIS", "Tableau", "Excel", "google sheets", "tensorflow", "PyTorch", "matlab", "Google Earth Engine", "stata", "Shiny", "jupyter", "kepler", "Docker", "CSS", "azure", "kubernetes", "rmarkdown", "HTML", "bash")) %>% 
+  mutate(skill = str_to_title(skill)) %>% 
+  mutate(skill = case_when(
+    skill == "Api" ~ "API",
+    skill == "Gis" ~ "GIS",
+    TRUE ~ skill
+  )) 
 
-ggplot(non_soft, aes(reorder(skill,prop), y = prop)) +
+non_soft_top10 <- non_soft %>% 
+  top_n(n = 10, wt = prop)
+
+skills_knowledge <- ggplot(non_soft_top10, aes(reorder(skill,prop), y = prop)) +
   geom_col() +
-  theme_minimal() +
+  theme_bw() +
   coord_flip() +
-  labs(y = "Proportion (%) of job postings", 
+  labs(y = "\nProportion (%) of postings this \nskill or knowledge appears in", 
        x = "",
-       title = "") +
-  scale_y_continuous(labels = scales::percent)
+       title = "Skills / knowledge") +
+  scale_y_continuous(labels = scales::percent,
+                     limits = c(0, 0.5),
+                     expand = c(0,0),
+                     breaks = c(0, 0.2, 0.4)) +
+  theme(panel.grid.minor = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.border = element_blank())
 
-ggsave(filename = "../general_knowledge.png",dpi = 600)
+ggsave(skills_knowledge, filename = "general_knowledge.png",dpi = 600)
 ```
+
+Combining figures (for tools / software and skills / knowledge graphs)
+```{r}
+top10_combined <- tools_software | skills_knowledge
+
+ggsave(top10_combined, width = 8, height = 4, dpi = 600, filename = "top10_combined.png")
+```
+
 
 ```{r, fig.height=5, fig.width=6}
 num_jobs <- df2 %>% 
