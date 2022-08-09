@@ -1,0 +1,55 @@
+﻿POSITION OVERVIEW
+Position title: Data Services Librarian
+Percent time: 100%
+Anticipated start: April 2022 or later
+Position duration: Indefinite
+APPLICATION WINDOW
+Open date: December 15th, 2021
+Last review date: Monday, Jan 17, 2022 at 11:59pm (Pacific Time)
+Applications received after this date will be reviewed by the search committee if the position has not yet been filled.
+Final date: Thursday, Jun 30, 2022 at 11:59pm (Pacific Time)
+Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
+POSITION DESCRIPTION
+The University of California, Santa Barbara, is one of ten campuses that comprise the University of California system and is a member of the Association of American Universities. The University Library at UC Santa Barbara is a member of the Association of Research Libraries.
+The UC Santa Barbara Library undertakes new initiatives and collaborations stemming from UCSB researcher needs. The Interdisciplinary Research Collaboratory - the UCSB Library’s digital scholarship and data support center, together with the other departments in the Digital Strategies Division (Information Technology and Library Systems, Research Data Services, and Digital Library Development) - plays a leading role in the Library’s engagement with campus priorities, such as the current Data Science Initiative. The Library is actively involved in digital scholarship collaborations with faculty and the other UC campuses around designing and delivering services that support scholarly research.
+The Collaboratory seeks a collaborative, dynamic, service-oriented Data Services Librarian to support the Library’s data services and teaching program. The successful candidate will support Library users with their data- and computation-intensive research, and will serve as the Library’s expert on the lifecycle of social media data and as a leader of the campus Carpentry community.
+The Library is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching, and service.
+Reporting to the Director of the Collaboratory, the Data Services Librarian works individually and as part of the Collaboratory team of 3 FTE plus students to develop and deliver innovative services and programming that support data-centric research across the disciplines. Participates in an active instruction program, which includes leading Carpentry and other types of workshops, developing online learning objects, and conducting course-connected instruction. Provides consultation services for faculty, graduate students, and undergraduates in all Collaboratory areas, including but not limited to demographic, economic, and social media data. Supports extended project work with faculty researchers. Consults on scholarly communication issues, particularly with regard to appropriate use and stewardship of research data. Maintains active Software/Data Carpentry instructor certification (https://carpentries.org/). Creates and maintains online guides to specialized Library resources, including but not limited to Twitter data acquisition and analytics platforms, R, and Python data analytics.
+The Data Services Librarian assists end-users with accessing and using the Library’s data collections. Collection responsibilities include designing access protocols that conform to vendor requirements; assessment; and lifecycle management of data resources that support UCSB scholarship and teaching. Recognizing the unique strength of interdisciplinary scholarship on the UC Santa Barbara campus, the Data Services Librarian works collaboratively with librarians across the Library to develop scholarly collections and provide access to resources that cross traditional disciplinary boundaries and support new fields of inquiry.
+Salary commensurate with experience and qualifications. Salary information can be found at https://ap.ucsb.edu/compensation.and.benefits/ucsb.salary.scales/26B.pdf. Librarians at the University of California, Santa Barbara are professional academic appointees who accrue vacation at the rate of two days per month and sick leave at the rate of one day per month. The University has excellent retirement plans and a selection of group health, dental, vision, and life insurance plans. Benefits information can be found at https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html.
+The incumbent will be a member of the LX Collective Bargaining Unit represented by the American Federation of Teachers. Additional information can be found at https://ucnet.universityofcalifornia.edu/labor/bargaining-units/lx/index.html.
+Appointment or continued employment is contingent on successful completion of a background check.
+Department: https://www.library.ucsb.edu/
+QUALIFICATIONS
+Basic qualifications (required at time of application)
+ALA-accredited Master's degree in Library or Information Science, OR a graduate-level degree in a data-intensive discipline with at least one year relevant professional experience; and,
+At least one year experience with data analysis methods using R or Python demonstrated through undergraduate or advanced degree coursework, or work experience.
+Additional qualifications (required at time of start)
+At least one year experience in contemporary data services practices and techniques, including at least two of the following: web scraping, data visualization, Twitter harvesting and analysis, sentiment analysis, or text analysis; and,
+Excellent written communication skills as evidenced by submitted materials including the CV, Cover Letter, and optional but encouraged statements of diversity, and teaching.
+Preferred qualifications
+Academic background or knowledge of current data science methodologies demonstrated through undergraduate or advanced degree coursework, or work experience;
+Familiarity with current and emerging trends in data- and computationally-intense academic research as demonstrated through undergraduate or advanced degree coursework, or work experience;
+Three years’ experience working with data in a research setting;
+Demonstrated user focus and the ability to work effectively in a rapidly changing, technical, collaborative, and culturally diverse environment;
+Demonstrated commitment to achieving equity, diversity, and inclusion in the workplace and the community;
+Excellent interpersonal communication skills;
+Demonstrated experience with instructional design concepts, practices, and tools in an academic library setting; and,
+Current Software or Data Carpentry trainer certification.
+APPLICATION REQUIREMENTS
+Document requirements
+* Curriculum Vitae - Your most recently updated C.V.
+* Cover Letter
+* Statement of Contributions to Diversity - Statement addressing past and/or potential contributions to diversity through research, teaching, and/or service.
+(Optional)
+* Statement of Teaching (Optional)
+Reference requirements
+   * 2-4 required (contact information only)
+References will only be contacted for the finalist.
+Apply link: https://recruit.ap.ucsb.edu/JPF02059
+Help contact: rgeorge@ucsb.edu
+CAMPUS INFORMATION
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy https://policy.ucop.edu/doc/5000695/SARS-CoV-2_Covid-19. All Covered Individuals under the policy must provide proof of Full Vaccination or, if applicable, submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. New University of California employees must (a) provide proof of receiving at least one dose of a COVID-19 Vaccine no later than 14 calendar days after their first date of employment and provide proof of Full Vaccination no later than eight weeks after their first date of employment; or (b) if applicable, submit a request for Exception or Deferral no later than 14 calendar days after their first date of employment. (Capitalized terms in this paragraph are defined in the policy.) Federal, state, or local public health directives may impose additional requirements.
+JOB LOCATION
+Santa Barbara, CA

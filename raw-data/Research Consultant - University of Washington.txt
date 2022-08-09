@@ -1,0 +1,67 @@
+﻿RESEARCH CONSULTANT
+	
+
+Req #:
+	201747
+	Department:
+	ENVIRONMENTAL AND OCCUPATIONAL HEALTH
+	Job Location:
+	Seattle Campus
+	Posting Date:
+	01/24/2022 
+	Closing Info:
+	Open Until Filled 
+	Salary:
+	Salary is commensurate with education and experience. 
+	Shift:
+	First Shift 
+	
+
+	As a UW employee, you have a unique opportunity to change lives on our campuses, in our state and around the world. UW employees offer their boundless energy, creative problem solving skills and dedication to build stronger minds and a healthier world.
+
+
+UW faculty and staff also enjoy outstanding benefits, professional growth opportunities and unique resources in an environment noted for diversity, intellectual excitement, artistic pursuits and natural beauty.
+
+
+The Department of Environmental and Occupational Health Sciences, housed in the School of Public Health, is seeking a Research Consultant for the Air Pollution Health Effects Group.
+
+
+The Research Consultant will support an established research program’s management of an extensive established database of air quality measurements, geographic variables, air pollution exposure modeling outputs, and health data. The person in this position will be expected to carry out high quality, accurate work in a multi-faceted research environment where command of quantitative details is essential. The ideal candidate will be organized, flexible, and self-motivated with a desire to learn, good communication skills, and the ability to work and thrive in a diverse, multi-faceted academic research environment.
+
+
+Responsibilities include:
+
+
+Database development and management including writing processing code and documentation of procedures.
+Developing, quality checking, and distributing complex data sets to be used in epidemiological and spatial analyses.
+Under the guidance of experienced scientists, performing epidemiological and/or statistical analyses.
+Conducting research on new data management and data processing tools and ways to implement them
+Processing and manipulating various types of geographic data and air pollution measurement data
+Attending and contributing in regular data team and project meetings.
+
+As a UW employee, you will enjoy generous benefits and work/life programs. For a complete description of our benefits for this position, please visit our website, click here.
+
+Requirements:
+
+Bachelor’s Degree in computer science, statistics, biostatistics, geography, epidemiology, or related field and a minimum of two years’ professional experience developing code in R.  Other requirements include a demonstrated facility with analytic tasks, proper application of statistical methods, a strong quantitative aptitude, attention to detail, and the ability to interpret complex analytic information.
+
+Equivalent education/experience will substitute for all minimum qualifications except when there are legal requirements, such as a license/certification/registration.
+
+Preferred Qualifications:
+
+Master's Degree in computer science, statistics, biostatistics, geography, epidemiology, or related field and three years' professional experience developing code in R. Previous experience using, building, and/or maintaining MySQL and/or PostgreSQL databases of quantitative information, including experience with relational database design and normalization. Experience using collaborative software development tools such as Git. Demonstrated adoption of best practices for data management and software development in a production environment. Experience conducting sophisticated statistical analyses. Five or more years of experience with R, SAS, SQL, and/or Python. An interest in public health research including impacts of air pollution on health.
+
+Application Process:
+The application process for UW positions may include completion of a variety of online assessments to obtain additional information that will be used in the evaluation process.  These assessments may include Workforce Authorization, Cover Letter and/or others.  Any assessments that you need to complete will appear on your screen as soon as you select “Apply to this position”. Once you begin an assessment, it must be completed at that time; if you do not complete the assessment you will be prompted to do so the next time you access your “My Jobs” page. If you select to take it later, it will appear on your "My Jobs" page to take when you are ready. Please note that your application will not be reviewed, and you will not be considered for this position until all required assessments have been completed.
+	
+
+Applicants considered for this position will be required to disclose if they are the subject of any substantiated findings or current investigations related to sexual misconduct at their current employment and past employment. Disclosure is required under Washington state law.
+
+
+	Committed to attracting and retaining a diverse staff, the University of Washington will honor your experiences, perspectives and unique identity. Together, our community strives to create and maintain working and learning environments that are inclusive, equitable and welcoming.
+ The University of Washington is a leader in environmental stewardship & sustainability, and committed to becoming climate neutral. 
+The University of Washington is a leader in environmental stewardship & sustainability, and committed to becoming climate neutral.
+The University of Washington is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, protected veteran or disabled status, or genetic information.
+To request disability accommodation in the application process, contact the Disability Services Office at 206-543-6450 or dso@uw.edu.
+COVID-19 VACCINATION REQUIREMENT
+Governor Inslee's Proclamation 21-14.2 requires employees of higher education and healthcare institutions to be fully vaccinated against COVID-19 unless a medical or religious exemption is approved. Being fully vaccinated means that an individual is at least two weeks past their final dose of an authorized COVID-19 vaccine regimen. As a condition of employment, newly hired employees will be required to provide proof of their COVID-19 vaccination. View the Final candidate guide to COVID-19 vaccination requirement webpage for information about the medical or religious exemption process for final candidates.

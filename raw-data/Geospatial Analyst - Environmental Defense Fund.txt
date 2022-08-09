@@ -1,0 +1,34 @@
+﻿Geospatial Analyst
+With world attention on both the environment and the economy, Environmental Defense Fund (EDF) is where policymakers and business leaders turn for win-win solutions. By focusing on strong science, uncommon partnerships and market-based approaches, we tackle urgent threats with practical solutions. We are one of the world’s largest environmental organizations, with more than two million members and a staff of approximately 700 scientists, economists, policy experts, and other professionals around the world. We operate in 22 geographies with unique projects running across four programs. You will be part of a vibrant workplace where innovation and results are a way of life.
+EDF envisions a world in which people from all backgrounds and experiences feel connected to the environmental challenges we face and are engaged in creating durable, equitable solutions. We seek talented candidates who share our Core Values of Respect, Results, Innovation, Optimism, and Integrity, and support our Commitment to Diversity.  
+GEOSPATIAL ANALYST
+Variable or Remote (San Francisco, CA, Austin, TX, New York, NY, Washington, DC, Boston, MA, Boulder, CO)
+MethaneSAT, LLC, an affiliate of Environmental Defense Fund (EDF) is launching a high performance, purpose-built satellite—MethaneSAT—to map and measure oil and gas methane emissions worldwide, with the potential to assess emissions from the full range of man-made sources. The satellite will enable us to gather methane emissions data on a global scale and with data from other sources, locate and quantify these emissions. Data from MethaneSAT will help EDF reduce methane emissions by 45% by 2025 and holds the potential to help reduce the temperature of our planet by as much as 0.5 degrees C by the end of the century. This could be the most impactful environmental project yet conceived.
+Overall Function
+MethaneSAT, LLC is seeking a Geospatial Analyst with proven geospatial analytical and research skills in support of a major satellite mission to advance the development of source attribution of methane emissions from the global oil and gas sector using geospatial data and analytics. The Geospatial Analyst will be a key team member in the MethaneSAT team and will work closely with EDF’s Office of the Chief Scientist and EDF scientists, technologists and external partners from academia and industry on the development of a global oil and gas infrastructure database as well as source attribution studies and data analytics related to the MethaneSAT mission. The Geospatial Analyst will work on interdisciplinary projects at the intersection of large-scale datasets, geospatial analytics, remote sensing, and machine learning. This position will report to the Scientist in MethaneSAT, LLC and will work closely with other MethaneSAT, LLC staff, key contractors, partners, and EDF staff.
+Key responsibilities 
+Specific tasks will include, but are not limited to:
+* Compile, integrate, and analyze multiple and disparate spatial datasets, including publicly reported oil and gas data by governments and companies, high-resolution satellite imagery, and methane measuring satellite datasets to support the development of a global oil and gas infrastructure database.
+* Create automated geoprocessing workflows and conduct geospatial, statistical, and other advanced data analyses for EDF’s oil and gas infrastructure mapping and methane emission inventory projects and prepare data visualizations and reports of findings.
+* Ensure high degree of confidence in the projects’ data products including but not limited to developing and implementing QA/QC strategies regarding the oil and gas infrastructure database.
+* Support and manage key components of ongoing projects with internal and external partners, including from academia, industry, and research organizations.
+* Perform literature reviews as well as analyze and synthesize scientific/technical information on a variety of topics to support MethaneSAT project and related EDF activities.
+* Help develop reports, fact sheets, blog posts, and other materials for general and specific audiences on the topics of focus.
+* Work with a team of scientists and technologists to write up project results for staff, partners, donors, and peer-reviewed scientific journals.
+* Represent EDF in external meetings with a high degree of professionalism.
+* Support other “rapid response” and/or project development efforts on an as-needed basis.
+* Participate in advancing EDF DEI goals in which people from all backgrounds and experiences feel connected, included, and empowered to address the environmental and organizational challenges in alignment with EDF values.
+ Qualifications
+* Bachelor’s degree with 2 or more years of relevant experience or a Master’s degree in Geoinformation Science and Analytics, Geospatial Technologies, Earth Systems Science, Remote Sensing or in a related discipline.
+* Strong quantitative background in geospatial data analytics and tools (e.g., geostatistics, ArcGIS, QGIS).
+* Proficiency in programming languages (Python preferred).
+* Experience working with large geospatial and satellite datasets is highly desired.
+* Experience or strong interest in machine learning is a plus.
+* Background or strong interest in oil and gas sector and related methane mapping is highly desired.
+* Intellectual agility and comfort with working on a wide variety of environmental topics.
+* Excellent written and oral communication skills.
+* Comfortable with translating quantitative geospatial analytical information for non-specialist audiences.
+* Ability to work independently and support a multi-disciplinary team, using independent judgment to plan, prioritize, and organize a diverse workload in a fast-paced environment.
+* Demonstrates self-awareness, cultural competency and inclusivity, and ability to work with colleagues and stakeholders across diverse cultures and backgrounds.
+* Must be a US person (citizen, green card holder); MethaneSAT, LLC is unable to offer employer-based sponsorship for this role at this time
+Environmental Defense Fund is an equal opportunity employer where an applicant's qualifications are considered without regard to race, color, religion, sex, national origin, age, disability, veteran status, genetic information, sexual orientation, gender identity or expression, or any other basis prohibited by law.

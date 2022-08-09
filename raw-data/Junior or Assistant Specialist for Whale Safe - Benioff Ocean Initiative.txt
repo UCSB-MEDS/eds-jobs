@@ -1,0 +1,63 @@
+﻿POSITION OVERVIEW
+Position title: Junior or Assistant Specialist
+Percent time: 100%
+Anticipated start: Position start date is negotiable and ideally anticipated to start in March 2022.
+Position duration: The appointment is for one year from the start date with the possibility of reappointment, contingent upon performance and funding.
+APPLICATION WINDOW
+Open date: January 15th, 2022
+Next review date: Friday, Feb 11, 2022 at 11:59pm (Pacific Time)
+Apply by this date to ensure full consideration by the committee.
+Final date: Sunday, Jul 31, 2022 at 11:59pm (Pacific Time)
+Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
+POSITION DESCRIPTION
+The Benioff Ocean Initiative (www.boi.ucsb.edu) is an applied research center at the University of California Santa Barbara’s Marine Science Institute. The Benioff Ocean Initiative team works to leverage the power of marine science and technology to develop and implement tangible solutions to a wide range of ocean problems.
+The Benioff Ocean Initiative seeks a Junior or Assistant Specialist to provide research support for one of our flagship programs, Whale Safe, which uses state-of-the-art technology to collect, analyze, and disseminate near real-time whale and vessel data with the goal of preventing fatal whale-vessel collisions.
+The qualified individual will work closely with Benioff Ocean Initiative researchers in the implementation of the project’s research activities based at UC Santa Barbara.
+Principal duties will include:
+● Prepare, analyze, and visualize spatial ocean data, including vessel (Automatic Identification System) data and whale data from technologies such as near real-time acoustic monitoring instruments, visual sightings, and dynamic habitat models
+● Manage a database in data in Google Cloud Platform BigQuery, which may include but is not limited to using SQL and RStudio to create, update, and run scripts that process and analyze AIS data to create comprehensive vessel analytics
+● Communicate about research progress and findings with stakeholders and the public via social media, media outreach, newsletters, and blogs
+● Liaise with partners and stakeholders in research, government, and industry to share research outcomes and solicit stakeholder feedback
+● Explore and cultivate opportunities for project expansion and stakeholder engagement
+● Coordinate in-person and virtual meetings with multiple stakeholder groups
+● Assist with research tasks for other Benioff Ocean Initiative projects based on interest and need
+This appointment includes a competitive benefits package with medical, dental and vision insurance and a UC retirement plan. Salary is commensurate with the applicant’s qualifications and experience.
+Position open until filled.
+The University is especially interested in candidates who can contribute to the diversity and excellence of the academic community through research, teaching and service as appropriate to the position.
+Department: https://msi.ucsb.edu/
+QUALIFICATIONS
+Basic qualifications (required at time of application)
+A Bachelor's degree in a relevant field (environmental studies, marine science, ecology, biology, earth science, data science, or a related field) is required at the time of application.
+Additional qualifications (required at time of start)
+To be hired at the Assistant Specialist level, a Master's degree (or five years of experience demonstrating relevant expertise) in a relevant field (environmental studies, marine science, ecology, biology, earth science, data science, or a related field) is required at the time of appointment.
+Preferred qualifications
+● Data management, analysis, and visualization, including proficiency with one or more computational analytical tools, including but not limited to R Studio, ArcGIS, QGIS, and/or Tableau
+● Proficiency in one or more programming language including but not limited to R, Python, or SQL
+● Cloud computing, including experience with services such as Google Cloud Platform
+● Experience in science communications (newsletters, blogs, social media, traditional/news media, etc.)
+● Experience in stakeholder engagement, event planning, and/or meeting coordination
+● Strong verbal and written communication skills
+● Detail-oriented
+● Experience in website design, development and/or management
+● Experience in corporate sustainability
+● Experience in marine policy
+● Experience in marine mammal science and conservation
+● Experience in project management
+● One year of experience in marine mammal science or conservation, science communication and outreach, project management, or other relevant field by the time of appointment
+● Understanding and acceptance of diversity, equity and inclusion in the workplace
+APPLICATION REQUIREMENTS
+Document requirements
+* Curriculum Vitae - Your most recently updated C.V.
+* Cover Letter - ​Please include a description of research
+* Statement of Research, Interests and Diversity Contributions - Please provide an optional statement addressing contributions past and/or potential contributions to diversity through research, teaching, and/or service. The statement, if included, will be reviewed for evidence of research, professional and/or public service contributions that promote diversity, equal opportunity and equitable access.​​
+(Optional)
+Reference requirements
+   * 3 required (contact information only)
+The search committee may contact references of the top candidate(s) after the interviews.
+Apply link: https://recruit.ap.ucsb.edu/JPF02168
+Help contact: lswanson@ucsb.edu
+CAMPUS INFORMATION
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+As a condition of employment, you will be required to comply with the University of California SARS-CoV-2 (COVID-19) Vaccination Program Policy https://policy.ucop.edu/doc/5000695/SARS-CoV-2_Covid-19. All Covered Individuals under the policy must provide proof of Full Vaccination or, if applicable, submit a request for Exception (based on Medical Exemption, Disability, and/or Religious Objection) or Deferral (based on pregnancy) no later than the applicable deadline. New University of California employees must (a) provide proof of receiving at least one dose of a COVID-19 Vaccine no later than 14 calendar days after their first date of employment and provide proof of Full Vaccination no later than eight weeks after their first date of employment; or (b) if applicable, submit a request for Exception or Deferral no later than 14 calendar days after their first date of employment. (Capitalized terms in this paragraph are defined in the policy.) Federal, state, or local public health directives may impose additional requirements.
+JOB LOCATION
+Santa Barbara, CA

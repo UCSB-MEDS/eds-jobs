@@ -1,0 +1,114 @@
+﻿SCIENTIFIC PROGRAMMER AND EDUCATOR
+	Posting Number
+	req8094
+	Department
+	Communications & Cyber Tech
+	Department Website Link
+	https://cals.arizona.edu/
+	Location
+	Main Campus
+	Address
+	Tucson, AZ USA
+	Position Highlights
+	The Data Science Institute and the University of Arizona College of Agriculture and Life Sciences Data Science team have two openings for a scientific software engineer and educator. The ideal candidate is either a domain scientist with software and programming experience or a software engineer with experience applying computational and statistical methods to support scientific research.
+The incumbents will split time between providing support on research projects and offering training across campus. With multiple openings, we are hoping to find two with complimentary experience and skills.
+The education component of the position will develop, enhance and expand the Data Science Institute’s capabilities to develop curriculum and provide just-in-time training, workshops, consultation and support for students, faculty and staff wanting to learn foundational tools and concepts of data science and reproducible computational science. This will include broad collaboration across the data science community, including with other campus partners and trainers related to computational science and data science.
+The research component of the position will directly support research projects across the College of Agriculture and Life Sciences, Cooperative Extension, and Experiment Station. They will be expected to conduct and communicate reproducible research, data management, and analysis.
+Outstanding UA benefits include health, dental, and vision insurance plans; life insurance and disability programs; paid vacation, sick leave, and holidays; UA/ASU/NAU tuition reduction for the employee and qualified family members; state and optional retirement plans; access to UA recreation and cultural activities; and more!
+The University of Arizona has been recognized for our innovative work-life programs. For more information about working at the University of Arizona and relocations services, please click here.
+	Duties & Responsibilities
+	The positions will be split approximately 50:50 between research and education.
+
+
+Building computational and data science capacity:
+●Develop and deliver workshops and related training materials on computational science and data science. Workshop topics may include but are not limited to computational notebooks, tools for reproducible computing, statistics, remote sensing, machine learning, visualization, and data management.
+●Work with campus partners and other trainers in delivery of workshops and training materials related to data science.
+●Participate with and offer trainings for programs such as the Data Science Ambassadors, Roots for Resilience Graduate Fellowship and the Data Science Fellows programs.
+●Use and follow best practices in developing training materials, scientific computing, data and code management, documentation and digital forms of communication.
+Research
+●Enable research in the College of Agriculture and Life Sciences, Cooperative Extension, and Experiment Station.
+●Develop and lead 'incubator' projects with researchers across campus.
+●Provide computational, statistical, and domain expertise for larger, externally funded projects. Possible scientific domain knowledge include: earth and environmental sciences, agriculture, or ecophysiology.
+●The incumbent will have flexibility to work on a variety of other projects across the College of Agriculture and Life Sciences, Experiment Station, and Cooperative Extension. You can learn more about our group at datascience.cals.arizona.edu.
+Outreach
+●Engage and interact with campus collaborators and related professional organizations; represent the Data Science Institute at workshops, meetings and conferences.
+●Contribute to University of Arizona data science community events such as Coffee & Code, Hacky Hour, Women in Data Science, RezBaz, and Machine Learning Literacy Project events.
+
+
+General Duties:
+●Develop analytical pipelines
+●Work with researchers to enable new computational methods
+●Meet regularly with group members and collaborators
+●Work in an iterative, agile environment
+
+
+Examples of Project Responsibilities:
+●Run ecological models using the PEcAn framework
+●Develop reproducible analyses and scalable workflows
+●Develop and apply statistical models
+●Develop, refactor, test, and document scientific R packages, Python libraries
+●Create and improve visualizations and interpretation of results
+●Curate and manage data
+●Develop APIs, Dashboards, and other custom software
+	Minimum Qualifications
+	●Master’s degree required.
+●Experience in scientific software development.
+●Proficiency in R or Python.
+●Experience with version control
+●Experience with cloud and / or cluster computing.
+●Experience teaching computational skills.
+●Demonstrated ability to work collaboratively in a team.
+	Preferred Qualifications
+	PhD in a related field. Experience with Bayesian analysis, data management, scientific publishing, project management, containers, testing, remote sensing, R package, or Python library development.
+Possible scientific domain knowledge include: earth and environmental sciences, agriculture, or ecophysiology.
+	FLSA
+	Exempt
+	Full Time/Part Time
+	Full Time
+	Number of Hours Worked per Week
+	40
+	Job FTE
+	1.00
+	Work Calendar
+	Fiscal
+	Job Category
+	Research
+	Benefits Eligible
+	Yes - Full Benefits
+	Rate of Pay
+	55000 - 70000
+	Compensation Type
+	salary at 1.0 full-time equivalency (FTE)
+	Grade
+	9
+	Career Stream and Level
+	PC3
+	Job Family
+	Research & Data Analysis
+	Job Function
+	Research
+	Type of criminal background check required:
+	Name-based criminal background check (non-security sensitive)
+	Number of Vacancies
+	2
+	Target Hire Date
+	1/17/2022
+	Expected End Date
+	
+
+	Contact Information for Candidates
+	David LeBauer
+dlebauer@email.arizona.edu
+Communications & Cyber Tech Director, Data Sciences
+Search Committee Chair
+	Open Date
+	12/17/2021
+	Open Until Filled
+	Yes
+	Documents Needed to Apply
+	Resume and Cover Letter
+	Special Instructions to Applicant
+	
+
+	Diversity Statement
+	At the University of Arizona, we value our inclusive climate because we know that diversity in experiences and perspectives is vital to advancing innovation, critical thinking, solving complex problems, and creating an inclusive academic community. As an Hispanic-serving institution, we translate these values into action by seeking individuals who have experience and expertise working with diverse students, colleagues, and constituencies. Because we seek a workforce with a wide range of perspectives and experiences, we provide equal employment opportunities to applicants and employees without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity, or genetic information. As an Employer of National Service, we also welcome alumni of AmeriCorps, Peace Corps, and other national service programs and others who will help us advance our Inclusive Excellence initiative aimed at creating a university that values student, staff and faculty engagement in addressing issues of diversity and inclusiveness.
