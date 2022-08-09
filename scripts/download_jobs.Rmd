@@ -20,9 +20,10 @@ library(ggwordcloud)
 ```{r}
 
 #list all google docs in the jobs folder
-jobs <- drive_ls("https://drive.google.com/drive/u/0/folders/1MMeiTL6C_AlJVkM6No8OQKzDzYFkY5GW")
+jobs <- drive_ls("https://drive.google.com/drive/u/0/folders/1MMeiTL6C_AlJVkM6No8OQKzDzYFkY5GW") %>%
+  arrange(name)
 
-for (i in 31:nrow(jobs)){
+for (i in 1:nrow(jobs)){
   print(i)
   
   job <- jobs[i,]$name
